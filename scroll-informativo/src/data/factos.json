@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "f1",
+    "categoria": "programacao",
+    "titulo": "A Primeira Programadora",
+    "conteudo": "Ada Lovelace é considerada a primeira programadora do mundo. Ela escreveu o primeiro algoritmo para uma máquina de computação em 1843, muito antes de existirem computadores."
+  },
+  {
+    "id": "f2",
+    "categoria": "programacao",
+    "titulo": "O que é o Git?",
+    "conteudo": "Imagina que o Git é uma 'máquina do tempo' para o teu código. Ele guarda o histórico de todas as alterações que fazes, permitindo-te voltar atrás se cometeres um erro grave."
+  },
+  {
+    "id": "f3",
+    "categoria": "programacao",
+    "titulo": "A Linguagem mais Popular",
+    "conteudo": "O JavaScript é a linguagem de programação mais usada no mundo porque é a única que os navegadores (como o Chrome) entendem nativamente para tornar os sites interativos."
+  },
+  {
+    "id": "f4",
+    "categoria": "produtividade",
+    "titulo": "A Regra dos 5 Minutos",
+    "conteudo": "Se estás a procrastinar, promete a ti mesmo fazer a tarefa apenas durante 5 minutos. A parte mais difícil é começar; depois de 5 minutos, a inércia desaparece e acabas por continuar."
+  },
+  {
+    "id": "f5",
+    "categoria": "produtividade",
+    "titulo": "A Lei de Parkinson",
+    "conteudo": "O trabalho expande-se para preencher o tempo que lhe dás. Se tiveres uma semana para fazer um relatório, demoras uma semana. Se tiveres um dia, fazes num dia."
+  },
+  {
+    "id": "f6",
+    "categoria": "ciencia",
+    "titulo": "O Sol é Branco",
+    "conteudo": "O nosso sol não é amarelo. Ele emite todas as cores do arco-íris misturadas, o que resulta na cor branca. Parece amarelo da Terra por causa da nossa atmosfera."
+  },
+  {
+    "id": "f7",
+    "categoria": "ciencia",
+    "titulo": "Vidro é um Líquido?",
+    "conteudo": "É um mito que o vidro dos vitrais antigos escorre com o tempo. O vidro é um sólido amorfo e não flui à temperatura ambiente."
+  },
+  {
+    "id": "f8",
+    "categoria": "historia",
+    "titulo": "As Pirâmides são mais velhas",
+    "conteudo": "Cleópatra viveu mais perto do lançamento do primeiro iPhone (2007) do que da construção da Grande Pirâmide de Gizé."
+  },
+  {
+    "id": "f9",
+    "categoria": "historia",
+    "titulo": "Os Gladiadores eram Vegetarianos",
+    "conteudo": "Análises aos ossos de gladiadores romanos revelaram que eles tinham uma dieta baseada em cevada e feijão, sendo chamados de 'comedores de cevada'."
+  },
+  {
+    "id": "f10",
+    "categoria": "espaco",
+    "titulo": "Planeta de Diamante",
+    "conteudo": "Existe um exoplaneta chamado '55 Cancri e' que tem o dobro do tamanho da Terra e é constituído por um terço de diamante puro devido à imensa pressão e calor."
+  },
+  {
+    "id": "f11",
+    "categoria": "espaco",
+    "titulo": "O dia mais longo",
+    "conteudo": "Um dia em Vénus (uma rotação sobre si mesmo) demora mais tempo do que um ano em Vénus (uma volta ao redor do Sol)."
+  },
+  {
+    "id": "f12",
+    "categoria": "biologia",
+    "titulo": "Cérebros de Pássaro",
+    "conteudo": "Chamar 'cérebro de pássaro' a alguém é um elogio. Os corvos conseguem resolver puzzles complexos e lembram-se de rostos humanos específicos durante anos."
+  },
+  {
+    "id": "f13",
+    "categoria": "biologia",
+    "titulo": "O ADN das Bananas",
+    "conteudo": "Partilhamos cerca de 60% do nosso ADN com as bananas. A vida na Terra tem toda uma raiz comum muito profunda."
+  },
+  {
+    "id": "f14",
+    "categoria": "saude",
+    "titulo": "Febre é Defesa",
+    "conteudo": "A febre não é a doença em si, é o teu corpo a aquecer intencionalmente para criar um ambiente hostil e matar bactérias e vírus invasores."
+  },
+  {
+    "id": "f15",
+    "categoria": "saude",
+    "titulo": "Onde vai a Gordura?",
+    "conteudo": "Quando perdes peso, a gordura não se transforma em energia mágica. Ela é convertida em dióxido de carbono e água. Tu literalmente expiras a gordura que perdes."
+  },
+  {
+    "id": "f16",
+    "categoria": "psicologia",
+    "titulo": "O Efeito Dunning-Kruger",
+    "conteudo": "Pessoas com pouco conhecimento sobre um tema tendem a sobrestimar muito a sua inteligência, enquanto os verdadeiros especialistas tendem a ser mais humildes."
+  },
+  {
+    "id": "f17",
+    "categoria": "psicologia",
+    "titulo": "Paralisia da Escolha",
+    "conteudo": "Quando um restaurante tem um menu com 100 pratos, o cliente fica stressado e demora mais a escolher. Limitar opções aumenta a satisfação."
+  },
+  {
+    "id": "f18",
+    "categoria": "financas",
+    "titulo": "A Inflação",
+    "conteudo": "A inflação é o ladrão invisível. Se deixares 100 euros debaixo do colchão durante 10 anos, eles continuam a ser 100 euros, mas compram muito menos coisas."
+  },
+  {
+    "id": "f19",
+    "categoria": "financas",
+    "titulo": "Ativo vs Passivo",
+    "conteudo": "Um ativo põe dinheiro no teu bolso (ex: uma casa alugada). Um passivo tira dinheiro do teu bolso (ex: um carro de luxo). A riqueza constrói-se comprando ativos."
+  },
+  {
+    "id": "f20",
+    "categoria": "culinaria",
+    "titulo": "O Pimento Picante",
+    "conteudo": "O picante não é um sabor, é dor. A capsaicina nas malaguetas engana os recetores de temperatura da tua língua, fazendo-te achar que a boca está a arder."
+  },
+  {
+    "id": "f21",
+    "categoria": "culinaria",
+    "titulo": "Mel nunca se estraga",
+    "conteudo": "O mel tem uma química tão única que não ganha bactérias. Arqueólogos já comeram mel encontrado em túmulos egípcios com 3000 anos e estava perfeito."
+  },
+  {
+    "id": "f22",
+    "categoria": "geografia",
+    "titulo": "Rússia e Plutão",
+    "conteudo": "A Rússia tem uma área de superfície total ligeiramente maior do que todo o 'planeta anão' Plutão."
+  },
+  {
+    "id": "f23",
+    "categoria": "geografia",
+    "titulo": "Monte Everest",
+    "conteudo": "O Monte Everest cresce cerca de 4 milímetros por ano devido à pressão das placas tectónicas da Índia contra a Ásia."
+  },
+  {
+    "id": "f24",
+    "categoria": "artes",
+    "titulo": "Van Gogh não vendeu",
+    "conteudo": "Apesar de hoje os seus quadros valerem milhões, Vincent Van Gogh vendeu apenas um quadro durante toda a sua vida e morreu a achar-se um fracasso."
+  },
+  {
+    "id": "f25",
+    "categoria": "musica",
+    "titulo": "Música para Plantas",
+    "conteudo": "As plantas não têm ouvidos, mas sentem as vibrações das frequências sonoras. Alguns estudos mostram que certas frequências ajudam as raízes a crescer mais rápido."
+  },
+  {
+    "id": "f26",
+    "categoria": "cinema",
+    "titulo": "Os Trailers de Filmes",
+    "conteudo": "Os 'Trailers' chamam-se assim porque antigamente eram exibidos no fim (no rasto) do filme. Como ninguém ficava para ver, passaram-nos para o início."
+  },
+  {
+    "id": "f27",
+    "categoria": "literatura",
+    "titulo": "A Palavra mais longa",
+    "conteudo": "O termo técnico para o medo de palavras longas é 'Hipopotomonstrosesquipedaliofobia'. Sim, é uma piada cruel dos cientistas."
+  },
+  {
+    "id": "f28",
+    "categoria": "tecnologia",
+    "titulo": "O primeiro Domínio",
+    "conteudo": "O primeiro nome de domínio .com a ser registado na internet foi 'symbolics.com', no dia 15 de março de 1985."
+  },
+  {
+    "id": "f29",
+    "categoria": "tecnologia",
+    "titulo": "A Cloud é o Mar",
+    "conteudo": "A 'Nuvem' (Cloud) não está no céu. Mais de 95% do tráfego mundial da internet viaja através de grossos cabos de fibra ótica deitados no fundo do oceano."
+  },
+  {
+    "id": "f30",
+    "categoria": "sustentabilidade",
+    "titulo": "Poluição Luminosa",
+    "conteudo": "Há tanta luz artificial nas cidades que cerca de 80% das pessoas no mundo já não conseguem ver a Via Láctea no céu noturno."
+  },
+  {
+    "id": "f31",
+    "categoria": "design",
+    "titulo": "A Cor Azul",
+    "conteudo": "A maioria das redes sociais (Facebook, Twitter, LinkedIn) usa a cor azul porque na psicologia das cores, o azul transmite confiança e segurança."
+  },
+  {
+    "id": "f32",
+    "categoria": "curiosidades",
+    "titulo": "Os Porcos não suam",
+    "conteudo": "Os porcos não têm glândulas sudoríparas. É por isso que eles rebolam na lama, é a única forma que têm de arrefecer o corpo nos dias de calor."
+  },
+  {
+    "id": "f33",
+    "categoria": "natureza",
+    "titulo": "As Árvores Falam",
+    "conteudo": "As árvores comunicam entre si através de uma rede de fungos no solo chamada 'Wood Wide Web', trocando nutrientes e avisando sobre pragas."
+  },
+  {
+    "id": "f34",
+    "categoria": "natureza",
+    "titulo": "Tubarões vs Árvores",
+    "conteudo": "Os tubarões são mais antigos que as árvores. Os primeiros tubarões apareceram há 400 milhões de anos, enquanto as primeiras árvores surgiram há 350 milhões."
+  },
+  {
+    "id": "f35",
+    "categoria": "programacao",
+    "titulo": "Comentários no Código",
+    "conteudo": "Os comentários não servem para explicar 'O QUE' o teu código faz (o código deve ser claro o suficiente para isso). Servem para explicar 'PORQUE' o fizeste."
+  },
+  {
+    "id": "f36",
+    "categoria": "produtividade",
+    "titulo": "A Matriz de Impacto",
+    "conteudo": "Antes de começares a trabalhar, avalia: esta tarefa exige pouco esforço e traz muito impacto? Então deve ser a tua prioridade número um."
+  },
+  {
+    "id": "f37",
+    "categoria": "ciencia",
+    "titulo": "Gravidade não existe?",
+    "conteudo": "Para Einstein, a gravidade não é uma força magnética que puxa. É a curvatura do espaço e do tempo causada pela massa dos planetas."
+  },
+  {
+    "id": "f38",
+    "categoria": "historia",
+    "titulo": "O Império de Papel",
+    "conteudo": "O papel-moeda foi usado pela primeira vez na China no século XI, séculos antes de a Europa adotar as notas de banco."
+  },
+  {
+    "id": "f39",
+    "categoria": "espaco",
+    "titulo": "Chuva de Vidro",
+    "conteudo": "No planeta HD 189733b, os ventos chegam a 8.700 km/h e chove vidro de forma horizontal. Um ambiente de pesadelo absoluto."
+  },
+  {
+    "id": "f40",
+    "categoria": "biologia",
+    "titulo": "O Animal mais letal",
+    "conteudo": "O animal que mais mata humanos por ano não é o leão nem o tubarão. É o mosquito, responsável pela transmissão de doenças fatais."
+  },
+  {
+    "id": "f41",
+    "categoria": "saude",
+    "titulo": "Açúcar e Vício",
+    "conteudo": "O açúcar ativa exatamente as mesmas zonas de recompensa no nosso cérebro que algumas drogas pesadas, o que explica por que é tão difícil parar de comer doces."
+  },
+  {
+    "id": "f42",
+    "categoria": "psicologia",
+    "titulo": "Viés de Confirmação",
+    "conteudo": "O nosso cérebro odeia estar errado. Por isso, prestamos mais atenção a informações que confirmam as nossas crenças e ignoramos factos que as contrariam."
+  },
+  {
+    "id": "f43",
+    "categoria": "financas",
+    "titulo": "O Fundo de Emergência",
+    "conteudo": "Antes de começares a investir na bolsa, deves ter dinheiro guardado num banco equivalente a 6 meses das tuas despesas básicas para emergências."
+  },
+  {
+    "id": "f44",
+    "categoria": "culinaria",
+    "titulo": "Água a ferver congela",
+    "conteudo": "O Efeito Mpemba é um fenómeno físico estranho onde a água quente congela mais depressa do que a água fria sob certas condições."
+  },
+  {
+    "id": "f45",
+    "categoria": "geografia",
+    "titulo": "O Oceano Inexplorado",
+    "conteudo": "Temos mapas melhores da superfície de Marte do que do fundo dos nossos próprios oceanos. Exploramos menos de 10% do leito marinho."
+  },
+  {
+    "id": "f46",
+    "categoria": "artes",
+    "titulo": "Cores Proibidas",
+    "conteudo": "O pintor Anish Kapoor tem o direito exclusivo de usar o 'Vantablack', o preto mais escuro do mundo. Outros artistas estão proibidos de o usar."
+  },
+  {
+    "id": "f47",
+    "categoria": "musica",
+    "titulo": "O Metrónomo",
+    "conteudo": "Ludwig van Beethoven foi o primeiro grande compositor a usar o metrónomo e a escrever o tempo exato nas suas partituras musicais."
+  },
+  {
+    "id": "f48",
+    "categoria": "cinema",
+    "titulo": "Os Óscares da Disney",
+    "conteudo": "Walt Disney ganhou 22 Óscares competitivos durante a sua vida, sendo até hoje a pessoa mais premiada da história da Academia."
+  },
+  {
+    "id": "f49",
+    "categoria": "literatura",
+    "titulo": "A Máquina de Escrever",
+    "conteudo": "Mark Twain foi o primeiro autor famoso a submeter o manuscrito de um livro inteiramente digitado numa máquina de escrever."
+  },
+  {
+    "id": "f50",
+    "categoria": "tecnologia",
+    "titulo": "O Bug do Milénio (Y2K)",
+    "conteudo": "No ano 2000, temia-se que os sistemas bloqueassem porque guardavam anos apenas com 2 dígitos (ex: '99'). Não foi um mito, custou biliões a corrigir a tempo."
+  },
+  {
+    "id": "f51",
+    "categoria": "sustentabilidade",
+    "titulo": "Roupa Descartável",
+    "conteudo": "A indústria da 'Fast Fashion' é a segunda mais poluente do mundo. Para fazer uma única t-shirt de algodão são precisos cerca de 2.700 litros de água."
+  },
+  {
+    "id": "f52",
+    "categoria": "design",
+    "titulo": "O Espaço em Branco",
+    "conteudo": "Em design gráfico, o 'espaço negativo' ou em branco não é espaço perdido. É o que dá respiração aos elementos e guia o olho do leitor."
+  },
+  {
+    "id": "f53",
+    "categoria": "curiosidades",
+    "titulo": "Morangos não são Bagas",
+    "conteudo": "Em termos botânicos, as bananas, as melancias e as abóboras são consideradas bagas, mas os morangos e as framboesas não."
+  },
+  {
+    "id": "f54",
+    "categoria": "natureza",
+    "titulo": "A Imortalidade",
+    "conteudo": "A água-viva 'Turritopsis dohrnii' é biologicamente imortal. Quando fica velha ou doente, consegue reverter o seu corpo de volta à fase de bebé."
+  },
+  {
+    "id": "f55",
+    "categoria": "programacao",
+    "titulo": "A Tecla Esc",
+    "conteudo": "A tecla Escape foi inventada em 1960 para permitir que os programadores interrompessem rapidamente códigos que entravam em loops infinitos."
+  },
+  {
+    "id": "f56",
+    "categoria": "produtividade",
+    "titulo": "Técnica Pomodoro",
+    "conteudo": "O inventor do Pomodoro usava um temporizador de cozinha em forma de tomate. A ideia é focar 25 minutos sem interrupções, porque é o limite de atenção máxima."
+  },
+  {
+    "id": "f57",
+    "categoria": "ciencia",
+    "titulo": "O peso das Nuvens",
+    "conteudo": "Uma nuvem fofa de bom tempo pode pesar cerca de 500.000 quilos, o equivalente a 100 elefantes a flutuar sobre a tua cabeça."
+  },
+  {
+    "id": "f58",
+    "categoria": "historia",
+    "titulo": "A Biblioteca Queimada",
+    "conteudo": "A queima da Biblioteca de Alexandria atrasou a ciência em séculos. Perderam-se pergaminhos sobre engenharia a vapor que só foi reinventada na Revolução Industrial."
+  },
+  {
+    "id": "f59",
+    "categoria": "espaco",
+    "titulo": "As pegadas lunares",
+    "conteudo": "Como não há vento nem água na Lua, as pegadas deixadas pelos astronautas da Apollo vão durar pelo menos 100 milhões de anos."
+  },
+  {
+    "id": "f60",
+    "categoria": "biologia",
+    "titulo": "A Velocidade do Nervo",
+    "conteudo": "Os impulsos nervosos do teu cérebro para os teus músculos viajam a uma velocidade surpreendente de 430 km/h."
+  },
+  {
+    "id": "f61",
+    "categoria": "programacao",
+    "titulo": "O que é o Open Source?",
+    "conteudo": "É software cujo código é público. Qualquer pessoa pode ver, modificar e distribuir, permitindo que a tecnologia evolua através da colaboração global."
+  },
+  {
+    "id": "f62",
+    "categoria": "produtividade",
+    "titulo": "Trabalho Profundo (Deep Work)",
+    "conteudo": "É a capacidade de focar sem distração numa tarefa cognitivamente exigente. 1 hora de foco total vale mais que 4 horas de trabalho interrompido por notificações."
+  },
+  {
+    "id": "f63",
+    "categoria": "ciencia",
+    "titulo": "O Oxigénio da Terra",
+    "conteudo": "A maioria do oxigénio que respiramos não vem das florestas, mas sim do oceano. O fitoplâncton marinho produz entre 50% a 80% do oxigénio mundial."
+  },
+  {
+    "id": "f64",
+    "categoria": "historia",
+    "titulo": "Viking não usavam chifres",
+    "conteudo": "Não há evidências de que os capacetes vikings tivessem chifres. Essa imagem foi inventada por figurinistas de óperas no século XIX."
+  },
+  {
+    "id": "f65",
+    "categoria": "espaco",
+    "titulo": "O Planeta que chove Ferro",
+    "conteudo": "Em WASP-76b, as temperaturas são tão altas que o ferro evapora durante o dia e condensa à noite, caindo literalmente como chuva de ferro líquido."
+  },
+  {
+    "id": "f66",
+    "categoria": "biologia",
+    "titulo": "O Suor dos Hipopótamos",
+    "conteudo": "Os hipopótamos produzem um líquido avermelhado que parece sangue, mas é um protetor solar e antibiótico natural que eles próprios fabricam."
+  },
+  {
+    "id": "f67",
+    "categoria": "saude",
+    "titulo": "A Hidratação e o Cérebro",
+    "conteudo": "O teu cérebro é cerca de 75% água. Uma desidratação de apenas 2% já prejudica a tua memória de curto prazo e a tua atenção."
+  },
+  {
+    "id": "f68",
+    "categoria": "psicologia",
+    "titulo": "O Efeito de Grupo",
+    "conteudo": "Numa emergência, se estiveres rodeado de muita gente, a probabilidade de alguém te ajudar diminui porque todos acham que 'outra pessoa o fará'."
+  },
+  {
+    "id": "f69",
+    "categoria": "financas",
+    "titulo": "A Regra dos 50/30/20",
+    "conteudo": "Um guia simples para o teu salário: 50% para necessidades básicas, 30% para desejos pessoais e 20% para poupança ou investimento."
+  },
+  {
+    "id": "f70",
+    "categoria": "culinaria",
+    "titulo": "Sal na Água da Massa",
+    "conteudo": "O sal não serve para a água ferver mais depressa (a diferença é mínima). Serve para temperar a massa de dentro para fora enquanto ela absorve a água."
+  },
+  {
+    "id": "f71",
+    "categoria": "geografia",
+    "titulo": "O Ponto Nemo",
+    "conteudo": "É o local no oceano mais distante de qualquer terra firme. Por vezes, os humanos mais próximos das pessoas que lá passam são os astronautas na Estação Espacial."
+  },
+  {
+    "id": "f72",
+    "categoria": "artes",
+    "titulo": "As Estátuas eram Coloridas",
+    "conteudo": "As estátuas de mármore branco da Grécia Antiga eram originalmente pintadas com cores vivas e berrantes que desapareceram com o tempo."
+  },
+  {
+    "id": "f73",
+    "categoria": "musica",
+    "titulo": "O Som do Espaço",
+    "conteudo": "A NASA gravou emissões de rádio de planetas e converteu-as em som. O som de Saturno parece um vento assustador de um filme de terror."
+  },
+  {
+    "id": "f74",
+    "categoria": "cinema",
+    "titulo": "O Grito Wilhelm",
+    "conteudo": "É um efeito sonoro de um grito usado em mais de 400 filmes (Star Wars, Indiana Jones). Começou como uma piada interna entre editores de som."
+  },
+  {
+    "id": "f75",
+    "categoria": "literatura",
+    "titulo": "O nome 'Google'",
+    "conteudo": "Vem do termo matemático 'Googol', que é o número 1 seguido de 100 zeros. Foi escolhido para representar a organização de uma quantidade infinita de dados."
+  },
+  {
+    "id": "f76",
+    "categoria": "tecnologia",
+    "titulo": "A Primeira Webcam",
+    "conteudo": "Foi inventada em Cambridge para que os investigadores não tivessem de ir até à cozinha ver se a cafeteira tinha café ou se estava vazia."
+  },
+  {
+    "id": "f77",
+    "categoria": "inteligenciartificial",
+    "titulo": "O Teste de Turing",
+    "conteudo": "É um teste para ver se uma máquina consegue exibir comportamento inteligente equivalente ao de um humano, ao ponto de um observador não conseguir distinguir."
+  },
+  {
+    "id": "f78",
+    "categoria": "sustentabilidade",
+    "titulo": "Lavar Loiça à Mão",
+    "conteudo": "Uma máquina de lavar loiça moderna e cheia gasta cerca de 10 vezes menos água do que se lavasses a mesma quantidade de loiça à mão na pia."
+  },
+  {
+    "id": "f79",
+    "categoria": "design",
+    "titulo": "Psicologia do Círculo",
+    "conteudo": "Formas arredondadas e círculos transmitem mensagens emocionais positivas de unidade, proteção e comunidade, ao contrário de quadrados que transmitem estabilidade."
+  },
+  {
+    "id": "f80",
+    "categoria": "marketing",
+    "titulo": "Preços que terminam em 9",
+    "conteudo": "Lemos da esquerda para a direita. O nosso cérebro processa o '4' em '4.99' antes dos cêntimos, fazendo-nos sentir que o produto custa 4 e não 5."
+  },
+  {
+    "id": "f81",
+    "categoria": "empreendedorismo",
+    "titulo": "O Valor da Execução",
+    "conteudo": "Uma ideia medíocre bem executada vale mais do que uma ideia genial que nunca saiu do papel. O mercado paga pela solução, não pelo pensamento."
+  },
+  {
+    "id": "f82",
+    "categoria": "idiomas",
+    "titulo": "Línguas Mortas",
+    "conteudo": "Uma língua é considerada morta quando não tem mais falantes nativos (como o Latim), mas continua a ser usada em contextos académicos ou religiosos."
+  },
+  {
+    "id": "f83",
+    "categoria": "mitologia",
+    "titulo": "A Caixa de Pandora",
+    "conteudo": "Na história original grega, não era uma caixa, mas sim um jarro de cerâmica. Foi um erro de tradução no século XVI que mudou para 'caixa'."
+  },
+  {
+    "id": "f84",
+    "categoria": "filosofia",
+    "titulo": "Niilismo",
+    "conteudo": "É a crença de que a vida não tem um sentido intrínseco. Para muitos, isto é libertador: se nada importa, és livre para criar o teu próprio sentido."
+  },
+  {
+    "id": "f85",
+    "categoria": "desporto",
+    "titulo": "Maratona",
+    "conteudo": "O nome vem da lenda do soldado grego Fidípides, que correu da cidade de Maratona até Atenas para anunciar a vitória na guerra, morrendo de exaustão logo a seguir."
+  },
+  {
+    "id": "f86",
+    "categoria": "nutricao",
+    "titulo": "A Cor das Frutas",
+    "conteudo": "Frutas de cores diferentes oferecem nutrientes diferentes. O roxo (mirtilos) ajuda a memória; o laranja (cenoura) ajuda a visão."
+  },
+  {
+    "id": "f87",
+    "categoria": "arquitetura",
+    "titulo": "Arranha-céus que abanam",
+    "conteudo": "Edifícios muito altos são desenhados para oscilar vários centímetros com o vento. Se fossem totalmente rígidos, quebrariam sob a pressão."
+  },
+  {
+    "id": "f88",
+    "categoria": "fotografia",
+    "titulo": "Hora Dourada",
+    "conteudo": "É a primeira hora após o nascer do sol e a última antes do pôr do sol. A luz é mais suave e avermelhada, perfeita para fotos profissionais."
+  },
+  {
+    "id": "f89",
+    "categoria": "curiosidades",
+    "titulo": "O Isqueiro vs Fósforo",
+    "conteudo": "O isqueiro foi inventado antes do fósforo de fricção. O primeiro isqueiro surgiu em 1823; o primeiro fósforo em 1826."
+  },
+  {
+    "id": "f90",
+    "categoria": "sobrevivencia",
+    "titulo": "Água com Neve",
+    "conteudo": "Nunca comas neve para te hidratar. O teu corpo gasta tanta energia (calor) a derretê-la que podes entrar em hipotermia rapidamente."
+  },
+  {
+    "id": "f91",
+    "categoria": "programacao",
+    "titulo": "O que é o Backend?",
+    "conteudo": "É a parte do site que o utilizador não vê. É como a cozinha de um restaurante: onde os dados são processados e a lógica é executada."
+  },
+  {
+    "id": "f92",
+    "categoria": "produtividade",
+    "titulo": "Sono Polifásico",
+    "conteudo": "Alguns génios como Leonardo da Vinci dormiam 20 minutos de 4 em 4 horas. É extremamente difícil para humanos comuns manter este ritmo."
+  },
+  {
+    "id": "f93",
+    "categoria": "ciencia",
+    "titulo": "O Som do Trovão",
+    "conteudo": "O trovão é apenas o som do ar a expandir-se rapidamente devido ao calor extremo do relâmpago, que é mais quente que a superfície do sol."
+  },
+  {
+    "id": "f94",
+    "categoria": "historia",
+    "titulo": "A Grande Emu War",
+    "conteudo": "Em 1932, o exército australiano 'declarou guerra' a aves Emu que destruíam colheitas. Inacreditavelmente, as aves 'venceram' a guerra."
+  },
+  {
+    "id": "f95",
+    "categoria": "espaco",
+    "titulo": "Anos de Júpiter",
+    "conteudo": "Júpiter é tão grande que todos os outros planetas do sistema solar caberiam dentro dele duas vezes. Ele demora 12 anos terrestres a dar a volta ao sol."
+  },
+  {
+    "id": "f96",
+    "categoria": "biologia",
+    "titulo": "O Olfato dos Cães",
+    "conteudo": "Os cães conseguem cheirar o tempo. Eles percebem a diferença no rastro de cheiros que se desvanecem, sabendo o que passou por ali há horas."
+  },
+  {
+    "id": "f97",
+    "categoria": "saude",
+    "titulo": "Luz Azul",
+    "conteudo": "A luz azul dos ecrãs à noite engana o teu cérebro, fazendo-o achar que ainda é dia e bloqueando a produção de melatonina, a hormona do sono."
+  },
+  {
+    "id": "f98",
+    "categoria": "psicologia",
+    "titulo": "Ancoragem",
+    "conteudo": "É um viés onde nos focamos demasiado na primeira informação que recebemos. Se vês um casaco por 500€ e depois por 200€, achas barato, mesmo que valha 50€."
+  },
+  {
+    "id": "f99",
+    "categoria": "financas",
+    "titulo": "O Custo de Oportunidade",
+    "conteudo": "Tudo o que escolhes fazer tem um custo: o que deixaste de fazer. Gastar 100€ num jantar significa que deixaste de investir esses 100€."
+  },
+  {
+    "id": "f100",
+    "categoria": "culinaria",
+    "titulo": "Tomate é Fruta",
+    "conteudo": "Botanicamente, o tomate é uma fruta porque tem sementes. Na culinária, é um vegetal porque o usamos em pratos salgados."
+  },
+  {
+    "id": "f101",
+    "categoria": "geografia",
+    "titulo": "Lagos de África",
+    "conteudo": "O Lago Vitória é tão grande que tem o seu próprio clima e ondas que parecem as de um oceano, sendo o maior lago tropical do mundo."
+  },
+  {
+    "id": "f102",
+    "categoria": "artes",
+    "titulo": "O Nome de Picasso",
+    "conteudo": "O nome completo de Pablo Picasso tem 23 palavras. Era comum na Espanha da época batizar as crianças com nomes de vários santos e parentes."
+  },
+  {
+    "id": "f103",
+    "categoria": "musica",
+    "titulo": "Afinador de Mozart",
+    "conteudo": "Mozart tinha 'ouvido absoluto'. Ele conseguia identificar qualquer nota musical sem precisar de uma referência, mesmo sendo apenas um som de um sino."
+  },
+  {
+    "id": "f104",
+    "categoria": "cinema",
+    "titulo": "O Primeiro Som",
+    "conteudo": "O filme 'O Cantor de Jazz' (1927) mudou o cinema para sempre ao ser o primeiro filme com diálogos sincronizados, acabando com a era do cinema mudo."
+  },
+  {
+    "id": "f105",
+    "categoria": "literatura",
+    "titulo": "Sherlock Holmes",
+    "conteudo": "Sir Arthur Conan Doyle tentou matar a sua personagem Sherlock num livro porque estava farto dele, mas a revolta dos fãs foi tanta que ele teve de o 'ressuscitar'."
+  },
+  {
+    "id": "f106",
+    "categoria": "tecnologia",
+    "titulo": "O Tamanho do 1GB",
+    "conteudo": "Em 1956, um disco rígido de 5MB pesava uma tonelada e precisava de ser transportado num avião. Hoje, 1TB cabe na ponta do teu dedo."
+  },
+  {
+    "id": "f107",
+    "categoria": "inteligenciartificial",
+    "titulo": "Deepfakes",
+    "conteudo": "São vídeos ou áudios criados por IA que imitam pessoas reais com perfeição. É uma das tecnologias mais perigosas para a desinformação hoje em dia."
+  },
+  {
+    "id": "f108",
+    "categoria": "sustentabilidade",
+    "titulo": "Microplásticos",
+    "conteudo": "Pequenas partículas de plástico com menos de 5mm já foram encontradas no topo do Everest, no fundo do oceano e até no sangue humano."
+  },
+  {
+    "id": "f109",
+    "categoria": "design",
+    "titulo": "Tipografia Serif",
+    "conteudo": "Fontes com 'serifas' (aqueles tracinhos nas pontas) são mais fáceis de ler em papel impresso, enquanto fontes 'Sans Serif' são melhores para ecrãs digitais."
+  },
+  {
+    "id": "f110",
+    "categoria": "marketing",
+    "titulo": "O Aroma nas Lojas",
+    "conteudo": "Muitas lojas usam aromas artificiais (como pão fresco ou baunilha) para evocar memórias de conforto e fazer com que os clientes fiquem mais tempo na loja."
+  },
+  {
+    "id": "f111",
+    "categoria": "empreendedorismo",
+    "titulo": "O Pivot",
+    "conteudo": "É quando uma empresa muda radicalmente de direção. O Instagram começou como uma app de check-in chamada Burbn antes de focar apenas em fotos."
+  },
+  {
+    "id": "f112",
+    "categoria": "idiomas",
+    "titulo": "Esperanto",
+    "conteudo": "É uma língua criada artificialmente em 1887 com o objetivo de ser uma língua universal neutra e fácil de aprender para promover a paz mundial."
+  },
+  {
+    "id": "f113",
+    "categoria": "mitologia",
+    "titulo": "Medusa",
+    "conteudo": "Na mitologia original, Medusa nem sempre foi um monstro. Ela era uma mulher belíssima que foi transformada em castigo pela deusa Atena."
+  },
+  {
+    "id": "f114",
+    "categoria": "filosofia",
+    "titulo": "O Mito da Caverna",
+    "conteudo": "Platão descreve pessoas presas numa caverna que acham que as sombras na parede são a realidade. Filosofar é sair da caverna e ver o sol real."
+  },
+  {
+    "id": "f115",
+    "categoria": "desporto",
+    "titulo": "Golf na Lua",
+    "conteudo": "Em 1971, o astronauta Alan Shepard levou um taco de golfe para a Lua e deu duas tacadas. A bola viajou quilómetros devido à baixa gravidade."
+  },
+  {
+    "id": "f116",
+    "categoria": "nutricao",
+    "titulo": "Comida Processada",
+    "conteudo": "O problema não é só a caloria, é que estas comidas são desenhadas para 'saltar' os sinais de saciedade do teu cérebro, fazendo-te comer sem parar."
+  },
+  {
+    "id": "f117",
+    "categoria": "arquitetura",
+    "titulo": "Janelas de Londres",
+    "conteudo": "Muitos prédios antigos em Londres têm janelas tapadas com tijolos. Isso era para evitar o 'Imposto sobre Janelas' cobrado nos séculos XVIII e XIX."
+  },
+  {
+    "id": "f118",
+    "categoria": "fotografia",
+    "titulo": "ISO",
+    "conteudo": "O ISO controla a sensibilidade da câmara à luz. Um ISO alto deixa-te tirar fotos no escuro, mas adiciona 'grão' ou ruído digital à imagem."
+  },
+  {
+    "id": "f119",
+    "categoria": "curiosidades",
+    "titulo": "O Pântano de Shrek",
+    "conteudo": "O Shrek tem uma estrela na Calçada da Fama em Hollywood, tal como o Mickey Mouse, os Simpsons e o sapo Cocas."
+  },
+  {
+    "id": "f120",
+    "categoria": "sobrevivencia",
+    "titulo": "Musgo no Norte?",
+    "conteudo": "O mito de que o musgo só cresce no lado norte das árvores é falso. O musgo cresce onde houver sombra e humidade, independentemente da direção."
+  },
+  {
+    "id": "f121",
+    "categoria": "tecnologia",
+    "titulo": "O que é uma API?",
+    "conteudo": "Imagina um restaurante. Tu és a App e a cozinha é a base de dados. A API é o empregado de mesa: recebe o teu pedido, vai à cozinha e traz-te a informação de volta."
+  },
+  {
+    "id": "f122",
+    "categoria": "programacao",
+    "titulo": "O Paradoxo do Código",
+    "conteudo": "Ler código é significativamente mais difícil do que escrevê-lo. É por isso que muitos programadores preferem reescrever um bloco inteiro do que tentar perceber o que o colega fez."
+  },
+  {
+    "id": "f123",
+    "categoria": "produtividade",
+    "titulo": "O Princípio de Pareto (80/20)",
+    "conteudo": "Em quase tudo na vida, 80% dos resultados vêm de 20% do esforço. 80% das falhas de uma app vêm de 20% dos bugs. Descobre os teus 20% cruciais e foca-te neles."
+  },
+  {
+    "id": "f124",
+    "categoria": "ciencia",
+    "titulo": "A Velocidade do Tempo",
+    "conteudo": "Os astronautas na Estação Espacial envelhecem ligeiramente mais devagar do que nós na Terra. Viajar a grandes velocidades faz com que o tempo abrande para ti."
+  },
+  {
+    "id": "f125",
+    "categoria": "historia",
+    "titulo": "Quem construiu as Pirâmides?",
+    "conteudo": "As Grandes Pirâmides do Egito não foram construídas por escravos. Foram construídas por trabalhadores assalariados altamente respeitados que, muitas vezes, recebiam o pagamento em cerveja e pão."
+  },
+  {
+    "id": "f126",
+    "categoria": "espaco",
+    "titulo": "Buracos Negros não são Buracos",
+    "conteudo": "Não são ralos vazios no espaço. São na verdade esferas com uma quantidade colossal de matéria comprimida num espaço tão minúsculo que nem a luz consegue escapar da sua gravidade."
+  },
+  {
+    "id": "f127",
+    "categoria": "biologia",
+    "titulo": "Os 9 Cérebros do Polvo",
+    "conteudo": "Os polvos têm um cérebro central e 'mini-cérebros' na base de cada um dos seus 8 tentáculos. Isso permite que um tentáculo resolva um problema sem ter de 'falar' com o cérebro principal."
+  },
+  {
+    "id": "f128",
+    "categoria": "saude",
+    "titulo": "A Semi-vida da Cafeína",
+    "conteudo": "A cafeína tem uma semi-vida de 6 horas. Se beberes um café às 16h, às 22h ainda tens metade dessa cafeína a circular no teu sangue, destruindo a tua qualidade de sono."
+  },
+  {
+    "id": "f129",
+    "categoria": "psicologia",
+    "titulo": "Falácia do Custo Irrecuperável",
+    "conteudo": "É a nossa tendência de continuar num projeto mau, num filme aborrecido ou numa relação tóxica só porque 'já investimos demasiado tempo e dinheiro nisso'."
+  },
+  {
+    "id": "f130",
+    "categoria": "financas",
+    "titulo": "A Regra dos 72",
+    "conteudo": "Queres saber em quantos anos o teu dinheiro duplica? Divide 72 pela taxa de juro anual. A 8% ao ano, o teu dinheiro duplica a cada 9 anos (72 ÷ 8)."
+  },
+  {
+    "id": "f131",
+    "categoria": "culinaria",
+    "titulo": "O Falso Wasabi",
+    "conteudo": "O Wasabi verdadeiro é raríssimo e caro. Cerca de 99% do 'wasabi' servido nos restaurantes de sushi em todo o mundo é apenas rábano picante com mostarda e corante verde."
+  },
+  {
+    "id": "f132",
+    "categoria": "geografia",
+    "titulo": "A Montanha mais alta",
+    "conteudo": "O Monte Everest é o mais alto acima do nível do mar, mas o vulcão Mauna Kea (no Havai) é mais alto se medirmos desde a sua base, que está submersa no fundo do Oceano Pacífico."
+  },
+  {
+    "id": "f133",
+    "categoria": "artes",
+    "titulo": "O Roubo da Mona Lisa",
+    "conteudo": "A Mona Lisa não era um quadro mundialmente famoso até ser roubada do Museu do Louvre em 1911. Foi a cobertura dramática dos jornais que a tornou num ícone global."
+  },
+  {
+    "id": "f134",
+    "categoria": "musica",
+    "titulo": "Os Beatles e as Partituras",
+    "conteudo": "Nenhum dos quatro membros dos Beatles, a banda mais influente de todos os tempos, sabia ler ou escrever pautas musicais convencionais. Eles compunham puramente de ouvido."
+  },
+  {
+    "id": "f135",
+    "categoria": "cinema",
+    "titulo": "Sangue de Chocolate",
+    "conteudo": "No clássico de terror 'Psycho' (1960) de Hitchcock, a famosa cena do chuveiro não usou sangue falso vermelho. Sendo um filme a preto e branco, usaram xarope de chocolate Bosco."
+  },
+  {
+    "id": "f136",
+    "categoria": "literatura",
+    "titulo": "Shakespeare inventou palavras",
+    "conteudo": "Acredita-se que William Shakespeare tenha introduzido mais de 1700 palavras na língua inglesa, simplesmente inventando-as, como 'swagger', 'lonely' e 'assassination'."
+  },
+  {
+    "id": "f137",
+    "categoria": "tecnologia",
+    "titulo": "O Cursor Inclinado",
+    "conteudo": "A seta do rato do teu computador é inclinada para a esquerda porque, nos primeiros ecrãs de baixa resolução, era impossível desenhar uma reta vertical nítida de apenas 1 pixel."
+  },
+  {
+    "id": "f138",
+    "categoria": "inteligenciartificial",
+    "titulo": "O que significa CAPTCHA?",
+    "conteudo": "É uma sigla para 'Completely Automated Public Turing test to tell Computers and Humans Apart' (Teste de Turing público totalmente automatizado para distinguir computadores e humanos)."
+  },
+  {
+    "id": "f139",
+    "categoria": "sustentabilidade",
+    "titulo": "Reciclagem de Vidro",
+    "conteudo": "Ao contrário do papel e do plástico que perdem qualidade sempre que são reciclados, o vidro pode ser derretido e reciclado infinitas vezes sem perder qualquer pureza."
+  },
+  {
+    "id": "f140",
+    "categoria": "design",
+    "titulo": "O Efeito IKEA",
+    "conteudo": "As pessoas dão um valor incrivelmente maior a um produto, site ou móvel se tiveram algum trabalho físico ou mental a montá-lo ou personalizá-lo."
+  },
+  {
+    "id": "f141",
+    "categoria": "marketing",
+    "titulo": "Efeito Isco (Decoy)",
+    "conteudo": "O copo de pipocas 'Grande' nos cinemas custa quase o mesmo que o 'Médio'. O 'Médio' está lá apenas como um isco para fazer o 'Grande' parecer um excelente negócio."
+  },
+  {
+    "id": "f142",
+    "categoria": "empreendedorismo",
+    "titulo": "O Verdadeiro MVP",
+    "conteudo": "Um Produto Mínimo Viável (MVP) não é um produto com erros ou a meio. É a versão mais pequena que podes criar e que já entrega o valor principal ao teu cliente, para testares a ideia."
+  },
+  {
+    "id": "f143",
+    "categoria": "idiomas",
+    "titulo": "O Alfabeto mais pequeno",
+    "conteudo": "A língua Rotokas, falada na Papua Nova Guiné, tem um dos menores alfabetos do mundo: possui apenas 12 letras (A, E, G, I, K, O, P, R, S, T, U, V)."
+  },
+  {
+    "id": "f144",
+    "categoria": "mitologia",
+    "titulo": "O Cavalo de Troia",
+    "conteudo": "Não há qualquer evidência histórica ou arqueológica de que o gigantesco cavalo de madeira de Troia tenha realmente existido. É muito provavelmente apenas uma brilhante invenção literária."
+  },
+  {
+    "id": "f145",
+    "categoria": "filosofia",
+    "titulo": "A Navalha de Occam",
+    "conteudo": "Um princípio que diz: 'Não se devem multiplicar as entidades além da necessidade'. Por outras palavras, se tens duas explicações para algo, a mais simples é geralmente a correta."
+  },
+  {
+    "id": "f146",
+    "categoria": "desporto",
+    "titulo": "O Ouro Olímpico",
+    "conteudo": "As medalhas de ouro dos Jogos Olímpicos não são feitas de ouro maciço desde 1912. Hoje em dia, são compostas por cerca de 98% de prata, apenas banhadas a ouro."
+  },
+  {
+    "id": "f147",
+    "categoria": "nutricao",
+    "titulo": "Ferro Magnético",
+    "conteudo": "Quando a caixa de cereais de pequeno-almoço diz 'Enriquecido com Ferro', muitas vezes isso significa que o fabricante adicionou literalmente poeira de ferro magnética à comida."
+  },
+  {
+    "id": "f148",
+    "categoria": "arquitetura",
+    "titulo": "O Panteão de Roma",
+    "conteudo": "Quase 1900 anos após ter sido construído, o teto do Panteão de Roma ainda é a maior cúpula de betão não-armado (sem aço no interior) do mundo."
+  },
+  {
+    "id": "f149",
+    "categoria": "fotografia",
+    "titulo": "A Primeira Selfie",
+    "conteudo": "O primeiro autorretrato fotográfico do mundo foi tirado em 1839 por um químico chamado Robert Cornelius. Ele teve de ficar completamente imóvel durante cerca de 15 minutos."
+  },
+  {
+    "id": "f150",
+    "categoria": "curiosidades",
+    "titulo": "O Maior Fabricante de Pneus",
+    "conteudo": "Esquece a Michelin ou a Goodyear. A marca que mais pneus fabrica no mundo é a LEGO, produzindo mais de 300 milhões de minúsculos pneus de borracha por ano."
+  },
+  {
+    "id": "f151",
+    "categoria": "sobrevivencia",
+    "titulo": "Areias Movediças",
+    "conteudo": "Apesar do que os filmes mostram, é impossível seres completamente engolido por areias movediças. O corpo humano é menos denso do que a areia, por isso vais flutuar pela cintura."
+  },
+  {
+    "id": "f152",
+    "categoria": "programacao",
+    "titulo": "O Paradoxo do CSS",
+    "conteudo": "Até ao surgimento do Flexbox há poucos anos, o maior pesadelo e fonte de piadas para qualquer Web Designer era a incapacidade matemática de centrar perfeitamente uma div na vertical."
+  },
+  {
+    "id": "f153",
+    "categoria": "produtividade",
+    "titulo": "O Efeito Zeigarnik",
+    "conteudo": "O teu cérebro lembra-se muito melhor de tarefas incompletas ou interrompidas do que daquelas que já acabaste. É por isso que não consegues dormir a pensar num email a meio."
+  },
+  {
+    "id": "f154",
+    "categoria": "ciencia",
+    "titulo": "A Cor do Universo",
+    "conteudo": "Se fosse possível misturar e fundir toda a luz visível de todas as estrelas e galáxias do universo, a cor resultante seria um bege claro, oficialmente chamado de 'Latte Cósmico'."
+  },
+  {
+    "id": "f155",
+    "categoria": "historia",
+    "titulo": "A Guerra da Lagosta",
+    "conteudo": "Entre 1961 e 1963, o Brasil e a França quase entraram em guerra armada naval por uma disputa ridícula sobre se as lagostas nadavam na água ou rastejavam no fundo do mar."
+  },
+  {
+    "id": "f156",
+    "categoria": "espaco",
+    "titulo": "Fantasmas no Céu",
+    "conteudo": "O Universo é tão gigantesco que a luz demora milhões de anos a atravessá-lo. Algumas das estrelas brilhantes que vês no céu noturno podem já ter explodido e morrido há milhares de anos."
+  },
+  {
+    "id": "f157",
+    "categoria": "biologia",
+    "titulo": "O Coração da Baleia",
+    "conteudo": "O coração de uma baleia azul pesa cerca de 180 kg e é do tamanho de um pequeno carro-choque. Bombeia com tanta força que pode ser ouvido a 3 km de distância debaixo de água."
+  },
+  {
+    "id": "f158",
+    "categoria": "saude",
+    "titulo": "O Novo Esqueleto",
+    "conteudo": "O osso é um tecido vivo que se está constantemente a desfazer e a reconstruir. Como resultado, o teu corpo regenera por completo um novo esqueleto humano a cada 10 anos."
+  },
+  {
+    "id": "f159",
+    "categoria": "psicologia",
+    "titulo": "Síndrome do Impostor",
+    "conteudo": "Um fenómeno onde pessoas de alto desempenho e sucesso duvidam constantemente do seu próprio intelecto e vivem aterrorizadas de serem expostas como 'fraudes' ou de que tudo foi apenas sorte."
+  },
+  {
+    "id": "f160",
+    "categoria": "financas",
+    "titulo": "O Poder da Diversificação",
+    "conteudo": "Nunca invistas todo o teu dinheiro na ação 'perfeita'. Se essa empresa falir, perdes tudo. Comprar ações de 500 empresas ao mesmo tempo garante que as vitórias cobrem as poucas perdas."
+  },
+  {
+    "id": "f161",
+    "categoria": "culinaria",
+    "titulo": "O Segredo do Caju",
+    "conteudo": "A castanha de caju tem a particularidade de não crescer dentro da fruta. Em vez disso, ela nasce pendurada no exterior de um pseudofruto, que parece uma estranha maçã ou pimento."
+  },
+  {
+    "id": "f162",
+    "categoria": "geografia",
+    "titulo": "O País das Ilhas",
+    "conteudo": "Não é a Indonésia nem as Filipinas. A Suécia detém o recorde do país com mais ilhas no mundo: possui mais de 267.000 ilhas, embora a esmagadora maioria seja inabitada."
+  },
+  {
+    "id": "f163",
+    "categoria": "artes",
+    "titulo": "Vermelho de Inseto",
+    "conteudo": "Muitos batons de luxo vermelhos e gomas de morango devem a sua cor ao 'Ácido Carmínico'. Este corante natural é feito esmagando milhares de pequenos insetos chamados cochonilhas."
+  },
+  {
+    "id": "f164",
+    "categoria": "musica",
+    "titulo": "O Insulto de Mozart",
+    "conteudo": "Mozart, apesar de ser um génio clássico, tinha um sentido de humor muito imaturo. Ele escreveu uma peça musical para os amigos cantarem, oficialmente chamada 'Leck mich im Arsch' (Lambe o meu traseiro)."
+  },
+  {
+    "id": "f165",
+    "categoria": "cinema",
+    "titulo": "A Respiração de Darth Vader",
+    "conteudo": "O icónico e assustador som da respiração mecânica de Darth Vader no Star Wars foi gravado colocando um microfone dentro de um regulador de um tanque de mergulho."
+  },
+  {
+    "id": "f166",
+    "categoria": "literatura",
+    "titulo": "O Manuscrito Rejeitado",
+    "conteudo": "J.K. Rowling viu o manuscrito de Harry Potter ser rejeitado por 12 grandes editoras. A pequena editora que o aceitou fê-lo apenas porque a filha de 8 anos do diretor o leu e adorou."
+  },
+  {
+    "id": "f167",
+    "categoria": "tecnologia",
+    "titulo": "O que significa Wi-Fi?",
+    "conteudo": "Ao contrário do que a maioria pensa (que significa Wireless Fidelity), a palavra Wi-Fi não significa rigorosamente nada. Foi um nome puramente comercial inventado por uma agência de marketing."
+  },
+  {
+    "id": "f168",
+    "categoria": "inteligenciartificial",
+    "titulo": "O Primeiro Chatterbot",
+    "conteudo": "Em 1966, criou-se a ELIZA, o primeiro chatbot da história. O programa simulava um psicoterapeuta, e fá-lo-ia muito bem apenas repetindo as afirmações do utilizador de volta em forma de pergunta."
+  },
+  {
+    "id": "f169",
+    "categoria": "sustentabilidade",
+    "titulo": "O Problema dos Abacates",
+    "conteudo": "A moda dos abacates tem um impacto brutal no ambiente. Para produzir um único abacate, são necessários em média impressionantes 320 litros de água fresca."
+  },
+  {
+    "id": "f170",
+    "categoria": "design",
+    "titulo": "O Logotipo da Amazon",
+    "conteudo": "A famosa seta amarela no logotipo da Amazon não é apenas um sorriso amigável para o cliente; ela aponta literalmente da letra A à letra Z, simbolizando que a loja vende de tudo."
+  },
+  {
+    "id": "f171",
+    "categoria": "marketing",
+    "titulo": "Luzes de Supermercado",
+    "conteudo": "As secções de frutas e legumes e os talhos usam iluminação LED especial manipulada. Usam luzes com um tom avermelhado para a carne parecer mais fresca e verde para os vegetais brilharem."
+  },
+  {
+    "id": "f172",
+    "categoria": "empreendedorismo",
+    "titulo": "Os 1000 Fãs Verdadeiros",
+    "conteudo": "Uma teoria de sucesso diz que não precisas de milhões de clientes. Se tiveres apenas 1000 'fãs' obcecados com o teu trabalho que te paguem 100€ por ano, faturas 100.000€ anuais."
+  },
+  {
+    "id": "f173",
+    "categoria": "idiomas",
+    "titulo": "A Palavra Mais Complexa",
+    "conteudo": "No dicionário de Inglês de Oxford, a pequena palavra 'set' detém o recorde impressionante do vocábulo com mais significados e definições diferentes: mais de 430 usos."
+  },
+  {
+    "id": "f174",
+    "categoria": "mitologia",
+    "titulo": "A Origem da Caixa de Cereais",
+    "conteudo": "Na antiga religião romana, Ceres era a Deusa responsável pela agricultura, pelas colheitas e pela fertilidade da terra. É exatamente do nome dela que deriva a palavra 'Cereal'."
+  },
+  {
+    "id": "f175",
+    "categoria": "filosofia",
+    "titulo": "O Navio de Teseu",
+    "conteudo": "Um famoso paradoxo de identidade: Se as tábuas de madeira de um velho navio forem sendo substituídas uma a uma ao longo de anos, quando já não sobrar nenhuma peça original, continua a ser o mesmo navio?"
+  },
+  {
+    "id": "f176",
+    "categoria": "desporto",
+    "titulo": "A Aerodinâmica do Golfe",
+    "conteudo": "As covinhas na superfície das bolas de golfe criam uma micro-turbulência no ar que reduz drasticamente o atrito. Uma bola com covinhas voa o dobro da distância de uma bola lisa."
+  },
+  {
+    "id": "f177",
+    "categoria": "nutricao",
+    "titulo": "O Mito das Calorias Noturnas",
+    "conteudo": "A hora a que comes não engorda. Uma sanduíche tem as mesmas calorias às 14h e às 23h. O que te faz ganhar peso é simplesmente ingerires mais calorias do que as que gastaste nas 24h."
+  },
+  {
+    "id": "f178",
+    "categoria": "arquitetura",
+    "titulo": "O Mastro do Empire State",
+    "conteudo": "O mastro de 60 metros no topo do icónico Empire State Building, em Nova Iorque, foi originalmente desenhado não como antena, mas para servir de porto de ancoragem para dirigíveis Zeppelins."
+  },
+  {
+    "id": "f179",
+    "categoria": "fotografia",
+    "titulo": "Porque ficamos de Olhos Vermelhos?",
+    "conteudo": "O clarão do flash de uma máquina fotográfica é tão rápido que a pupila não tem tempo de fechar. A luz entra no olho e ilumina o vermelho dos muitos vasos sanguíneos no fundo da retina."
+  },
+  {
+    "id": "f180",
+    "categoria": "curiosidades",
+    "titulo": "O Som dos Estalos",
+    "conteudo": "Quando estalas os dedos para chamar a atenção, o som agudo não é gerado pelos dedos a roçarem um no outro. É sim criado pelo teu dedo médio a bater a alta velocidade contra a palma da tua mão."
+  },
+  {
+    "id": "f181",
+    "categoria": "tecnologia",
+    "titulo": "A Origem do Teclado QWERTY",
+    "conteudo": "O teclado QWERTY não foi desenhado para ser rápido. Foi desenhado no século XIX para afastar as teclas mais usadas e obrigar os datilógrafos a escreverem mais devagar, evitando que as máquinas de escrever encravassem."
+  },
+  {
+    "id": "f182",
+    "categoria": "programacao",
+    "titulo": "O Primeiro Vírus",
+    "conteudo": "O primeiro vírus de computador chamava-se 'Creeper' (1971). Ele não destruía nada, apenas mostrava a mensagem: 'Sou o Creeper, apanha-me se conseguires!'. O primeiro anti-vírus chamou-se, claro, 'Reaper'."
+  },
+  {
+    "id": "f183",
+    "categoria": "produtividade",
+    "titulo": "A Regra das Duas Pizzas",
+    "conteudo": "Jeff Bezos (fundador da Amazon) tem uma regra estrita: se duas pizzas não forem suficientes para alimentar toda a gente numa reunião, então há demasiadas pessoas na sala e a reunião será improdutiva."
+  },
+  {
+    "id": "f184",
+    "categoria": "ciencia",
+    "titulo": "As Bananas são Radioativas",
+    "conteudo": "As bananas contêm isótopos radioativos de potássio. Mas não te preocupes: terias de comer cerca de 10 milhões de bananas de uma só vez para morreres de envenenamento por radiação."
+  },
+  {
+    "id": "f185",
+    "categoria": "historia",
+    "titulo": "A Idade de Oxford",
+    "conteudo": "A Universidade de Oxford, em Inglaterra, é mais velha do que o Império Asteca. O ensino em Oxford começou por volta de 1096, enquanto a cidade asteca de Tenochtitlán só foi fundada em 1325."
+  },
+  {
+    "id": "f186",
+    "categoria": "espaco",
+    "titulo": "A Colher de Neutrões",
+    "conteudo": "As estrelas de neutrões são os objetos mais densos do universo. Uma simples colher de chá do material que compõe uma estrela de neutrões pesaria cerca de 6 mil milhões de toneladas na Terra (o peso de uma montanha)."
+  },
+  {
+    "id": "f187",
+    "categoria": "biologia",
+    "titulo": "Cocó em Forma de Cubo",
+    "conteudo": "O Wombat (um marsupial australiano) é o único animal no mundo cujo cocó tem a forma de cubos perfeitos. Isso acontece para evitar que as fezes rebolem, permitindo-lhes marcar território em cima de pedras."
+  },
+  {
+    "id": "f188",
+    "categoria": "saude",
+    "titulo": "O Apêndice não é inútil",
+    "conteudo": "Durante muito tempo achou-se que o apêndice era um erro da evolução. Hoje sabe-se que funciona como um 'cofre' que guarda bactérias boas para repovoar o teu intestino depois de uma intoxicação alimentar grave."
+  },
+  {
+    "id": "f189",
+    "categoria": "psicologia",
+    "titulo": "O Efeito Mandela",
+    "conteudo": "É um fenómeno bizarro onde grandes grupos de pessoas têm a mesma memória falsa sobre um evento. O nome surgiu quando milhares de pessoas juraram lembrar-se de ver a morte de Nelson Mandela na TV nos anos 80, quando ele só morreu em 2013."
+  },
+  {
+    "id": "f190",
+    "categoria": "financas",
+    "titulo": "Touros vs Ursos",
+    "conteudo": "No mercado de ações, um 'Bull Market' (Touro) é quando os preços sobem e um 'Bear Market' (Urso) é quando descem. Os nomes vêm da forma como os animais atacam: o touro ataca de baixo para cima com os chifres, o urso ataca de cima para baixo com a pata."
+  },
+  {
+    "id": "f191",
+    "categoria": "culinaria",
+    "titulo": "Amendoins não são Nozes",
+    "conteudo": "Apesar do nome e do sabor, os amendoins não são frutos secos (nozes). Botanicamente, pertencem à família das leguminosas, crescendo debaixo da terra exatamente como as ervilhas e as lentilhas."
+  },
+  {
+    "id": "f192",
+    "categoria": "geografia",
+    "titulo": "A Fossa das Marianas",
+    "conteudo": "O ponto mais fundo do oceano (a Fossa das Marianas) é tão profundo que, se colocasses lá dentro o Monte Everest, o topo da montanha ainda ficaria submerso sob mais de 2 quilómetros de água."
+  },
+  {
+    "id": "f193",
+    "categoria": "artes",
+    "titulo": "O Segredo de Bob Ross",
+    "conteudo": "O famoso pintor da TV Bob Ross pintava três versões exatas de cada quadro para o programa: uma antes para referência, uma durante a gravação em apenas 27 minutos, e uma versão mais detalhada para publicar em livros."
+  },
+  {
+    "id": "f194",
+    "categoria": "musica",
+    "titulo": "O que é um 'Earworm'?",
+    "conteudo": "Aquele fenómeno frustrante de teres uma música presa na cabeça chama-se 'Earworm' (verme de ouvido). Acontece porque o teu cérebro cria um loop infinito ao tentar 'fechar' a melodia que ficou incompleta na tua memória."
+  },
+  {
+    "id": "f195",
+    "categoria": "cinema",
+    "titulo": "O Código do Matrix",
+    "conteudo": "A icónica chuva de código verde do filme The Matrix parece complexa e alienígena, mas o designer de produção revelou que escaneou os livros de receitas de sushi da sua mulher e misturou as letras japonesas."
+  },
+  {
+    "id": "f196",
+    "categoria": "literatura",
+    "titulo": "A Origem do Frankenstein",
+    "conteudo": "O clássico 'Frankenstein' foi escrito por uma rapariga de 18 anos, Mary Shelley. Ela inventou a história de terror durante umas férias chuvosas em 1816, após um desafio de Lord Byron para ver quem escrevia a melhor história de fantasmas."
+  },
+  {
+    "id": "f197",
+    "categoria": "tecnologia",
+    "titulo": "A Origem do nome Bluetooth",
+    "conteudo": "A tecnologia Bluetooth chama-se assim em homenagem a Harald Bluetooth, um rei Viking do século X que uniu a Dinamarca e a Noruega. O logótipo é a junção das runas nórdicas com as iniciais do rei."
+  },
+  {
+    "id": "f198",
+    "categoria": "inteligenciartificial",
+    "titulo": "A Alucinação da IA",
+    "conteudo": "Quando o ChatGPT não sabe a resposta a uma pergunta, ele por vezes sofre de 'Alucinação': inventa uma mentira completa, mas escreve-a com tanta confiança e detalhe que parece um facto histórico verificado."
+  },
+  {
+    "id": "f199",
+    "categoria": "sustentabilidade",
+    "titulo": "A Sede da Internet",
+    "conteudo": "Para gerar apenas algumas respostas num modelo avançado de Inteligência Artificial, os enormes Data Centers da Google ou da Microsoft podem gastar até meio litro de água doce apenas para arrefecer os servidores."
+  },
+  {
+    "id": "f200",
+    "categoria": "design",
+    "titulo": "O Custo do Logótipo da Nike",
+    "conteudo": "O 'Swoosh' da Nike, um dos logótipos mais valiosos e reconhecidos de sempre, foi desenhado em 1971 por uma estudante de design chamada Carolyn Davidson. Ela cobrou exatamente 35 dólares pelo trabalho."
+  },
+  {
+    "id": "f201",
+    "categoria": "marketing",
+    "titulo": "O Red Bull foi processado",
+    "conteudo": "A Red Bull teve de pagar milhões de dólares num processo judicial em 2014 porque um consumidor argumentou que a bebida 'não lhe dava asas' literais, o que era publicidade enganosa. Agora, o slogan usa 'wiiings' com 3 i's."
+  },
+  {
+    "id": "f202",
+    "categoria": "empreendedorismo",
+    "titulo": "Um Fracasso de Sucesso",
+    "conteudo": "Os Post-it nasceram de um fracasso. Um cientista da 3M tentou criar a cola mais forte do mundo, mas criou uma cola fraca e reutilizável. O invento foi inútil durante anos, até alguém o usar para marcar páginas num livro de hinos."
+  },
+  {
+    "id": "f203",
+    "categoria": "idiomas",
+    "titulo": "O que é 'Gigil'?",
+    "conteudo": "O idioma Tagalog (Filipinas) tem a palavra 'Gigil', que descreve aquele sentimento irresistível de quereres apertar, morder ou esmagar algo por ser insuportavelmente fofo (como um bebé ou um cãozinho)."
+  },
+  {
+    "id": "f204",
+    "categoria": "mitologia",
+    "titulo": "Hades não era mau",
+    "conteudo": "A cultura pop transformou Hades (o Deus grego do Submundo) num vilão, tipo o Diabo. Na mitologia original, ele era apenas um burocrata passivo e justo que tinha o azar de gerir a morte, enquanto Zeus é que causava todos os problemas."
+  },
+  {
+    "id": "f205",
+    "categoria": "filosofia",
+    "titulo": "O Solipsismo",
+    "conteudo": "É a teoria filosófica assustadora de que a única coisa no universo que tu podes ter a certeza absoluta que existe é a tua própria mente. Tudo o resto, incluindo o telemóvel na tua mão e as outras pessoas, pode ser uma simulação ou um sonho teu."
+  },
+  {
+    "id": "f206",
+    "categoria": "desporto",
+    "titulo": "A Engenharia do Badminton",
+    "conteudo": "O Badminton é o desporto de raquete mais rápido do mundo, com o volante a atingir mais de 400 km/h. Para torneios oficiais, o volante tem de ser feito exatamente com 16 penas da asa esquerda de um ganso."
+  },
+  {
+    "id": "f207",
+    "categoria": "nutricao",
+    "titulo": "Chocolate Branco é Mentira",
+    "conteudo": "O chocolate branco não contém qualquer cacau sólido (o pó castanho que dá o sabor real ao chocolate). É feito inteiramente de manteiga de cacau, açúcar, leite em pó e muita baunilha."
+  },
+  {
+    "id": "f208",
+    "categoria": "arquitetura",
+    "titulo": "A Torre Eiffel Cresce",
+    "conteudo": "Como é construída inteiramente de ferro, a Torre Eiffel em Paris expande-se com o calor. Durante o pico do verão europeu, a torre pode crescer até 15 centímetros de altura em comparação com o inverno."
+  },
+  {
+    "id": "f209",
+    "categoria": "fotografia",
+    "titulo": "Diz Ameixa!",
+    "conteudo": "No século XIX, sorrir para as fotografias era considerado um sinal de falta de educação ou loucura. Em vez de dizerem 'Cheese', os fotógrafos pediam às pessoas para dizerem 'Prunes' (ameixas), para manterem a boca fechada e séria."
+  },
+  {
+    "id": "f210",
+    "categoria": "curiosidades",
+    "titulo": "O que é um 'Jiffy'?",
+    "conteudo": "Quando dizemos que vamos fazer algo 'num jiffy' (num instante), estamos a usar uma medida real. Em física e química, um 'jiffy' é uma unidade de tempo que corresponde à velocidade da luz a atravessar um centímetro no vácuo."
+  },
+  {
+    "id": "f211",
+    "categoria": "sobrevivencia",
+    "titulo": "A Água do Cacto",
+    "conteudo": "Beber água de dentro de um cacto para sobreviver num deserto é um mito perigoso criado por filmes. A maioria dos cactos está cheia de ácidos e alcaloides tóxicos que te fariam vomitar e desidratar ainda mais rápido."
+  },
+  {
+    "id": "f212",
+    "categoria": "programacao",
+    "titulo": "HTML não é Programação",
+    "conteudo": "Embora seja essencial para a web, o HTML não é uma linguagem de programação. É uma 'Linguagem de Marcação', usada apenas para organizar parágrafos, imagens e links, não tendo lógica matemática como o JavaScript ou Python."
+  },
+  {
+    "id": "f213",
+    "categoria": "produtividade",
+    "titulo": "O Empilhamento de Hábitos",
+    "conteudo": "A forma mais fácil de criar um hábito novo é colá-lo a um hábito antigo que já fazes em piloto automático. Exemplo: 'Depois de lavar os dentes (velho), vou ler 2 páginas de um livro (novo)'."
+  },
+  {
+    "id": "f214",
+    "categoria": "ciencia",
+    "titulo": "Ácido de Destruição",
+    "conteudo": "O ácido clorídrico dentro do teu estômago tem um pH tão extremo que, se engolisses acidentalmente uma pequena lâmina de barbear de metal, o teu estômago conseguiria dissolvê-la quase por completo num espaço de 24 horas."
+  },
+  {
+    "id": "f215",
+    "categoria": "historia",
+    "titulo": "Cenouras Roxas",
+    "conteudo": "Na natureza original, as cenouras eram roxas, amarelas ou brancas. As cenouras cor-de-laranja só foram inventadas no século XVII por agricultores na Holanda, em homenagem à família real holandesa, a Casa de Orange."
+  },
+  {
+    "id": "f216",
+    "categoria": "espaco",
+    "titulo": "O Bar do Universo",
+    "conteudo": "Perto do centro da Via Láctea, existe uma nuvem gigante de gás chamada Sagittarius B2. Os cientistas descobriram que esta nuvem contém milhares de milhões de litros de álcool etílico (o mesmo das bebidas) a flutuar no espaço."
+  },
+  {
+    "id": "f217",
+    "categoria": "biologia",
+    "titulo": "As Preguiças Nadadoras",
+    "conteudo": "Embora sejam incrivelmente lentas a mover-se na terra, as preguiças são nadadoras fantásticas e conseguem suster a respiração debaixo de água por 40 minutos (muito mais tempo que os golfinhos)."
+  },
+  {
+    "id": "f218",
+    "categoria": "saude",
+    "titulo": "Encolhemos de Dia",
+    "conteudo": "Tu és cerca de 1 centímetro mais alto de manhã quando acordas do que à noite. Durante o dia, a gravidade comprime lentamente a cartilagem entre os ossos da tua coluna vertebral."
+  },
+  {
+    "id": "f219",
+    "categoria": "psicologia",
+    "titulo": "O Efeito Tetris",
+    "conteudo": "Estudos psicológicos descobriram que jogar Tetris imediatamente a seguir a um evento traumático pode ajudar a prevenir o desenvolvimento de Stress Pós-Traumático (PTSD), pois os blocos interferem com o armazenamento visual da memória traumática."
+  },
+  {
+    "id": "f220",
+    "categoria": "financas",
+    "titulo": "Cartões de Cartão",
+    "conteudo": "O primeiro cartão de crédito universal, o Diners Club, foi lançado em 1950. As pessoas ricas podiam usá-lo em vários restaurantes, mas o cartão não era de plástico; era feito de simples cartão impresso."
+  },
+  {
+    "id": "f221",
+    "categoria": "culinaria",
+    "titulo": "As Maçãs Flutuam",
+    "conteudo": "Se atirares uma maçã para dentro de um balde de água, ela vai flutuar perfeitamente enquanto uma pera vai afundar. Isto acontece porque 25% do volume interior de uma maçã é literalmente ar puro preso entre as células."
+  },
+  {
+    "id": "f222",
+    "categoria": "geografia",
+    "titulo": "O País dos Lagos",
+    "conteudo": "O Canadá possui uma geografia tão única e perfurada por glaciares antigos que tem, sozinho, mais de metade de todos os lagos naturais do mundo combinados. São mais de 2 milhões de lagos."
+  },
+  {
+    "id": "f223",
+    "categoria": "artes",
+    "titulo": "Picasso, o Ladrão?",
+    "conteudo": "Quando a Mona Lisa foi roubada em 1911, a polícia francesa prendeu e interrogou duramente Pablo Picasso como o principal suspeito. O poeta Guillaume Apollinaire tinha falsamente acusado Picasso, que acabou por ser inocentado."
+  },
+  {
+    "id": "f224",
+    "categoria": "musica",
+    "titulo": "O Concerto de 639 anos",
+    "conteudo": "Existe um concerto de órgão a decorrer numa igreja na Alemanha desde 2001, composto por John Cage. A música é tão lenta que a próxima mudança de nota de órgão só vai acontecer no ano de 2026. A música termina em 2640."
+  },
+  {
+    "id": "f225",
+    "categoria": "cinema",
+    "titulo": "O Rugido de Godzilla",
+    "conteudo": "A equipa de som japonesa dos anos 50 tentou dezenas de rosnados de animais reais, mas nada soava aterrorizante o suficiente para o Godzilla. O som final foi criado esfregando uma luva de couro coberta de resina contra as cordas de um contrabaixo."
+  },
+  {
+    "id": "f226",
+    "categoria": "literatura",
+    "titulo": "A Invenção do 'Nerd'",
+    "conteudo": "A palavra 'Nerd', hoje usada globalmente para descrever alguém obcecado por computadores ou cultura pop, foi inventada e impressa pela primeira vez em 1950 pelo famoso autor infantil Dr. Seuss, no livro 'If I Ran the Zoo'."
+  },
+  {
+    "id": "f227",
+    "categoria": "tecnologia",
+    "titulo": "O Despertador de 4 AM",
+    "conteudo": "O primeiro despertador mecânico inventado nos EUA em 1787, por Levi Hutchins, não era ajustável. O criador programou-o com engrenagens soldadas para tocar exclusivamente às 4h da manhã, a hora em que ele precisava de acordar para o trabalho."
+  },
+  {
+    "id": "f228",
+    "categoria": "inteligenciartificial",
+    "titulo": "A Derrota de Kasparov",
+    "conteudo": "O momento em que a humanidade percebeu o poder da computação foi em 1997, quando o supercomputador Deep Blue da IBM conseguiu derrotar Garry Kasparov, o campeão mundial imbatível de xadrez."
+  },
+  {
+    "id": "f229",
+    "categoria": "sustentabilidade",
+    "titulo": "Cogumelos que Comem Plástico",
+    "conteudo": "Cientistas descobriram uma espécie rara de fungo na Amazónia (Pestalotiopsis microspora) que consegue sobreviver alimentando-se exclusivamente de plástico poliuretano, e pode até fazê-lo em ambientes sem oxigénio."
+  },
+  {
+    "id": "f230",
+    "categoria": "design",
+    "titulo": "O Ódio à Comic Sans",
+    "conteudo": "A Comic Sans é a fonte mais odiada pelos designers. Foi criada em 1994, não para documentos profissionais, mas especificamente para caber nos balões de fala de um pequeno cão amarelo virtual que servia de assistente no Microsoft Bob."
+  },
+  {
+    "id": "f231",
+    "categoria": "marketing",
+    "titulo": "O Cheiro de Carro Novo",
+    "conteudo": "Aquele 'cheiro de carro novo' que os clientes tanto adoram não é um perfume adicionado. É na verdade o resultado de mais de 50 Químicos Orgânicos Voláteis (alguns tóxicos) libertados lentamente pelos plásticos e borrachas do interior."
+  },
+  {
+    "id": "f232",
+    "categoria": "empreendedorismo",
+    "titulo": "O Passado do YouTube",
+    "conteudo": "Quando o YouTube foi fundado em 2005, a sua ideia original era ser um site de encontros em vídeo chamado 'Tune In Hook Up'. Como ninguém enviou vídeos, eles abriram a plataforma para vídeos aleatórios de gatos e explodiram."
+  },
+  {
+    "id": "f233",
+    "categoria": "idiomas",
+    "titulo": "Os Tweets em Latim",
+    "conteudo": "A conta oficial do Papa no Twitter (X) não tuíta apenas em idiomas modernos. A sua conta em Latim (@Pontifex_ln) tem quase 1 milhão de seguidores e requer o uso de palavras latinas inventadas para conceitos modernos como 'internet'."
+  },
+  {
+    "id": "f234",
+    "categoria": "mitologia",
+    "titulo": "O Nome do Minotauro",
+    "conteudo": "Toda a gente o conhece por Minotauro (que significa literalmente 'o touro de Minos'). No entanto, na mitologia grega original, o monstro no centro do labirinto tinha um nome verdadeiro e poético: Asterion, que significa 'Estrelado'."
+  },
+  {
+    "id": "f235",
+    "categoria": "filosofia",
+    "titulo": "O Efeito Borboleta",
+    "conteudo": "O Efeito Borboleta não é sobre viagens no tempo. É um conceito real da Teoria do Caos que prova matematicamente como um evento minúsculo (o bater das asas de uma borboleta) pode causar reações em cadeia que alteram um furacão noutro continente semanas depois."
+  },
+  {
+    "id": "f236",
+    "categoria": "desporto",
+    "titulo": "Tração de Corda Olímpica",
+    "conteudo": "Pode parecer apenas uma brincadeira de campo de férias, mas o Jogo do Empurra (Tug of War) foi uma modalidade altamente competitiva nos Jogos Olímpicos, com equipas de nações a lutar pelo Ouro entre os anos 1900 e 1920."
+  },
+  {
+    "id": "f237",
+    "categoria": "nutricao",
+    "titulo": "O Limão vs Morango",
+    "conteudo": "O paladar engana a nutrição. Por causa da quantidade extrema de ácido cítrico que esconde a doçura, um limão contém, grama por grama, mais açúcar natural do que a mesma quantidade de morangos vermelhos."
+  },
+  {
+    "id": "f238",
+    "categoria": "arquitetura",
+    "titulo": "A Torre de Pisa nunca foi reta",
+    "conteudo": "A famosa Torre de Pisa não ficou torta centenas de anos depois. O solo em Itália era tão macio e argiloso que a torre começou a afundar e a inclinar-se gravemente logo quando os pedreiros estavam apenas a construir o terceiro andar em 1178."
+  },
+  {
+    "id": "f239",
+    "categoria": "fotografia",
+    "titulo": "A Primeira Câmara Digital",
+    "conteudo": "A Kodak inventou a primeira câmara digital do mundo em 1975. Parecia uma torradeira gigante, pesava quase 4 quilos, usava cassetes de áudio para gravar imagens a preto e branco e demorava 23 segundos para processar uma única foto de 0.01 megapixels."
+  },
+  {
+    "id": "f240",
+    "categoria": "curiosidades",
+    "titulo": "A Ansiedade das Vacas",
+    "conteudo": "Tal como os humanos e os cães, estudos mostram que as vacas formam ligações emocionais profundas com os outros membros do rebanho. Se separares uma vaca da sua 'melhor amiga', o seu ritmo cardíaco dispara e ela entra em stress clínico."
+  },
+  {
+    "id": "f241",
+    "categoria": "tecnologia",
+    "titulo": "O Primeiro Spam",
+    "conteudo": "O primeiro email de 'spam' da história foi enviado em 1978 na ARPANET (a avó da internet). Era um anúncio de venda de computadores da marca DEC e foi enviado para apenas 393 pessoas."
+  },
+  {
+    "id": "f242",
+    "categoria": "programacao",
+    "titulo": "O Pato de Borracha",
+    "conteudo": "O 'Rubber Duck Debugging' é uma técnica real onde o programador explica o seu código em voz alta, linha a linha, a um pato de borracha. Ao forçar a explicação, o cérebro tropeça no erro quase magicamente."
+  },
+  {
+    "id": "f243",
+    "categoria": "produtividade",
+    "titulo": "O Método Ivy Lee",
+    "conteudo": "No final de cada dia, escreve as 6 tarefas mais importantes para o dia seguinte por ordem de prioridade. No dia seguinte, foca-te na 1ª até acabar. É um dos métodos mais antigos e eficazes de produtividade."
+  },
+  {
+    "id": "f244",
+    "categoria": "ciencia",
+    "titulo": "O Mistério do Gelo",
+    "conteudo": "A água é uma das únicas substâncias no universo que se expande e fica mais leve quando congela. Se o gelo fosse mais denso que a água (como quase tudo o resto), os oceanos congelariam do fundo para cima, matando toda a vida na Terra."
+  },
+  {
+    "id": "f245",
+    "categoria": "historia",
+    "titulo": "A Guerra de 335 Anos",
+    "conteudo": "A guerra entre os Países Baixos e as Ilhas Scilly durou oficialmente de 1651 a 1986 (335 anos). Durante todo esse tempo, nunca houve um único tiro disparado nem uma única vítima. As partes simplesmente esqueceram-se de assinar a paz."
+  },
+  {
+    "id": "f246",
+    "categoria": "espaco",
+    "titulo": "O Oceano no Espaço",
+    "conteudo": "A 12 mil milhões de anos-luz de distância, existe uma nuvem gigante de vapor de água a flutuar no espaço. Ela contém 140 biliões de vezes mais água do que todos os oceanos da Terra combinados."
+  },
+  {
+    "id": "f247",
+    "categoria": "biologia",
+    "titulo": "O Ornitorrinco",
+    "conteudo": "O ornitorrinco é um animal tão bizarro que não tem estômago. O esófago liga-se diretamente aos intestinos. Além disso, eles põem ovos, suam leite e os machos têm esporões venenosos."
+  },
+  {
+    "id": "f248",
+    "categoria": "saude",
+    "titulo": "O Soluço Primitivo",
+    "conteudo": "Cientistas acreditam que os soluços são um reflexo evolutivo inútil herdado dos nossos antepassados anfíbios. É o mesmo movimento muscular que os girinos usam para respirar água pelas guelras."
+  },
+  {
+    "id": "f249",
+    "categoria": "psicologia",
+    "titulo": "O Fenómeno Baader-Meinhof",
+    "conteudo": "Também chamado de 'Ilusão de Frequência'. É quando aprendes uma palavra nova ou compras um carro de uma certa marca e, de repente, começas a ver isso em todo o lado. O teu cérebro apenas ativou o filtro de atenção."
+  },
+  {
+    "id": "f250",
+    "categoria": "financas",
+    "titulo": "A Bolha das Tulipas",
+    "conteudo": "Em 1637, na Holanda, ocorreu a primeira bolha financeira da história. O preço dos bolbos de tulipa subiu tanto que um único bolbo de uma flor rara valia o mesmo que uma mansão de luxo em Amesterdão. Pouco depois, o mercado colapsou."
+  },
+  {
+    "id": "f251",
+    "categoria": "culinaria",
+    "titulo": "O Gene dos Coentros",
+    "conteudo": "Se achas que os coentros sabem a detergente ou a sabonete, a culpa não é do teu paladar. Cerca de 10% da população mundial tem uma variação genética (o gene OR6A2) que os faz detetar um químico na planta que é usado no fabrico de sabão."
+  },
+  {
+    "id": "f252",
+    "categoria": "geografia",
+    "titulo": "Velocidade Tectónica",
+    "conteudo": "Os continentes da Terra (as placas tectónicas) estão em constante movimento. A velocidade a que a Europa e a América do Norte se afastam uma da outra é exatamente a mesma velocidade a que as tuas unhas crescem."
+  },
+  {
+    "id": "f253",
+    "categoria": "artes",
+    "titulo": "A Cor 'Múmia'",
+    "conteudo": "Nos séculos XVI e XVII, os pintores europeus usavam uma cor chamada 'Mummy Brown' (Castanho Múmia). Este pigmento era literalmente fabricado moendo cadáveres de antigas múmias egípcias que eram contrabandeadas para a Europa."
+  },
+  {
+    "id": "f254",
+    "categoria": "musica",
+    "titulo": "O Ritmo do Coração",
+    "conteudo": "Quando ouves música, especialmente ritmos fortes ou relaxantes, o teu batimento cardíaco e os teus padrões de respiração tentam sincronizar-se automaticamente com o ritmo da música que estás a ouvir."
+  },
+  {
+    "id": "f255",
+    "categoria": "cinema",
+    "titulo": "O Rugido do Tiranossauro",
+    "conteudo": "O rugido arrepiante do T-Rex no filme Parque Jurássico (1993) não é um som sintético. É uma mistura complexa de sons gravados de um bebé elefante, um tigre e um crocodilo."
+  },
+  {
+    "id": "f256",
+    "categoria": "literatura",
+    "titulo": "O Desafio do Dr. Seuss",
+    "conteudo": "O famoso livro infantil 'Green Eggs and Ham' foi escrito após uma aposta de 50 dólares com o seu editor, que o desafiou a escrever um livro inteiro e com sentido usando exatamente 50 palavras diferentes. Ele ganhou."
+  },
+  {
+    "id": "f257",
+    "categoria": "inteligenciartificial",
+    "titulo": "A Jogada 37",
+    "conteudo": "Em 2016, a IA AlphaGo jogou contra o campeão mundial de Go. Na Jogada 37, a máquina fez um movimento tão criativo e alienígena que os especialistas acharam que era um erro de sistema. Foi a jogada que lhe garantiu a vitória."
+  },
+  {
+    "id": "f258",
+    "categoria": "sustentabilidade",
+    "titulo": "Bambu de Alta Velocidade",
+    "conteudo": "O bambu é uma excelente alternativa sustentável à madeira porque é a planta que cresce mais rápido no planeta. Algumas espécies conseguem crescer mais de 90 centímetros num único dia."
+  },
+  {
+    "id": "f259",
+    "categoria": "design",
+    "titulo": "A Seta Escondida",
+    "conteudo": "Um dos logótipos mais inteligentes do design moderno é o da FedEx. Se olhares com atenção para o espaço em branco (negativo) entre as letras 'E' e 'x', vais encontrar uma seta perfeita apontada para a frente, simbolizando rapidez e precisão."
+  },
+  {
+    "id": "f260",
+    "categoria": "marketing",
+    "titulo": "A Ilusão dos Diamantes",
+    "conteudo": "A ideia de que um anel de noivado tem de ser um diamante caro não é uma tradição antiga. Foi uma brilhante campanha de marketing criada em 1947 pela empresa De Beers com o slogan 'Um diamante é para sempre'."
+  },
+  {
+    "id": "f261",
+    "categoria": "empreendedorismo",
+    "titulo": "Cereais Airbnb",
+    "conteudo": "Em 2008, os fundadores do Airbnb estavam sem dinheiro e perto da falência. Para salvarem a empresa, desenharam caixas de cereais com caricaturas políticas (Obama e McCain), venderam-nas online como edição de colecionador e faturaram 30 mil dólares para continuarem."
+  },
+  {
+    "id": "f262",
+    "categoria": "idiomas",
+    "titulo": "A Letra 'E'",
+    "conteudo": "A letra 'E' é a letra mais usada na língua inglesa (e também em português). Ocupa cerca de 11% de todo o texto que lemos, sendo essencial para quase todos os verbos e artigos."
+  },
+  {
+    "id": "f263",
+    "categoria": "mitologia",
+    "titulo": "A Verdadeira Medusa",
+    "conteudo": "Na versão mais antiga do mito, a cabeça da Medusa com cobras não era uma maldição, mas sim um símbolo de proteção. Imagens do rosto dela eram colocadas em escudos e portas na Grécia Antiga para afastar o mal."
+  },
+  {
+    "id": "f264",
+    "categoria": "filosofia",
+    "titulo": "O Dilema do Elétrico",
+    "conteudo": "Uma famosa experiência mental ética: um elétrico desgovernado vai matar 5 pessoas amarradas na linha. Tens uma alavanca que o desvia para outra linha, mas mata 1 pessoa. Puxar a alavanca é homicídio ou salvação? O objetivo não é responder, é pensar sobre o valor da vida."
+  },
+  {
+    "id": "f265",
+    "categoria": "desporto",
+    "titulo": "Xadrez-Boxe",
+    "conteudo": "O 'Chess Boxing' é um desporto real e incrivelmente exigente. Os atletas alternam entre rondas de xadrez e rondas de boxe num ringue. Podes ganhar o combate por nocaute físico ou por xeque-mate no tabuleiro."
+  },
+  {
+    "id": "f266",
+    "categoria": "nutricao",
+    "titulo": "O Mito da Cenoura",
+    "conteudo": "As cenouras são saudáveis, mas não te dão 'super visão' no escuro. Isso foi uma mentira inventada pela Força Aérea Britânica na Segunda Guerra Mundial para esconder dos alemães que tinham inventado o Radar para intercetar aviões à noite."
+  },
+  {
+    "id": "f267",
+    "categoria": "arquitetura",
+    "titulo": "Uma Torre Temporária",
+    "conteudo": "A Torre Eiffel foi construída para a Exposição Universal de 1889 com o intuito de ser desmontada 20 anos depois. Só não foi destruída porque o governo francês descobriu que ela era excelente para colocar antenas de comunicação rádio."
+  },
+  {
+    "id": "f268",
+    "categoria": "fotografia",
+    "titulo": "A Primeira Fotografia",
+    "conteudo": "A primeira fotografia do mundo que se conhece foi tirada em 1826 por Nicéphore Niépce, em França. Ela não foi um simples 'clique': a câmara teve de ficar imóvel a absorver a luz do sol durante 8 horas seguidas para criar a imagem."
+  },
+  {
+    "id": "f269",
+    "categoria": "curiosidades",
+    "titulo": "O Nome da Barbie",
+    "conteudo": "A boneca mais famosa do mundo tem um nome completo. O seu nome oficial criado pela empresa Mattel é Barbara Millicent Roberts, e os seus pais fictícios chamam-se George e Margaret."
+  },
+  {
+    "id": "f270",
+    "categoria": "sobrevivencia",
+    "titulo": "Lutar com Ursos",
+    "conteudo": "Se fores atacado por um urso, a estratégia depende da cor. Se for um Urso Castanho/Pardo, deita-te no chão, protege o pescoço e finge de morto. Se for um Urso Negro, nunca finjas de morto; faz barulho, levanta os braços e luta com o que tiveres."
+  },
+  {
+    "id": "f271",
+    "categoria": "tecnologia",
+    "titulo": "O Paradoxo do USB",
+    "conteudo": "Existe uma piada na tecnologia chamada 'A Superposição do USB'. Diz que tu tens sempre de tentar colocar uma pen drive três vezes: a primeira está errada, a segunda viras ao contrário e está errada, viras outra vez para a primeira posição e de repente encaixa perfeitamente."
+  },
+  {
+    "id": "f272",
+    "categoria": "programacao",
+    "titulo": "A Barra de Espaço Quente",
+    "conteudo": "A barra de espaço é a tecla mais carregada em qualquer teclado do mundo. Para um programador ou escritor, a fricção térmica microscópica de bater na tecla milhões de vezes por ano faz com que o plástico da barra de espaço se desgaste muito mais rápido que as outras."
+  },
+  {
+    "id": "f273",
+    "categoria": "produtividade",
+    "titulo": "A Regra dos 5 Segundos",
+    "conteudo": "A autora Mel Robbins popularizou esta regra: quando tiveres o instinto para agir num objetivo ou tarefa, deves contar '5, 4, 3, 2, 1' e moveres-te fisicamente. Caso contrário, o teu cérebro vai racionalizar o cansaço e tu vais desistir de o fazer."
+  },
+  {
+    "id": "f274",
+    "categoria": "ciencia",
+    "titulo": "Voz de Hélio",
+    "conteudo": "Respirar hélio deixa a tua voz fininha não porque altera as tuas cordas vocais, mas porque o hélio é muito menos denso que o ar. O som viaja muito mais rápido através do hélio, alterando o timbre da tua voz."
+  },
+  {
+    "id": "f275",
+    "categoria": "historia",
+    "titulo": "Bochechos em Roma",
+    "conteudo": "Os antigos Romanos valorizavam dentes brancos, mas os seus métodos eram invulgares. Eles importavam grandes quantidades de urina (especialmente de Portugal, considerada a mais forte na época) e usavam-na como elixir bucal devido à amónia branqueadora."
+  },
+  {
+    "id": "f276",
+    "categoria": "espaco",
+    "titulo": "Rotação ao Contrário",
+    "conteudo": "Todos os planetas do sistema solar giram no mesmo sentido em que orbitam o sol, exceto dois: Úrano roda de lado (como um barril deitado) e Vénus gira completamente ao contrário. O sol em Vénus nasce no Oeste e põe-se no Este."
+  },
+  {
+    "id": "f277",
+    "categoria": "biologia",
+    "titulo": "O Cérebro do Estegossauro",
+    "conteudo": "O gigantesco dinossauro Estegossauro (aquele com as placas nas costas) pesava até 3 toneladas e tinha o tamanho de um autocarro, mas o seu cérebro era literalmente do tamanho e do formato de um pequeno cachorro-quente."
+  },
+  {
+    "id": "f278",
+    "categoria": "saude",
+    "titulo": "A Dor do Gelo",
+    "conteudo": "A famosa 'dor de cabeça de gelado' (Brain Freeze) acontece porque o frio extremo toca no palato (céu da boca). Os nervos enviam um sinal de emergência ao cérebro para dilatar os vasos sanguíneos e aquecer a área, e esse aumento de pressão causa a dor."
+  },
+  {
+    "id": "f279",
+    "categoria": "psicologia",
+    "titulo": "Efeito Espectador",
+    "conteudo": "Se vires alguém a desmaiar na rua, as hipóteses de essa pessoa receber ajuda são incrivelmente maiores se houverem 3 pessoas por perto do que se houverem 30. Quanto mais pessoas observam, maior é a 'difusão da responsabilidade'."
+  },
+  {
+    "id": "f280",
+    "categoria": "financas",
+    "titulo": "O Fundo de Índice (ETF)",
+    "conteudo": "Warren Buffett apostou um milhão de dólares em 2007 contra um grupo de especialistas financeiros de Wall Street. Ele apostou que um simples 'Fundo de Índice' aborrecido que apenas segue a média do mercado daria mais lucro em 10 anos do que as estratégias agressivas deles. Buffett ganhou facilmente."
+  },
+  {
+    "id": "f281",
+    "categoria": "culinaria",
+    "titulo": "Cuidado com a Noz-moscada",
+    "conteudo": "A noz-moscada é fantástica num puré de batata, mas em grandes quantidades (cerca de duas colheres de sopa) ela torna-se altamente tóxica. Contém miristicina, um composto que pode causar alucinações severas, palpitações e convulsões."
+  },
+  {
+    "id": "f282",
+    "categoria": "geografia",
+    "titulo": "O Mar que Morreu",
+    "conteudo": "O Mar de Aral (entre o Cazaquistão e o Uzbequistão) era o quarto maior lago do mundo na década de 1960. Devido a desvios de rios feitos pela União Soviética para projetos de irrigação, o lago encolheu para cerca de 10% do seu tamanho original."
+  },
+  {
+    "id": "f283",
+    "categoria": "artes",
+    "titulo": "O Pensador era Pequeno",
+    "conteudo": "A famosa estátua 'O Pensador' de Auguste Rodin, que hoje vemos como uma peça de bronze gigante e isolada, foi originalmente desenhada como uma figura minúscula de 70 cm no topo de uma grande porta encomendada para um museu."
+  },
+  {
+    "id": "f284",
+    "categoria": "musica",
+    "titulo": "O Ritmo Mais Famoso",
+    "conteudo": "Um solo de bateria de 6 segundos gravado em 1969 por uma banda obscura chamada 'The Winstons' tornou-se no ritmo mais 'samplado' e copiado da história da música. O 'Amen Break' é a base de todo o Hip-Hop, Jungle e Drum and Bass moderno."
+  },
+  {
+    "id": "f285",
+    "categoria": "cinema",
+    "titulo": "O Rugido do Rei",
+    "conteudo": "Os leões reais têm um rugido grave que não é muito 'cinematográfico'. No clássico de animação da Disney 'O Rei Leão' (1994), os rugidos assustadores do Mufasa são na verdade sons de tigres que foram misturados pela equipa de som."
+  },
+  {
+    "id": "f286",
+    "categoria": "literatura",
+    "titulo": "O Desaparecimento da Autora",
+    "conteudo": "A rainha do crime, Agatha Christie, esteve no centro de um mistério da vida real em 1926. Ela desapareceu misteriosamente durante 11 dias, causando uma busca nacional gigante em Inglaterra. Quando foi encontrada num hotel, alegou não se lembrar de nada."
+  },
+  {
+    "id": "f287",
+    "categoria": "inteligenciartificial",
+    "titulo": "A Falha nas Mãos",
+    "conteudo": "Os primeiros modelos de Inteligência Artificial para gerar imagens tinham uma enorme dificuldade em desenhar mãos humanas, colocando frequentemente 6 ou 7 dedos deformados. Isto acontecia porque a IA não entende 'anatomia', entende apenas padrões de pixéis sobrepostos em milhares de fotos de mãos em posições caóticas."
+  },
+  {
+    "id": "f288",
+    "categoria": "sustentabilidade",
+    "titulo": "O Fim da Areia",
+    "conteudo": "O mundo está a ficar sem areia útil. Pode parecer mentira com tantos desertos, mas a areia do deserto é redonda devido ao vento e não serve para fazer cimento. A areia de construção (retirada do fundo de rios) é hoje um dos recursos naturais mais disputados do mundo."
+  },
+  {
+    "id": "f289",
+    "categoria": "design",
+    "titulo": "A Fome Amarela",
+    "conteudo": "Repara no McDonald's, Burger King ou na Subway. O uso massivo de Amarelo e Vermelho não é por acaso (chama-se a Teoria Ketchup e Mostarda). O amarelo atrai a atenção e aumenta a ansiedade/fome, enquanto o vermelho transmite urgência para comeres e ires embora rápido."
+  },
+  {
+    "id": "f290",
+    "categoria": "marketing",
+    "titulo": "O Falso Menu de Vinhos",
+    "conteudo": "A maioria dos restaurantes sabe que os clientes não querem comprar o vinho mais barato (para não parecerem forretas), mas também não querem o mais caro. Os menus são desenhados com uma opção incrivelmente cara no topo, apenas para que o vinho que eles realmente querem vender pareça o 'bom negócio do meio'."
+  },
+  {
+    "id": "f291",
+    "categoria": "empreendedorismo",
+    "titulo": "A Idade da Nintendo",
+    "conteudo": "Associamos a Nintendo a jogos de vídeo modernos, mas a empresa foi fundada no distante ano de 1889. Originalmente, eles produziam cartões de jogar artesanais de papel chamados 'Hanafuda' em Quioto, no Japão."
+  },
+  {
+    "id": "f292",
+    "categoria": "idiomas",
+    "titulo": "A Maior Palavra Alemã",
+    "conteudo": "A língua alemã adora colar palavras para criar significados novos. Uma das maiores palavras oficiais tem 63 letras: Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz (A lei sobre a delegação de deveres para a supervisão da rotulagem de carne de vaca)."
+  },
+  {
+    "id": "f293",
+    "categoria": "mitologia",
+    "titulo": "A Grávida de Atena",
+    "conteudo": "Na mitologia grega, a deusa da sabedoria, Atena, não nasceu de uma mãe normal. O mito diz que ela brotou já adulta e totalmente armada de dentro da testa de Zeus, depois deste ter engolido a sua primeira esposa."
+  },
+  {
+    "id": "f294",
+    "categoria": "filosofia",
+    "titulo": "O Gato de Schrödinger",
+    "conteudo": "O famoso gato da caixa fechada que está vivo e morto ao mesmo tempo não foi criado para ser uma teoria brilhante. Erwin Schrödinger criou a história como uma piada de mau gosto para gozar e provar o quão ridícula e absurda a física quântica soava quando aplicada a objetos do dia-a-dia."
+  },
+  {
+    "id": "f295",
+    "categoria": "desporto",
+    "titulo": "A Envergadura de Phelps",
+    "conteudo": "O nadador olímpico Michael Phelps (23 medalhas de Ouro) é literalmente construído para nadar. A sua envergadura de braços é de 2,01 metros, sendo mais longa do que a sua própria altura (1,93 metros), uma característica anatómica muito rara chamada 'Indíce de Macaco'."
+  },
+  {
+    "id": "f296",
+    "categoria": "nutricao",
+    "titulo": "A Toranja Traiçoeira",
+    "conteudo": "A toranja (grapefruit) contém um composto químico que bloqueia as enzimas do fígado que processam medicamentos. Comer uma toranja pode fazer com que certos medicamentos para o coração ou colesterol entrem em sobre-dosagem acidental no teu corpo."
+  },
+  {
+    "id": "f297",
+    "categoria": "arquitetura",
+    "titulo": "A Ilusão do Taj Mahal",
+    "conteudo": "Os arquitetos do Taj Mahal usaram truques de ilusão de ótica. Os pilares em volta do edifício inclinam-se todos ligeiramente para fora e não a 90 graus. Assim, se houver um terramoto, eles não caem em cima do túmulo central."
+  },
+  {
+    "id": "f298",
+    "categoria": "fotografia",
+    "titulo": "O Ecrã Verde",
+    "conteudo": "Em Hollywood usa-se o 'Ecrã Verde' (Chroma Key) para meter efeitos especiais porque a cor verde não existe naturalmente na cor de pele de nenhuma etnia humana. Isso facilita o trabalho do software em remover a cor de fundo sem apagar a pessoa."
+  },
+  {
+    "id": "f299",
+    "categoria": "curiosidades",
+    "titulo": "A Vingança do Polvo",
+    "conteudo": "Biólogos marinhos documentaram vários casos de polvos que se juntam a cardumes de peixes para caçar em grupo. No entanto, se o polvo achar que um dos peixes não está a ajudar, ele vai nadar até ao peixe e esmurrá-lo agressivamente por pura irritação."
+  },
+  {
+    "id": "f300",
+    "categoria": "sobrevivencia",
+    "titulo": "Regra dos 3",
+    "conteudo": "Em situações extremas, o corpo humano segue a Regra dos 3: Não sobrevive mais de 3 minutos sem oxigénio, 3 horas sem abrigo num clima extremo (neve/deserto), 3 dias sem água potável, e 3 semanas sem comida."
+  }
+]

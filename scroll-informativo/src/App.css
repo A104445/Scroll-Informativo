@@ -1,0 +1,481 @@
+/* src/App.css - Light Mode Premium */
+
+:root {
+  --bg-app: #f8fafc;         /* Fundo base: Cinza muito clarinho (quase branco) */
+  --bg-card: #ffffff;        /* Fundo do cartão: Branco puro para destacar */
+  --text-primary: #0f172a;   /* Texto principal: Cinza muito escuro (melhor que preto puro) */
+  --text-secondary: #64748b; /* Texto descritivo: Cinza médio */
+  --border: #e2e8f0;         /* Linhas e bordas suaves */
+  --accent: #4f46e5;         /* COR DE DESTAQUE: Azul Índigo */
+  --font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+/* Tranca o ecrã a 100% e remove qualquer margem invisível */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden; /* Impede o telemóvel de fazer aquele "bounce" de elástico fora da app */
+}
+
+body {
+  background-color: #e2e8f0;
+  font-family: var(--font-family);
+  color: var(--text-primary);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* O Telemóvel */
+.app-container {
+  max-width: 480px;
+  margin: 0 auto;
+  /* dvh ajusta-se automaticamente quando a barra de navegação do telemóvel aparece ou desaparece */
+  height: 100dvh; 
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  background-color: var(--bg-app);
+  box-shadow: 0 0 40px rgba(0,0,0,0.08);
+  position: relative;
+}
+
+/* --- LAYOUT PRINCIPAL --- */
+.conteudo-principal {
+  flex: 1;
+  height: 100%;
+  width: 100%;
+  position: relative;
+  /* Espaço em baixo para os cartões não ficarem escondidos por trás da barra */
+  padding-bottom: 75px; 
+}
+
+/* --- BARRA DE NAVEGAÇÃO INFERIOR --- */
+.bottom-nav {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 75px;
+  background-color: rgba(248, 250, 252, 0.9); /* Fundo semi-transparente */
+  backdrop-filter: blur(15px); /* Efeito de vidro */
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  z-index: 50;
+  padding-bottom: env(safe-area-inset-bottom); /* Previne cortes nos iPhones novos */
+}
+
+.nav-item {
+  background: transparent;
+  border: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  color: var(--text-secondary);
+  cursor: pointer;
+  transition: all 0.2s;
+  width: 25%;
+}
+
+.nav-icone {
+  font-size: 24px;
+  filter: grayscale(100%);
+  opacity: 0.6;
+}
+
+.nav-texto {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+/* Estado Ativo do Menu */
+.nav-item.ativo {
+  color: var(--primary);
+}
+.nav-item.ativo .nav-icone {
+  filter: grayscale(0%);
+  opacity: 1;
+  transform: scale(1.1);
+}
+
+/* --- PREENCHER O ESPAÇO VAZIO DO CARTÃO --- */
+.cartao {
+  /* ... mantém o que já tinhas no cartão ... */
+  justify-content: center; /* Centra perfeitamente no ecrã */
+  padding: 40px 30px; 
+}
+
+/* Aumenta o título para ocupar o espaço de forma dramática */
+.cartao h2 {
+  font-size: 32px; 
+  line-height: 1.2;
+  margin-bottom: 24px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+}
+
+/* Aumenta o texto do facto para ser muito mais fácil de ler */
+.cartao p {
+  font-size: 20px;
+  line-height: 1.6;
+  color: var(--text-secondary);
+  font-weight: 400;
+}
+
+.btn-icone {
+  background: none;
+  border: none;
+  font-size: 22px;
+  cursor: pointer;
+  color: var(--text-secondary);
+  transition: all 0.2s;
+}
+
+.btn-icone:hover {
+  color: var(--accent);
+  transform: rotate(45deg);
+}
+
+/* Scroll e Feed */
+.feed {
+  flex: 1;
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.feed::-webkit-scrollbar {
+  display: none;
+}
+
+/* Cartão */
+.cartao {
+  height: 100%;
+  min-height: 100%;
+  width: 100%;
+  scroll-snap-align: start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 40px;
+  box-sizing: border-box;
+  background-color: var(--bg-card); /* Fundo branco puro */
+  border-bottom: 1px solid var(--border);
+  position: relative;
+}
+
+/* Linha lateral (agora mais subtil para o tema claro) */
+.cartao::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 30%;
+  bottom: 30%;
+  width: 4px;
+  background-color: var(--accent);
+  border-radius: 0 4px 4px 0;
+  opacity: 0.9;
+}
+
+.categoria-tag {
+  color: var(--accent);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  margin-bottom: 16px;
+  display: inline-block;
+  background-color: rgba(79, 70, 229, 0.08); /* Fundo pastel do botão */
+  padding: 6px 12px;
+  border-radius: 20px;
+  width: fit-content;
+}
+
+.cartao h2 {
+  margin: 0 0 16px;
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+  color: var(--text-primary); /* Garante que o título é escuro */
+}
+
+.cartao p {
+  margin: 0;
+  font-size: 17px;
+  line-height: 1.6;
+  color: var(--text-secondary);
+}
+
+/* Ecrã de Definições e Botões */
+.definicoes-container {
+  padding: 40px 24px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--bg-app);
+}
+
+.definicoes-container h2 {
+  margin: 0 0 8px;
+  font-size: 24px;
+  color: var(--text-primary);
+}
+
+.definicoes-container p {
+  color: var(--text-secondary);
+  margin: 0 0 32px;
+  font-size: 15px;
+}
+
+.filtros {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.btn-filtro {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-secondary);
+  padding: 10px 18px;
+  border-radius: 12px;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: capitalize;
+  cursor: pointer;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 1px 2px rgba(0,0,0,0.02); /* Sombrinha no botão */
+}
+
+/* Quando o botão de categoria está selecionado */
+.btn-filtro.ativo {
+  background-color: var(--accent);
+  border-color: var(--accent);
+  color: #ffffff;
+  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.25);
+  transform: translateY(-2px);
+}
+
+/* Botão Principal (Guardar) */
+.btn-primario {
+  background-color: var(--text-primary);
+  color: #ffffff;
+  border: none;
+  padding: 16px 24px;
+  border-radius: 12px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 50px;
+  transition: all 0.2s;
+  width: 100%;
+  box-shadow: 0 4px 12px rgba(15, 23, 42, 0.15);
+}
+
+.btn-primario:hover {
+  transform: scale(0.98);
+  box-shadow: 0 2px 6px rgba(15, 23, 42, 0.1);
+}
+
+.mensagem-vazio {
+  text-align: center;
+  padding: 40px 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+/* --- Ajustes para a Virtualização (React Window) --- */
+
+/* Esconde a barra de scroll da nova lista gerada */
+.lista-reels::-webkit-scrollbar {
+  display: none;
+}
+
+/* Aplica o íman magnético */
+.lista-reels {
+  scroll-snap-type: y mandatory;
+}
+
+/* Diz ao contentor para ocupar toda a largura e altura disponíveis */
+.contentor-virtualizado {
+  scroll-snap-align: start;
+  height: 100vh; 
+  width: 100%; /* <-- A correção mágica da largura */
+  display: flex; /* <-- Força o filho (cartão) a esticar */
+}
+
+/* Garante que o cartão preenche a caixa onde está inserido */
+.contentor-virtualizado .cartao {
+  flex: 1; /* <-- Ocupa todo o espaço do pai */
+  width: 100%; 
+  height: 100%;
+  border-bottom: 1px solid var(--border);
+  box-sizing: border-box; /* Impede que o padding estrague a largura */
+}
+
+/* --- Estilos Novos para Favoritos --- */
+.cartao-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+/* Opcional: ajustar a margem da tag porque o header já a tem */
+.cartao-header .categoria-tag {
+  margin-bottom: 0; 
+}
+
+.btn-favorito {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  padding: 8px;
+  border-radius: 50%;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-favorito:hover {
+  transform: scale(1.15); /* Aumenta um bocadinho ao passar o rato */
+}
+
+.btn-favorito:active {
+  transform: scale(0.9); /* Efeito de clique */
+}
+
+.seccao-definicoes h3 {
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: var(--text-secondary);
+  margin-bottom: 12px;
+}
+
+/* --- ESTILOS DO QUIZ --- */
+.quiz-card {
+  border: 2px solid #3b82f6;
+  box-shadow: 0 0 30px rgba(59, 130, 246, 0.2);
+}
+
+.opcoes-quiz {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 24px;
+}
+
+.btn-opcao {
+  padding: 16px;
+  border-radius: 12px;
+  border: 1px solid rgba(255,255,255,0.2);
+  background-color: rgba(255,255,255,0.05);
+  color: white;
+  font-size: 16px;
+  text-align: left;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-opcao:hover:not(:disabled) {
+  background-color: rgba(255,255,255,0.1);
+  border-color: rgba(255,255,255,0.4);
+}
+
+.btn-opcao.correta {
+  background-color: #22c55e !important; /* Verde */
+  border-color: #22c55e !important;
+  color: white;
+  font-weight: bold;
+}
+
+.btn-opcao.errada {
+  background-color: #ef4444 !important; /* Vermelho */
+  border-color: #ef4444 !important;
+  color: white;
+  opacity: 0.7;
+}
+
+/* --- INDICADOR DE XP --- */
+.xp-indicador {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #10b981; /* Verde esmeralda */
+  background: rgba(16, 185, 129, 0.1);
+  padding: 4px 10px;
+  border-radius: 20px;
+  animation: subirDesaparecer 2s ease-out forwards;
+}
+
+@keyframes subirDesaparecer {
+  0% { opacity: 0; transform: translateY(10px); }
+  20% { opacity: 1; transform: translateY(0); }
+  80% { opacity: 1; transform: translateY(0); }
+  100% { opacity: 0; transform: translateY(-10px); }
+}
+
+/* --- ESTILOS DO ECRÃ DE EVOLUÇÃO --- */
+.cartao-nivel {
+  background-color: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  padding: 24px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 30px;
+}
+
+.icone-arvore {
+  font-size: 48px;
+  background-color: rgba(16, 185, 129, 0.1);
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info-nivel h3 { margin: 0 0 4px 0; font-size: 24px; }
+.info-nivel p { margin: 0; color: #10b981; font-weight: bold; }
+
+.barra-progresso-container { margin-bottom: 40px; }
+.barra-progresso-fundo {
+  background-color: var(--border);
+  height: 12px;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-bottom: 8px;
+}
+.barra-progresso-enchimento {
+  background-color: #10b981;
+  height: 100%;
+  transition: width 0.5s ease-out;
+}
+.texto-xp-falta { font-size: 14px; color: var(--text-secondary); text-align: right; }
+
+.item-estatistica {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border);
+}
+.nome-categoria { font-weight: 500; }
+.xp-categoria { color: var(--primary); font-weight: bold; }

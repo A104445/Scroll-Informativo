@@ -1,0 +1,2102 @@
+[
+    {
+      "id": "q1",
+      "facto_id": "f1",
+      "pergunta": "Quem é considerada a primeira programadora do mundo?",
+      "opcoes": ["Marie Curie", "Ada Lovelace", "Grace Hopper"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q2",
+      "facto_id": "f2",
+      "pergunta": "Qual é a analogia usada para descrever o Git?",
+      "opcoes": ["Um antivírus automático", "Um tradutor de código", "Uma máquina do tempo para o código"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q3",
+      "facto_id": "f3",
+      "pergunta": "Porque é que o JavaScript é a linguagem mais usada no mundo?",
+      "opcoes": ["É a única que os navegadores entendem nativamente", "Foi a primeira a ser inventada", "É a mais fácil de aprender"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q4",
+      "facto_id": "f4",
+      "pergunta": "O que diz a 'Regra dos 5 Minutos' sobre a procrastinação?",
+      "opcoes": ["Deves descansar 5 minutos a cada hora", "Promete fazer a tarefa apenas por 5 minutos para começar", "Se demora menos de 5 minutos, não a faças hoje"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q5",
+      "facto_id": "f5",
+      "pergunta": "O que afirma a Lei de Parkinson?",
+      "opcoes": ["O trabalho expande-se para preencher o tempo disponível", "80% do trabalho é feito em 20% do tempo", "Tarefas difíceis devem ser feitas de manhã"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q6",
+      "facto_id": "f6",
+      "pergunta": "Qual é a verdadeira cor do nosso sol?",
+      "opcoes": ["Amarelo", "Branco", "Laranja avermelhado"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q7",
+      "facto_id": "f7",
+      "pergunta": "É verdade que o vidro dos vitrais antigos escorre porque é um líquido lento?",
+      "opcoes": ["Sim, a gravidade puxa-o", "Não, é um sólido amorfo", "Sim, devido ao calor do sol"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q8",
+      "facto_id": "f8",
+      "pergunta": "Cleópatra viveu mais perto de que evento do que da construção da Grande Pirâmide?",
+      "opcoes": ["Queda do Império Romano", "Lançamento do primeiro iPhone", "Descoberta do Brasil"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q9",
+      "facto_id": "f9",
+      "pergunta": "Qual era a base da dieta dos gladiadores romanos?",
+      "opcoes": ["Carne crua", "Peixe e vinho", "Cevada e feijão"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q10",
+      "facto_id": "f10",
+      "pergunta": "De que é constituído um terço do exoplaneta '55 Cancri e'?",
+      "opcoes": ["Ouro puro", "Gelo sólido", "Diamante puro"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q11",
+      "facto_id": "f11",
+      "pergunta": "Em que planeta um único dia demora mais tempo do que um ano inteiro?",
+      "opcoes": ["Marte", "Vénus", "Júpiter"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q12",
+      "facto_id": "f12",
+      "pergunta": "Qual destas capacidades impressionantes os corvos possuem?",
+      "opcoes": ["Lembram-se de rostos humanos específicos", "Conseguem cheirar a longas distâncias", "Comunicam por telepatia"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q13",
+      "facto_id": "f13",
+      "pergunta": "Que percentagem de ADN partilhamos com as bananas?",
+      "opcoes": ["Cerca de 10%", "Cerca de 60%", "Mais de 90%"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q14",
+      "facto_id": "f14",
+      "pergunta": "Qual é o principal propósito da febre no corpo humano?",
+      "opcoes": ["Sinal de falha nos rins", "Acelerar o batimento cardíaco", "Criar um ambiente hostil para vírus e bactérias"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q15",
+      "facto_id": "f15",
+      "pergunta": "Para onde vai a maior parte da gordura quando perdes peso?",
+      "opcoes": ["Transforma-se em suor", "Transforma-se em músculo", "É expirada como dióxido de carbono"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q16",
+      "facto_id": "f16",
+      "pergunta": "O que descreve o Efeito Dunning-Kruger?",
+      "opcoes": ["Pessoas ignorantes sobrestimam a sua inteligência", "Especialistas são arrogantes", "Pessoas inteligentes aprendem mais rápido"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q17",
+      "facto_id": "f17",
+      "pergunta": "O que acontece quando um menu tem demasiadas opções?",
+      "opcoes": ["O cliente consome mais", "O cliente fica stressado e demora a escolher", "O cliente fica mais satisfeito"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q18",
+      "facto_id": "f18",
+      "pergunta": "Como é que a inflação afeta o dinheiro guardado debaixo do colchão?",
+      "opcoes": ["Aumenta o seu valor real", "Fá-lo perder poder de compra ao longo do tempo", "Não tem qualquer efeito"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q19",
+      "facto_id": "f19",
+      "pergunta": "Qual é a diferença entre um Ativo e um Passivo?",
+      "opcoes": ["O ativo é rápido, o passivo é lento", "O ativo tira dinheiro, o passivo poupa", "O ativo põe dinheiro no bolso, o passivo tira"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q20",
+      "facto_id": "f20",
+      "pergunta": "O que é, biologicamente, a sensação de 'picante'?",
+      "opcoes": ["O sexto sabor básico", "Dor que engana os recetores de temperatura", "Excesso de ácido na língua"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q21",
+      "facto_id": "f21",
+      "pergunta": "Qual é o único alimento que nunca se estraga com o tempo?",
+      "opcoes": ["Arroz", "Sal", "Mel"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q22",
+      "facto_id": "f22",
+      "pergunta": "Que país do nosso mundo é maior que todo o planeta Plutão?",
+      "opcoes": ["Canadá", "Rússia", "China"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q23",
+      "facto_id": "f23",
+      "pergunta": "Porque é que o Monte Everest continua a crescer anualmente?",
+      "opcoes": ["Acumulação de neve dura", "Aumento do nível do mar", "Pressão das placas tectónicas"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q24",
+      "facto_id": "f24",
+      "pergunta": "Quantos quadros conseguiu Vincent Van Gogh vender durante a sua vida?",
+      "opcoes": ["Apenas um", "Cerca de vinte", "Centenas"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q25",
+      "facto_id": "f25",
+      "pergunta": "Como reagem as plantas quando expostas a música?",
+      "opcoes": ["Sentem as vibrações das frequências sonoras", "Fecham as folhas", "Não têm qualquer reação física"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q26",
+      "facto_id": "f26",
+      "pergunta": "Porque é que os vídeos promocionais de filmes se chamam 'Trailers' (reboques)?",
+      "opcoes": ["Porque arrastam as pessoas ao cinema", "Porque antigamente eram exibidos no fim do filme", "Porque vinham em bobinas separadas"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q27",
+      "facto_id": "f27",
+      "pergunta": "O que significa o termo médico 'Hipopotomonstrosesquipedaliofobia'?",
+      "opcoes": ["Medo de hipopótamos", "Medo de espaços longos", "Medo de palavras longas"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q28",
+      "facto_id": "f28",
+      "pergunta": "Qual foi o primeiro domínio .com a ser registado na internet?",
+      "opcoes": ["google.com", "symbolics.com", "ibm.com"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q29",
+      "facto_id": "f29",
+      "pergunta": "Por onde viaja fisicamente mais de 95% do tráfego mundial da Internet?",
+      "opcoes": ["Por satélites no espaço", "Por cabos no fundo do oceano", "Por antenas 5G"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q30",
+      "facto_id": "f30",
+      "pergunta": "Porque é que 80% das pessoas no mundo já não consegue ver a Via Láctea?",
+      "opcoes": ["Devido à poluição luminosa artificial", "A galáxia está a afastar-se", "Devido ao aumento da camada de ozono"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q31",
+      "facto_id": "f31",
+      "pergunta": "Na psicologia das cores, porque é que tantas redes sociais usam a cor Azul?",
+      "opcoes": ["Para cansar menos a vista", "Porque transmite confiança e segurança", "Porque foi a cor mais barata nos primeiros ecrãs"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q32",
+      "facto_id": "f32",
+      "pergunta": "Qual é a verdadeira razão pela qual os porcos rebolam na lama?",
+      "opcoes": ["Para arrefecer o corpo, pois não têm glândulas sudoríparas", "Para esconderem o seu cheiro de predadores", "Porque a lama ajuda a digestão"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q33",
+      "facto_id": "f33",
+      "pergunta": "O que é a 'Wood Wide Web'?",
+      "opcoes": ["Um servidor antigo da internet", "Uma rede de fungos através da qual as árvores comunicam", "Um tipo de aranha da floresta"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q34",
+      "facto_id": "f34",
+      "pergunta": "Quem surgiu primeiro na linha do tempo do nosso planeta?",
+      "opcoes": ["Os dinossauros", "As árvores", "Os tubarões"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q35",
+      "facto_id": "f35",
+      "pergunta": "Qual é a principal função de um comentário num código de programação?",
+      "opcoes": ["Explicar O QUE o código faz", "Explicar PORQUE o código foi feito assim", "Esconder código antigo"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q36",
+      "facto_id": "f36",
+      "pergunta": "Segundo a Matriz de Impacto, que tipo de tarefa deve ser a tua prioridade número um?",
+      "opcoes": ["Muito esforço, baixo impacto", "Pouco esforço, muito impacto", "Muito esforço, muito impacto"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q37",
+      "facto_id": "f37",
+      "pergunta": "Como é que Albert Einstein descrevia a gravidade?",
+      "opcoes": ["Um íman gigante no núcleo da Terra", "A curvatura do espaço e do tempo causada pela massa", "Uma força elétrica de atração"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q38",
+      "facto_id": "f38",
+      "pergunta": "Em que região do mundo o papel-moeda foi usado pela primeira vez?",
+      "opcoes": ["Roma Antiga", "Inglaterra", "China"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q39",
+      "facto_id": "f39",
+      "pergunta": "Qual é a assustadora meteorologia do exoplaneta HD 189733b?",
+      "opcoes": ["Chove fogo", "Chove ácido sulfúrico", "Chove vidro de forma horizontal"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q40",
+      "facto_id": "f40",
+      "pergunta": "Qual é o animal que mais humanos mata por ano no mundo?",
+      "opcoes": ["Tubarão", "Mosquito", "Cobra"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q41",
+      "facto_id": "f41",
+      "pergunta": "Porque é que o açúcar é considerado tão viciante pelo cérebro?",
+      "opcoes": ["Ativa as mesmas zonas de recompensa que drogas pesadas", "Contém traços de cafeína", "Entra diretamente na corrente sanguínea"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q42",
+      "facto_id": "f42",
+      "pergunta": "O que define o 'Viés de Confirmação' na psicologia?",
+      "opcoes": ["Ignorar factos que contrariam as nossas crenças e focar no que as confirma", "Acreditar na primeira coisa que ouvimos", "Necessidade de concordar com os chefes"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q43",
+      "facto_id": "f43",
+      "pergunta": "A quantos meses de despesas básicas deve equivaler o teu Fundo de Emergência?",
+      "opcoes": ["1 mês", "6 meses", "24 meses"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q44",
+      "facto_id": "f44",
+      "pergunta": "O Efeito Mpemba descreve que fenómeno estranho da água?",
+      "opcoes": ["A água quente congela mais rápido que a fria", "A água nunca congela se estiver em movimento", "A água evapora mais no escuro"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q45",
+      "facto_id": "f45",
+      "pergunta": "Que percentagem do leito marinho do nosso planeta já foi explorada?",
+      "opcoes": ["Menos de 10%", "Cerca de 50%", "Mais de 80%"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q46",
+      "facto_id": "f46",
+      "pergunta": "Qual é a grande polémica artística à volta da cor 'Vantablack'?",
+      "opcoes": ["É ilegal produzi-la", "Apenas o pintor Anish Kapoor tem o direito de a usar", "Desvanece após 2 anos no papel"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q47",
+      "facto_id": "f47",
+      "pergunta": "Quem foi o primeiro grande compositor a usar o metrónomo nas suas partituras?",
+      "opcoes": ["Wolfgang Amadeus Mozart", "Ludwig van Beethoven", "Johann Sebastian Bach"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q48",
+      "facto_id": "f48",
+      "pergunta": "Quem é a pessoa mais premiada da história dos Óscares da Academia?",
+      "opcoes": ["Steven Spielberg", "Meryl Streep", "Walt Disney"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q49",
+      "facto_id": "f49",
+      "pergunta": "Que autor famoso foi o primeiro a entregar um manuscrito inteiramente feito numa máquina de escrever?",
+      "opcoes": ["Mark Twain", "William Shakespeare", "Charles Dickens"],
+      "resposta_correta": 0
+    },
+    {
+      "id": "q50",
+      "facto_id": "f50",
+      "pergunta": "Qual era a raiz técnica do famoso 'Bug do Milénio' (Y2K)?",
+      "opcoes": ["Um vírus russo indetetável", "Sistemas informáticos que guardavam anos com apenas 2 dígitos", "Saturação das redes de internet"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q51",
+      "facto_id": "f51",
+      "pergunta": "Em média, quantos litros de água são precisos para produzir uma única t-shirt de algodão?",
+      "opcoes": ["Cerca de 50 litros", "Cerca de 2.700 litros", "Cerca de 10.000 litros"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q52",
+      "facto_id": "f52",
+      "pergunta": "No design, para que serve o chamado 'espaço negativo' ou em branco?",
+      "opcoes": ["Para poupar tinta na impressão", "Para dar respiração visual e guiar o olho", "Porque o cliente não tinha conteúdo suficiente"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q53",
+      "facto_id": "f53",
+      "pergunta": "Qual destas frutas NÃO é considerada botanicamente uma 'baga'?",
+      "opcoes": ["Banana", "Melancia", "Morango"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q54",
+      "facto_id": "f54",
+      "pergunta": "Como alcança a 'Turritopsis dohrnii' a imortalidade biológica?",
+      "opcoes": ["Regenera membros perdidos instantaneamente", "Reverte o seu corpo à fase de bebé quando envelhece", "Congela o seu metabolismo no fundo do mar"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q55",
+      "facto_id": "f55",
+      "pergunta": "Para que propósito principal foi inventada a tecla 'Escape' em 1960?",
+      "opcoes": ["Para apagar ficheiros mais rápido", "Para interromper códigos que entravam em loops infinitos", "Para voltar ao menu anterior num jogo"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q56",
+      "facto_id": "f56",
+      "pergunta": "Na Técnica Pomodoro, porque é que o temporizador se baseia em blocos de 25 minutos?",
+      "opcoes": ["Porque era o máximo de tempo do relógio", "Porque é o limite da atenção máxima humana", "Porque é o tempo exato para o cérebro não aquecer"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q57",
+      "facto_id": "f57",
+      "pergunta": "Aproximadamente quanto pode pesar uma nuvem média de bom tempo?",
+      "opcoes": ["Não tem peso, é apenas gás", "500 quilos", "500.000 quilos (100 elefantes)"],
+      "resposta_correta": 2
+    },
+    {
+      "id": "q58",
+      "facto_id": "f58",
+      "pergunta": "O que atrasou séculos da ciência quando a Biblioteca de Alexandria ardeu?",
+      "opcoes": ["Mapas detalhados da América", "Planos de engenharia a vapor", "Fórmulas de eletricidade"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q59",
+      "facto_id": "f59",
+      "pergunta": "Porque é que as pegadas dos astronautas vão ficar na Lua durante milhões de anos?",
+      "opcoes": ["Porque o solo é feito de cola magnética", "Porque não existe vento nem água na Lua", "Porque foram petrificadas por radiação"],
+      "resposta_correta": 1
+    },
+    {
+      "id": "q60",
+      "facto_id": "f60",
+      "pergunta": "A que velocidade assombrosa viajam os impulsos nervosos do teu cérebro?",
+      "opcoes": ["100 km/h", "430 km/h", "À velocidade do som (1200 km/h)"],
+      "resposta_correta": 1
+    },
+    {
+        "id": "q61",
+        "facto_id": "f61",
+        "pergunta": "O que caracteriza o software 'Open Source'?",
+        "opcoes": ["É um código mantido em segredo absoluto", "O código é público e pode ser modificado por qualquer pessoa", "É um software gratuito apenas para estudantes"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q62",
+        "facto_id": "f62",
+        "pergunta": "O que define o 'Trabalho Profundo' (Deep Work)?",
+        "opcoes": ["Trabalhar 12 horas seguidas sem dormir", "A capacidade de focar sem distração numa tarefa exigente", "Delegar a maioria das tarefas para a equipa"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q63",
+        "facto_id": "f63",
+        "pergunta": "De onde vem a maioria do oxigénio que respiramos na Terra?",
+        "opcoes": ["Das florestas tropicais da Amazónia", "Do fitoplâncton marinho nos oceanos", "Das zonas polares de gelo"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q64",
+        "facto_id": "f64",
+        "pergunta": "Qual é a origem da imagem dos Vikings com capacetes de chifres?",
+        "opcoes": ["Foram desenhados por figurinistas de óperas no século XIX", "Achados arqueológicos na Noruega confirmaram a teoria", "Eram usados apenas em cerimónias fúnebres"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q65",
+        "facto_id": "f65",
+        "pergunta": "Qual é a bizarra condição meteorológica do planeta WASP-76b?",
+        "opcoes": ["Chove ferro líquido à noite", "Neva diamantes puros", "Os furacões são feitos de fogo"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q66",
+        "facto_id": "f66",
+        "pergunta": "Para que serve o estranho suor avermelhado dos hipopótamos?",
+        "opcoes": ["Para afastar predadores com o cheiro", "Para atrair fêmeas na época de acasalamento", "Serve de protetor solar e antibiótico natural"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q67",
+        "facto_id": "f67",
+        "pergunta": "Qual é o efeito de uma ligeira desidratação (apenas 2%) no teu cérebro?",
+        "opcoes": ["Prejudica a tua memória de curto prazo e a atenção", "Provoca alucinações visuais e tonturas", "Acelera temporariamente o batimento cardíaco"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q68",
+        "facto_id": "f68",
+        "pergunta": "Segundo a psicologia, o que é o 'Efeito de Grupo' numa emergência?",
+        "opcoes": ["A vítima é sempre socorrida em poucos segundos", "Quanto mais pessoas observam, menor a probabilidade de alguém te ajudar", "A multidão entra em pânico coletivo"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q69",
+        "facto_id": "f69",
+        "pergunta": "Na famosa regra financeira dos 50/30/20, o que representam os 20%?",
+        "opcoes": ["Necessidades básicas (renda, comida)", "Poupança ou investimento", "Desejos pessoais (lazer)"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q70",
+        "facto_id": "f70",
+        "pergunta": "Porque se deve colocar sal na água a ferver para cozer massa?",
+        "opcoes": ["Para que a água ferva muito mais depressa", "Para evitar que a massa se cole no fundo", "Para temperar a massa de dentro para fora"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q71",
+        "facto_id": "f71",
+        "pergunta": "O que caracteriza o Ponto Nemo no oceano?",
+        "opcoes": ["É o ponto mais poluído do mundo", "É o local mais distante de qualquer terra firme", "É a zona com a maior concentração de tubarões brancos"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q72",
+        "facto_id": "f72",
+        "pergunta": "Como eram as originais estátuas de mármore branco da Grécia Antiga?",
+        "opcoes": ["Cobertas de pó de ouro brilhante", "Pintadas com cores vivas e berrantes", "Eram completamente translúcidas"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q73",
+        "facto_id": "f73",
+        "pergunta": "A que se assemelham as emissões de rádio do planeta Saturno quando convertidas em som?",
+        "opcoes": ["O motor de um carro a acelerar", "O canto de centenas de pássaros agudos", "Um vento assustador digno de um filme de terror"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q74",
+        "facto_id": "f74",
+        "pergunta": "O que é o famoso 'Grito Wilhelm' no cinema?",
+        "opcoes": ["Um som de grito reutilizado em mais de 400 filmes", "A técnica de canto de um vilão num filme clássico", "O som que os dinossauros fazem no Parque Jurássico"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q75",
+        "facto_id": "f75",
+        "pergunta": "De onde deriva o nome 'Google'?",
+        "opcoes": ["Da palavra 'Goggles' (óculos de mergulho)", "Do termo matemático 'Googol' (um 1 seguido de 100 zeros)", "Do apelido de um dos programadores fundadores"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q76",
+        "facto_id": "f76",
+        "pergunta": "Qual foi o motivo incrivelmente banal para a invenção da primeira webcam em Cambridge?",
+        "opcoes": ["Ver se o chefe vinha no corredor", "Vigiar os carros no parque de estacionamento", "Ver se a cafeteira tinha café ou estava vazia"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q77",
+        "facto_id": "f77",
+        "pergunta": "Para que serve o histórico 'Teste de Turing'?",
+        "opcoes": ["Para detetar vírus disfarçados de programas úteis", "Para testar se uma máquina exibe inteligência indistinguível da humana", "Para medir a velocidade máxima de um processador"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q78",
+        "facto_id": "f78",
+        "pergunta": "Qual gasta mais água: lavar loiça à mão na pia ou usar uma máquina cheia?",
+        "opcoes": ["Lavar à mão gasta cerca de 10 vezes mais água", "A máquina gasta cerca do triplo da água", "Ambos gastam exatamente a mesma quantidade"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q79",
+        "facto_id": "f79",
+        "pergunta": "No design, que mensagem emocional transmitem as formas circulares e arredondadas?",
+        "opcoes": ["Agressividade e força", "Estabilidade burocrática", "Unidade, proteção e comunidade"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q80",
+        "facto_id": "f80",
+        "pergunta": "Porque é que um produto a 4,99€ nos parece muito mais barato do que a 5,00€?",
+        "opcoes": ["O nosso cérebro processa o '4' da esquerda antes dos cêntimos", "Os números ímpares transmitem a sensação de pechincha", "O cérebro ignora os números 9"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q81",
+        "facto_id": "f81",
+        "pergunta": "No mundo dos negócios, o que tem mais valor prático?",
+        "opcoes": ["Uma ideia revolucionária que ficou no papel", "Uma ideia medíocre extremamente bem executada", "A criação do logótipo perfeito"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q82",
+        "facto_id": "f82",
+        "pergunta": "O que define oficialmente uma 'Língua Morta' como o Latim?",
+        "opcoes": ["Apenas é ensinada em escolas privadas", "Nenhum documento escrito recente a utiliza", "Não tem mais falantes nativos vivos"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q83",
+        "facto_id": "f83",
+        "pergunta": "Na história original da mitologia grega, a Caixa de Pandora era na verdade...",
+        "opcoes": ["Um livro de feitiços", "Um jarro de cerâmica", "Uma mala de ouro puro"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q84",
+        "facto_id": "f84",
+        "pergunta": "Qual é a base da filosofia do Niilismo?",
+        "opcoes": ["A vida não tem um sentido intrínseco e nada importa", "Tudo o que fazemos está traçado pelo destino", "A natureza é o único Deus verdadeiro"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q85",
+        "facto_id": "f85",
+        "pergunta": "De onde provém o nome e a distância da prova desportiva 'Maratona'?",
+        "opcoes": ["Do rei Maratão que adorava correr", "Do inventor grego do formato da pista", "Da corrida épica do soldado Fidípides entre Maratona e Atenas"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q86",
+        "facto_id": "f86",
+        "pergunta": "Que parte do corpo humano beneficia especialmente de frutas roxas como os mirtilos?",
+        "opcoes": ["Os músculos (proteína rápida)", "A visão no escuro", "A memória"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q87",
+        "facto_id": "f87",
+        "pergunta": "Porque é que os engenheiros desenham arranha-céus gigantes para abanarem com o vento?",
+        "opcoes": ["Porque isso gera energia para o prédio", "Se fossem totalmente rígidos, quebrariam sob a pressão do vento", "Para enganar os sistemas anti-sismo"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q88",
+        "facto_id": "f88",
+        "pergunta": "O que é a 'Hora Dourada' (Golden Hour) que os fotógrafos tanto adoram?",
+        "opcoes": ["O momento em que a foto revela perfeitamente o amarelo", "A hora do almoço com o sol a bater a pico", "A hora após o nascer do sol e a antes do pôr do sol"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q89",
+        "facto_id": "f89",
+        "pergunta": "Qual destas duas ferramentas para fazer fogo foi inventada primeiro?",
+        "opcoes": ["O Isqueiro (em 1823)", "O Fósforo de fricção (em 1826)", "Foram inventados na mesma década em colaboração"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q90",
+        "facto_id": "f90",
+        "pergunta": "Numa emergência fria, porque não deves comer neve para matar a sede?",
+        "opcoes": ["Porque podes apanhar bactérias mortais congeladas", "O teu corpo gasta demasiada energia a derreter a neve, acelerando a hipotermia", "A neve desidrata-te ainda mais porque absorve a tua saliva"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q91",
+        "facto_id": "f91",
+        "pergunta": "Como se define a zona de 'Backend' num website?",
+        "opcoes": ["A parte visual (botões, cores e imagens)", "A parte invisível onde os dados e a lógica são processados (o 'cérebro')", "O código usado exclusivamente para criar animações"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q92",
+        "facto_id": "f92",
+        "pergunta": "O que era o 'Sono Polifásico' usado por génios como Leonardo da Vinci?",
+        "opcoes": ["Dormir 20 minutos a cada 4 horas em vez de uma noite longa", "Dormir apenas de dia e trabalhar toda a noite", "Dormir numa banheira com água morna"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q93",
+        "facto_id": "f93",
+        "pergunta": "O estrondo do Trovão é na verdade o som de quê?",
+        "opcoes": ["Duas nuvens pesadas a chocarem fisicamente", "O choque elétrico com a superfície da terra", "O ar a expandir-se a alta velocidade devido ao calor extremo do relâmpago"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q94",
+        "facto_id": "f94",
+        "pergunta": "Quem foi o inimigo do exército australiano na bizarra 'Guerra de 1932' que acabaram por perder?",
+        "opcoes": ["Cangurus agressivos do interior", "Bandos destruidores de aves Emu", "Um exército pirata da Nova Zelândia"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q95",
+        "facto_id": "f95",
+        "pergunta": "Quanto tempo na Terra equivale a apenas 1 ano no gigante planeta Júpiter?",
+        "opcoes": ["Aproximadamente 12 anos terrestres", "3 meses terrestres", "Cerca de 125 anos terrestres"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q96",
+        "facto_id": "f96",
+        "pergunta": "Como é que os cães conseguem aperceber-se do passar do 'tempo' usando o nariz?",
+        "opcoes": ["Calculando a distância do Sol pela temperatura", "Através do declínio gradual e enfraquecimento do rasto de cheiros no ar", "Eles ouvem os relógios mecânicos nos pulsos humanos"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q97",
+        "facto_id": "f97",
+        "pergunta": "O que faz a luz azul dos telemóveis ao teu cérebro à noite?",
+        "opcoes": ["Queima os recetores óticos lentamente", "Engana-o achando que ainda é dia, bloqueando a hormona do sono (melatonina)", "Produz uma leve dor de cabeça que te impede de dormir"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q98",
+        "facto_id": "f98",
+        "pergunta": "O viés da 'Ancoragem' explica porque é que nós...",
+        "opcoes": ["Nos focamos e somos condicionados pela primeira informação/preço que vemos", "Confiamos sempre em pessoas mais velhas", "Gostamos mais das pessoas que nos tratam mal"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q99",
+        "facto_id": "f99",
+        "pergunta": "Em economia pessoal, o que é um 'Custo de Oportunidade'?",
+        "opcoes": ["O imposto escondido nas compras online", "O que deixaste de fazer, comprar ou investir quando escolheste a outra opção", "A taxa de juro quando pedes um empréstimo"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q100",
+        "facto_id": "f100",
+        "pergunta": "Porque é que botanicamente (na ciência) o tomate é uma fruta e não um vegetal?",
+        "opcoes": ["Tem um nível alto de frutose (açúcar)", "Nasce numa planta e tem sementes no seu interior", "É consumido em saladas cruas"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q101",
+        "facto_id": "f101",
+        "pergunta": "Que lago africano é tão monstruoso que gera o seu próprio clima e tem ondas como o oceano?",
+        "opcoes": ["O Lago Tanganica", "O Lago Vitória", "O Lago Malawi"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q102",
+        "facto_id": "f102",
+        "pergunta": "Quantas palavras compõem o nome completo de batismo do pintor Pablo Picasso?",
+        "opcoes": ["Apenas 2", "15", "23 palavras"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q103",
+        "facto_id": "f103",
+        "pergunta": "O que permitia a Mozart identificar qualquer nota de um som comum (como um sino)?",
+        "opcoes": ["Era invisual, o que melhorou a audição", "Ele possuía 'ouvido absoluto'", "Tinha uma calculadora de notas inventada pelo pai"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q104",
+        "facto_id": "f104",
+        "pergunta": "Qual foi o filme de 1927 que destruiu a era do cinema mudo por ter sido o primeiro com diálogos sincronizados?",
+        "opcoes": ["O Cantor de Jazz", "A Viagem à Lua", "Luzes da Cidade"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q105",
+        "facto_id": "f105",
+        "pergunta": "O que fez o criador de Sherlock Holmes 'ressuscitá-lo' após o ter matado num livro?",
+        "opcoes": ["Precisava do dinheiro urgentemente", "A enorme e zangada revolta dos fãs obrigou-o", "Um realizador de cinema comprou os direitos"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q106",
+        "facto_id": "f106",
+        "pergunta": "Como era a logística de um disco rígido de apenas 5MB no ano de 1956?",
+        "opcoes": ["Pesava uma tonelada inteira e tinha de ser transportado em aviões de carga", "Era do tamanho de um tijolo", "Tinha o tamanho de uma máquina de lavar roupa leve"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q107",
+        "facto_id": "f107",
+        "pergunta": "O que são os famosos e perigosos 'Deepfakes' modernos?",
+        "opcoes": ["Vídeos originais roubados de servidores cloud", "Vídeos ou áudios fabricados por IA que imitam com perfeição pessoas reais", "Trolls e contas falsas no Twitter"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q108",
+        "facto_id": "f108",
+        "pergunta": "Onde é que, de forma assustadora, já foram detetadas amostras de microplásticos na nossa era?",
+        "opcoes": ["No cume do Everest, no fundo do mar e dentro de sangue humano", "Apenas à superfície dos rios da Europa", "Unicamente no estômago de peixes em cativeiro"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q109",
+        "facto_id": "f109",
+        "pergunta": "Onde deves preferencialmente usar fontes com 'Serifas' (com tracinhos nas pontas das letras)?",
+        "opcoes": ["Na programação de código", "Em textos impressos no papel (jornais/livros)", "Exclusivamente em ecrãs digitais e apps"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q110",
+        "facto_id": "f110",
+        "pergunta": "Para que serve libertar aromas artificiais a baunilha e pão nas lojas comerciais?",
+        "opcoes": ["Esconder o cheiro dos químicos das roupas", "Para evocar memórias de conforto e fazer o cliente demorar-se lá dentro", "Acalmar as crianças e evitar que chorem"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q111",
+        "facto_id": "f111",
+        "pergunta": "Antes de ser uma App massiva de fotografias, qual foi o objetivo falhado do primeiro protótipo do Instagram?",
+        "opcoes": ["Uma aplicação de check-in geográfico chamada Burbn", "Um site para vender filtros de lentes", "Um clone do Twitter focado em vídeos"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q112",
+        "facto_id": "f112",
+        "pergunta": "Qual era o belo, mas falhado, objetivo original do Esperanto quando foi criado em 1887?",
+        "opcoes": ["Ser uma linguagem diplomática secreta para governos", "Promover a paz mundial servindo de segunda língua universal neutra", "Reviver e substituir o Latim clássico na Europa"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q113",
+        "facto_id": "f113",
+        "pergunta": "Na mitologia original grega, quem era realmente a Medusa antes de se tornar naquele monstro de pedra?",
+        "opcoes": ["Sempre foi um monstro das profundezas", "A Deusa original do Sol que foi expulsa", "Uma mulher belíssima que sofreu um castigo cruel da deusa Atena"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q114",
+        "facto_id": "f114",
+        "pergunta": "O que nos tenta avisar Platão através da metáfora do 'Mito da Caverna'?",
+        "opcoes": ["Pessoas presas à ignorância acreditam que as sombras/ilusões são toda a realidade", "Devemos viver longe da sociedade nas montanhas", "O medo do escuro é a raiz da civilização"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q115",
+        "facto_id": "f115",
+        "pergunta": "Qual desporto inusitado é que o astronauta Alan Shepard praticou durante a missão à Lua em 1971?",
+        "opcoes": ["Deu uns toques numa bola de futebol", "Praticou salto em comprimento sem gravidade", "Deu duas tacadas com um taco e bola de golfe"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q116",
+        "facto_id": "f116",
+        "pergunta": "Para além das calorias vazias, qual é o maior truque biológico da comida industrial ultra-processada?",
+        "opcoes": ["Engana o paladar e sabe a ingredientes que não existem", "É desenhada cientificamente para enganar os sinais de saciedade do cérebro", "Desidrata o organismo para vender mais refrigerantes"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q117",
+        "facto_id": "f117",
+        "pergunta": "O que levou os proprietários britânicos a taparem as janelas com tijolos em Londres nos séculos passados?",
+        "opcoes": ["O grande surto de Peste Negra em 1665", "Para fugir ao ridículo 'Imposto sobre as Janelas' cobrado pelo estado", "A tentativa de proteger a casa das bombas de arremesso noturnas"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q118",
+        "facto_id": "f118",
+        "pergunta": "Aumentar drasticamente o ISO numa câmara fotográfica captura fotos no escuro, mas a que custo visual?",
+        "opcoes": ["Retira todas as cores da imagem", "Deforma os rostos das pessoas num efeito de 'olho de peixe'", "Adiciona muito 'grão' ou ruído digital que estraga a nitidez"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q119",
+        "facto_id": "f119",
+        "pergunta": "O Ogro verde Shrek divide uma curiosidade muito exclusiva com personagens famosas como o rato Mickey. Qual?",
+        "opcoes": ["Receberam ambos Óscares honorários da Academia", "Têm a sua própria estrela oficial na Calçada da Fama de Hollywood", "Os bonecos de ambos foram ao espaço numa missão da NASA"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q120",
+        "facto_id": "f120",
+        "pergunta": "Na técnica de orientação de sobrevivência, o musgo cresce apenas apontado para Norte?",
+        "opcoes": ["Sim, reage aos pólos magnéticos do planeta", "Não, é falso. Ele cresce simplesmente onde houver mais humidade e sombra", "Sim, devido ao alinhamento com a estrela polar no hemisfério norte"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q121",
+        "facto_id": "f121",
+        "pergunta": "Numa analogia com um restaurante, o que representa uma API (Interface de Programação de Aplicações)?",
+        "opcoes": ["O chefe de cozinha", "A ementa com os preços", "O empregado de mesa que leva o pedido"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q122",
+        "facto_id": "f122",
+        "pergunta": "Qual é um dos grandes paradoxos na programação de computadores?",
+        "opcoes": ["Ler código de outros é mais difícil do que escrevê-lo", "O código curto é sempre mais lento", "Os computadores não entendem matemática pura"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q123",
+        "facto_id": "f123",
+        "pergunta": "O que dita o Princípio de Pareto aplicado à produtividade?",
+        "opcoes": ["Só tens 80% de energia depois das 20h", "80% dos teus resultados vêm de apenas 20% do teu esforço", "Deves descansar 20 minutos a cada 80 minutos de foco"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q124",
+        "facto_id": "f124",
+        "pergunta": "Porque é que os astronautas na Estação Espacial envelhecem ligeiramente mais devagar que nós?",
+        "opcoes": ["Porque o frio do espaço preserva as células", "Devido à falta de oxidação pelo sol", "Porque viajar a grandes velocidades faz o tempo abrandar"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q125",
+        "facto_id": "f125",
+        "pergunta": "Quem foram as pessoas que construíram as Grandes Pirâmides do Egito?",
+        "opcoes": ["Prisioneiros de guerra romanos", "Trabalhadores assalariados e respeitados", "Milhares de escravos estrangeiros"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q126",
+        "facto_id": "f126",
+        "pergunta": "O que são realmente os 'Buracos Negros' no espaço?",
+        "opcoes": ["Zonas de anti-matéria invisível", "Esferas com uma quantidade colossal de matéria comprimida", "Ralos que absorvem galáxias para outra dimensão"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q127",
+        "facto_id": "f127",
+        "pergunta": "Onde estão localizados os '9 cérebros' de um polvo?",
+        "opcoes": ["Um cérebro central e mini-cérebros em cada um dos 8 tentáculos", "Todos concentrados numa única massa na cabeça", "Repartidos pelos seus 3 corações e órgãos digestivos"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q128",
+        "facto_id": "f128",
+        "pergunta": "O que significa a cafeína ter uma 'semi-vida' de 6 horas?",
+        "opcoes": ["Começa a fazer efeito 6 horas após a beberes", "Deixa de fazer qualquer efeito exato após 6 horas", "6 horas depois de a beberes, ainda tens metade dela no sangue"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q129",
+        "facto_id": "f129",
+        "pergunta": "O que é a 'Falácia do Custo Irrecuperável' na psicologia?",
+        "opcoes": ["Pagar mais caro por algo para parecer que tem melhor qualidade", "Continuar num mau projeto só porque já se investiu demasiado nele", "Comprar algo que não precisas só porque estava em promoção"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q130",
+        "facto_id": "f130",
+        "pergunta": "Na literacia financeira, para que serve a 'Regra dos 72'?",
+        "opcoes": ["Para calcular em quantos anos o teu dinheiro duplica com base na taxa de juro", "Para saber a percentagem de imposto que vais pagar", "Para determinar a idade ideal da reforma"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q131",
+        "facto_id": "f131",
+        "pergunta": "De que é feito 99% do suposto 'Wasabi' servido em restaurantes de sushi ocidentais?",
+        "opcoes": ["Raízes de bambu fermentado", "Gengibre verde tingido", "Rábano picante misturado com mostarda e corante"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q132",
+        "facto_id": "f132",
+        "pergunta": "Qual é verdadeiramente a montanha mais alta do mundo, se medirmos desde a sua base real?",
+        "opcoes": ["O Monte Kilimanjaro", "O Vulcão Mauna Kea no Havai", "O Monte Everest"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q133",
+        "facto_id": "f133",
+        "pergunta": "O que transformou a 'Mona Lisa' numa das pinturas mais famosas e reconhecidas globalmente?",
+        "opcoes": ["O facto de ter pertencido ao rei de Inglaterra", "Um documentário da primeira televisão", "O enorme mediatismo quando foi roubada do Louvre em 1911"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q134",
+        "facto_id": "f134",
+        "pergunta": "Qual é a curiosidade irónica sobre os Beatles, a banda mais influente de sempre?",
+        "opcoes": ["Nenhum deles sabia ler ou escrever pautas musicais", "Eles nunca atuaram fora de Inglaterra", "Todos eles eram surdos do ouvido esquerdo"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q135",
+        "facto_id": "f135",
+        "pergunta": "O que foi usado para simular sangue na famosa cena do chuveiro do filme 'Psycho' (1960)?",
+        "opcoes": ["Molho de tomate diluído", "Tinta vermelha industrial", "Xarope de chocolate Bosco"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q136",
+        "facto_id": "f136",
+        "pergunta": "Que grande contribuição literária fez William Shakespeare à língua inglesa?",
+        "opcoes": ["Foi o primeiro a escrever livros de bolso", "Inventou mais de 1700 palavras simplesmente juntando sílabas", "Traduziu a Bíblia para inglês moderno"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q137",
+        "facto_id": "f137",
+        "pergunta": "Qual é a razão técnica para a seta do cursor do rato ser inclinada para a esquerda?",
+        "opcoes": ["Para cansar menos a visão do utilizador", "Porque a maioria dos utilizadores é destra", "Porque ecrãs antigos de baixa resolução não conseguiam desenhar retas verticais nítidas"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q138",
+        "facto_id": "f138",
+        "pergunta": "O que significa a popular sigla da internet 'CAPTCHA'?",
+        "opcoes": ["Um código de encriptação militar dos EUA", "Um Teste de Turing para distinguir computadores e humanos", "Um software de anti-vírus baseado em imagens"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q139",
+        "facto_id": "f139",
+        "pergunta": "Qual é a grande vantagem da reciclagem do vidro face ao plástico e ao papel?",
+        "opcoes": ["Pode ser reciclado infinitamente sem perder qualquer pureza", "Derrete ao sol poupando energia às fábricas", "É muito mais leve de transportar"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q140",
+        "facto_id": "f140",
+        "pergunta": "O 'Efeito IKEA' demonstra que as pessoas dão um valor incrivelmente maior a um produto quando...",
+        "opcoes": ["O compram noutro país", "É feito de madeira e não de metal", "Tiveram trabalho físico ou mental a montá-lo e personalizá-lo"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q141",
+        "facto_id": "f141",
+        "pergunta": "Em marketing, para que serve o 'Efeito Isco' (Decoy), como o balde de pipocas médio no cinema?",
+        "opcoes": ["Para acabar com os restos de comida do dia anterior", "Apenas para fazer o pacote maior e mais caro parecer um excelente negócio", "Para agradar a crianças e pessoas com menos fome"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q142",
+        "facto_id": "f142",
+        "pergunta": "O que é verdadeiramente um 'MVP' (Produto Mínimo Viável) para um empreendedor?",
+        "opcoes": ["Um produto estragado apenas para testes internos", "A versão mais pequena de um produto que já entrega o valor principal ao cliente", "Uma aplicação que já faturou o seu primeiro milhão"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q143",
+        "facto_id": "f143",
+        "pergunta": "Qual é a principal curiosidade do alfabeto da língua Rotokas (Papua Nova Guiné)?",
+        "opcoes": ["Não tem vogais", "Lê-se de baixo para cima", "É um dos menores do mundo, com apenas 12 letras"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q144",
+        "facto_id": "f144",
+        "pergunta": "O que diz a arqueologia e a história moderna sobre o icónico Cavalo de Troia?",
+        "opcoes": ["Não há qualquer evidência de que tenha existido, é apenas invenção literária", "Foi construído em pedra e não em madeira", "Foram usados três pequenos e não um grande"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q145",
+        "facto_id": "f145",
+        "pergunta": "O que afirma o princípio filosófico da 'Navalha de Occam'?",
+        "opcoes": ["A dor ensina mais do que a teoria", "Se tens duas explicações para algo, a mais simples é geralmente a correta", "Devemos questionar e destruir os mitos da religião"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q146",
+        "facto_id": "f146",
+        "pergunta": "De que metal são efetivamente feitas as medalhas de 'Ouro' Olímpico modernas?",
+        "opcoes": ["De bronze reciclado", "De ouro sólido e puro", "Cerca de 98% de prata, sendo apenas banhadas a ouro"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q147",
+        "facto_id": "f147",
+        "pergunta": "O que usam muitas empresas quando dizem que os cereais de pequeno-almoço são 'Enriquecidos com Ferro'?",
+        "opcoes": ["Adicionam literalmente poeira de ferro magnética à comida", "Cozem os cereais em frigideiras industriais antigas", "Colocam uma gota de sangue de vaca em cada lote"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q148",
+        "facto_id": "f148",
+        "pergunta": "Que recorde arquitetónico ainda é detido pelo Panteão de Roma, quase 1900 anos após ser construído?",
+        "opcoes": ["Maior templo fechado iluminado a tochas", "Maior cúpula de betão não-armado do mundo (sem aço)", "A única estrutura imune a terramotos na Europa"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q149",
+        "facto_id": "f149",
+        "pergunta": "Qual foi a grande dificuldade da primeira 'selfie' (autorretrato fotográfico) tirada em 1839?",
+        "opcoes": ["O homem teve de ficar completamente imóvel durante 15 minutos", "Toda a imagem ficou invertida e com as cores erradas", "A lente pesava 30 quilos e teve de ser levantada à mão"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q150",
+        "facto_id": "f150",
+        "pergunta": "Surpreendentemente, qual é a marca que mais pneus fabrica e produz em todo o mundo?",
+        "opcoes": ["A marca chinesa Michelin", "A Goodyear", "A LEGO (para brinquedos)"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q151",
+        "facto_id": "f151",
+        "pergunta": "Ao contrário dos filmes, o que te acontece realmente se caíres em areias movediças?",
+        "opcoes": ["A areia endurece e transforma-se em cimento ao redor das tuas pernas", "Vais afundar até à cintura e ficar a flutuar porque o corpo é menos denso", "Sufocas devido ao pó que se levanta"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q152",
+        "facto_id": "f152",
+        "pergunta": "Até ao surgimento do Flexbox, qual era um dos maiores pesadelos dos programadores e Web Designers em CSS?",
+        "opcoes": ["Centrar um texto da direita para a esquerda", "Colocar cores transparentes", "Centrar perfeitamente um elemento (uma div) na vertical"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q153",
+        "facto_id": "f153",
+        "pergunta": "O que explica o famoso 'Efeito Zeigarnik' na psicologia da memória?",
+        "opcoes": ["Lembramo-nos melhor de detalhes irrelevantes sob alto stress", "Lembramo-nos muito melhor de tarefas incompletas ou interrompidas do que daquelas já terminadas", "Odiamos nomes começados pela letra Z"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q154",
+        "facto_id": "f154",
+        "pergunta": "Se misturássemos toda a luz do universo, a que cor oficial os cientistas chamaram 'Latte Cósmico'?",
+        "opcoes": ["Um bege claro", "Um roxo escuro e profundo", "Um cinzento metálico puro"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q155",
+        "facto_id": "f155",
+        "pergunta": "Qual foi o ridículo motivo geográfico da 'Guerra da Lagosta' entre o Brasil e a França em 1961?",
+        "opcoes": ["A decisão se as lagostas deviam ser cozidas vivas ou mortas", "A disputa da cor original da espécie no Atlântico", "A disputa legal sobre se as lagostas nadavam na água ou rastejavam no fundo"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q156",
+        "facto_id": "f156",
+        "pergunta": "Por que razão podemos estar a olhar para 'Fantasmas' quando observamos estrelas no céu noturno?",
+        "opcoes": ["Porque os astrónomos não conseguem explicar a sua origem", "Devido ao tempo que a luz demora a viajar, essas estrelas podem já ter explodido e morrido", "São ilusões de ótica formadas pelo lixo espacial"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q157",
+        "facto_id": "f157",
+        "pergunta": "Qual é a escala assustadora do coração de uma baleia azul?",
+        "opcoes": ["Pesa o mesmo que um carro-choque (180kg) e pode ser ouvido a 3km de distância", "Tem o tamanho de uma bola de ténis mas bate 500 vezes por minuto", "É do tamanho de uma banheira e produz eletricidade própria"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q158",
+        "facto_id": "f158",
+        "pergunta": "O osso é um tecido vivo. Quanto tempo demora o corpo humano a regenerar um esqueleto completamente novo?",
+        "opcoes": ["2 anos", "Aproximadamente 50 anos", "A cada 10 anos"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q159",
+        "facto_id": "f159",
+        "pergunta": "O que define a 'Síndrome do Impostor' em pessoas de alto desempenho e sucesso?",
+        "opcoes": ["Uma vontade incontrolável de mentir nos seus currículos", "O medo irracional de que o seu intelecto é uma farsa e serem descobertos como 'fraudes'", "Copiar as atitudes dos colegas de trabalho para disfarçar"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q160",
+        "facto_id": "f160",
+        "pergunta": "Como venceu Warren Buffett uma famosa aposta financeira milionária de 10 anos contra especialistas de Wall Street?",
+        "opcoes": ["Usando inteligência artificial ilegal", "Comprando um simples Fundo de Índice (ETF) que seguia a média do mercado", "Investindo todo o seu dinheiro numa única startup agrícola"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q161",
+        "facto_id": "f161",
+        "pergunta": "Qual é a característica botânica única da castanha de caju?",
+        "opcoes": ["Não cresce no interior de um fruto, mas sim pendurada no exterior", "Tem de ser cozida debaixo de terra para não ser tóxica", "É a única semente do mundo sem água na sua composição"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q162",
+        "facto_id": "f162",
+        "pergunta": "Que país detém o recorde mundial do maior número de ilhas (mais de 267.000)?",
+        "opcoes": ["As Filipinas", "O Canadá", "A Suécia"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q163",
+        "facto_id": "f163",
+        "pergunta": "De onde provém o vermelho natural (Ácido Carmínico) usado em batons de luxo e certas gomas?",
+        "opcoes": ["Raízes de beterraba africana altamente concentradas", "Milhares de insetos cochonilhas esmagados", "Tinta recolhida da casca de certas lulas vermelhas"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q164",
+        "facto_id": "f164",
+        "pergunta": "Apesar do seu estatuto genial e formal, qual o nome imaturo de uma peça coral escrita por Mozart?",
+        "opcoes": ["A Valsa dos Idiotas", "Bebe até Cair", "'Leck mich im Arsch' (Lambe o meu traseiro)"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q165",
+        "facto_id": "f165",
+        "pergunta": "Como foi gravado o icónico som da respiração mecânica de Darth Vader no filme Star Wars?",
+        "opcoes": ["Colocando um microfone dentro do regulador de um tanque de mergulho", "O ator usou um funil e um copo de papel", "Com a distorção do motor de um aspirador antigo"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q166",
+        "facto_id": "f166",
+        "pergunta": "Porque é que uma pequena editora decidiu finalmente aprovar o manuscrito de Harry Potter após 12 rejeições?",
+        "opcoes": ["Porque o Governo Britânico lhes ofereceu um subsídio", "Porque a filha de 8 anos do diretor da editora o leu e adorou", "Porque o diretor perdeu uma aposta num pub"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q167",
+        "facto_id": "f167",
+        "pergunta": "O que significa originalmente e tecnicamente o nome 'Wi-Fi'?",
+        "opcoes": ["Wireless Fibers", "Não significa rigorosamente nada, foi um nome inventado pelo marketing", "Wireless Fidelity (Fidelidade Sem Fios)"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q168",
+        "facto_id": "f168",
+        "pergunta": "Qual era a função principal da 'ELIZA', o primeiro chatbot da história criado em 1966?",
+        "opcoes": ["Reservar bilhetes de avião", "Jogar o jogo do Galo com os cientistas", "Simular um psicoterapeuta devolvendo as afirmações em forma de pergunta"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q169",
+        "facto_id": "f169",
+        "pergunta": "Qual é o principal impacto ambiental brutal do cultivo intenso do abacate?",
+        "opcoes": ["Para produzir um único abacate são precisos cerca de 320 litros de água fresca", "As suas raízes são tóxicas para quase toda a vida circundante", "Requer solos fertilizados por químicos de petróleo pesados"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q170",
+        "facto_id": "f170",
+        "pergunta": "Qual é a mensagem escondida na seta amarela do logótipo da Amazon?",
+        "opcoes": ["É apenas um 'sorriso' focado na felicidade no cliente", "Aponta da letra 'A' à letra 'Z', simbolizando que lá encontras de tudo", "Simboliza o envio expresso de encomendas do ponto A ao ponto B"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q171",
+        "facto_id": "f171",
+        "pergunta": "Qual é o truque por trás da iluminação LED na secção de talho e vegetais dos supermercados?",
+        "opcoes": ["Usam luzes infravermelhas para matar bactérias da carne", "Evitam usar iluminação para poupar energia após o fecho", "Manipulam as cores com luz avermelhada para a carne parecer fresca e luz verde para os vegetais brilharem"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q172",
+        "facto_id": "f172",
+        "pergunta": "O que diz a teoria empreendedora dos '1000 Fãs Verdadeiros'?",
+        "opcoes": ["Ninguém devia tentar fazer sucesso sem ter 1000 seguidores no Instagram", "Um milhão de seguidores não vale o mesmo que 1000 amigos reais", "Se tiveres 1000 fãs super dedicados que te paguem 100€/ano, não precisas de mais para viveres disso (100.000€/ano)"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q173",
+        "facto_id": "f173",
+        "pergunta": "Que inofensiva e pequena palavra detém o recorde de palavra com mais significados da língua inglesa?",
+        "opcoes": ["Run", "Set", "Go"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q174",
+        "facto_id": "f174",
+        "pergunta": "De que figura antiga deriva diretamente a palavra 'Cereal'?",
+        "opcoes": ["Ceres, a Deusa romana da agricultura", "O Rei Cereano de Roma Antiga", "A cidade de Ceris, na Gália onde se colhia trigo"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q175",
+        "facto_id": "f175",
+        "pergunta": "Que paradoxo filosófico nos faz pensar: se eu substituir gradualmente todas as tábuas de um barco antigo, ele continua a ser o mesmo barco?",
+        "opcoes": ["A Falácia do Carpinteiro", "A Ilusão Temporal", "O Navio de Teseu"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q176",
+        "facto_id": "f176",
+        "pergunta": "Porque não são as bolas de golfe perfeitamente redondas e lisas como bolas de bilhar?",
+        "opcoes": ["Porque o plástico escorrega no relvado húmido", "Para serem mais fáceis de moldar nas fábricas", "Porque as covinhas criam micro-turbulências no ar que reduzem o atrito e as fazem voar o dobro"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q177",
+        "facto_id": "f177",
+        "pergunta": "Qual é a verdade nutricional sobre o velho mito de não ingerir calorias ou lanches durante a noite?",
+        "opcoes": ["Comer depois da meia-noite transforma os hidratos em gordura pura", "A hora das refeições não interessa nada para o peso; o que engorda é exceder as tuas calorias diárias totais", "O teu estômago não faz a digestão depois das 21:00h"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q178",
+        "facto_id": "f178",
+        "pergunta": "Para que estranho propósito foi originalmente desenhado o longo mastro pontiagudo no topo do Empire State Building em 1931?",
+        "opcoes": ["Servir como antena rádio contra espionagem", "Servir de um porto aéreo de ancoragem para os dirigíveis Zeppelins", "Como um chamariz gigante de raios elétricos para dar luz a Nova Iorque"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q179",
+        "facto_id": "f179",
+        "pergunta": "Biologicamente, o que causa o irritante efeito de 'Olhos Vermelhos' numa fotografia noturna?",
+        "opcoes": ["O flash seca momentaneamente as lágrimas", "Como a pupila não tem tempo de fechar contra o flash rápido, a luz ilumina todo o sangue no fundo da retina", "Um erro nas lentes baratas quando detetam ausência de cor"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q180",
+        "facto_id": "f180",
+        "pergunta": "Quando 'estalas' os dedos para criar som, o som agudo que ouves não é dos dedos a roçarem. Vem de onde?",
+        "opcoes": ["É a bolha de ar criada e esmagada num vácuo muito pequeno no momento de separação", "Das tuas juntas a deslocarem o osso", "Da velocidade com que o dedo médio bate violentamente contra a parte inferior do polegar/palma da tua mão"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q181",
+        "facto_id": "f181",
+        "pergunta": "Qual foi o motivo real e contraintuitivo para a invenção do formato de teclado QWERTY no século XIX?",
+        "opcoes": ["Para afastar as teclas e obrigar a escrever mais devagar, evitando que as máquinas encravassem", "Para colocar as vogais todas na mesma linha", "Para permitir escrever mais rapidamente com apenas uma das mãos"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q182",
+        "facto_id": "f182",
+        "pergunta": "O que fazia de malicioso o 'Creeper', o primeiro vírus de computador da história criado em 1971?",
+        "opcoes": ["Apagava documentos do Governo", "Não destruía nada, apenas mostrava uma mensagem provocadora no ecrã", "Sobreaquecia o processador até derreter"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q183",
+        "facto_id": "f183",
+        "pergunta": "O que dita a 'Regra das Duas Pizzas' criada por Jeff Bezos na Amazon?",
+        "opcoes": ["Deves recompensar a equipa com comida após cada entrega", "Se duas pizzas não alimentam a sala inteira, há demasiadas pessoas na reunião", "Metade do tempo da reunião deve ser para pausas"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q184",
+        "facto_id": "f184",
+        "pergunta": "As bananas são tecnicamente frutas radioativas porque contêm isótopos de que elemento?",
+        "opcoes": ["Sódio", "Cálcio", "Potássio"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q185",
+        "facto_id": "f185",
+        "pergunta": "O que é mais recente na história do mundo quando comparado com o ensino na Universidade de Oxford?",
+        "opcoes": ["O Império Asteca", "As Pirâmides do Egito", "A Roma Antiga"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q186",
+        "facto_id": "f186",
+        "pergunta": "Qual seria o peso aproximado, na Terra, de uma simples colher de chá de matéria de uma Estrela de Neutrões?",
+        "opcoes": ["O equivalente a 5 elefantes adultos", "O peso de um arranha-céus", "Cerca de 6 mil milhões de toneladas (o peso de uma montanha)"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q187",
+        "facto_id": "f187",
+        "pergunta": "Qual a finalidade biológica das bizarra fezes em forma de cubo do marsupial australiano Wombat?",
+        "opcoes": ["Evitar que rebolem e caiam das pedras quando marcam território", "Facilitar a digestão lenta de madeiras", "Camuflagem contra predadores noturnos"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q188",
+        "facto_id": "f188",
+        "pergunta": "Longe de ser inútil, o que os cientistas descobriram ser a função principal do Apêndice humano?",
+        "opcoes": ["Filtra toxinas do fígado", "Funciona como um 'cofre' que guarda bactérias boas para repovoar o intestino", "Ajuda a digerir grandes quantidades de carne crua"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q189",
+        "facto_id": "f189",
+        "pergunta": "Como se define o chamado 'Efeito Mandela' na psicologia?",
+        "opcoes": ["A sensação de que já vivemos aquele momento exato no passado", "Um fenómeno onde grandes grupos de pessoas têm a mesma memória falsa sobre um evento", "O racismo oculto e subconsciente da sociedade"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q190",
+        "facto_id": "f190",
+        "pergunta": "No mercado de ações (Bolsa), de onde derivam historicamente os termos 'Touro' (alta) e 'Urso' (baixa)?",
+        "opcoes": ["Das iniciais dos primeiros grandes investidores de Nova Iorque", "Da forma física como os animais atacam (o touro de baixo para cima, o urso de cima para baixo)", "Da constelação astral na altura em que o mercado foi fundado"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q191",
+        "facto_id": "f191",
+        "pergunta": "Botanicamente falando, a que família pertencem os amendoins?",
+        "opcoes": ["Frutos secos duros", "Tubérculos (como as batatas)", "Leguminosas (crescem debaixo da terra como as ervilhas)"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q192",
+        "facto_id": "f192",
+        "pergunta": "O que aconteceria visualmente se o gigante Monte Everest fosse deitado na Fossa das Marianas?",
+        "opcoes": ["O topo da montanha ainda ficaria submerso sob 2 quilómetros de água", "Ele serviria de ponte entre os dois continentes", "O pico da montanha sairia centenas de metros fora de água"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q193",
+        "facto_id": "f193",
+        "pergunta": "Qual era o segredo de bastidores da arte do famoso pintor televisivo Bob Ross?",
+        "opcoes": ["Apenas pintava sobre fotografias já impressas", "Alguém pintava escondido atrás da tela", "Pintava três versões exatas de cada quadro para o programa"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q194",
+        "facto_id": "f194",
+        "pergunta": "O que provoca o fenómeno 'Earworm' (ficar com uma música colada na cabeça) no cérebro?",
+        "opcoes": ["Desidratação crónica dos nervos auditivos", "O cérebro cria um loop infinito ao tentar 'fechar' uma melodia da memória", "Música tocada em frequências muito graves"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q195",
+        "facto_id": "f195",
+        "pergunta": "A icónica chuva de código verde do filme 'The Matrix' foi criada a partir de quê?",
+        "opcoes": ["Fórmulas de física quântica espelhadas", "Letras japonesas de livros de receitas de sushi escaneadas", "Vírus de computador reais visualizados em 3D"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q196",
+        "facto_id": "f196",
+        "pergunta": "Qual foi a origem banal do famoso clássico literário de terror 'Frankenstein'?",
+        "opcoes": ["Um desafio entre amigos para ver quem escrevia a melhor história de fantasmas", "Um pesadelo durante uma doença fatal", "Encomendado pela igreja como uma fábula de moralidade"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q197",
+        "facto_id": "f197",
+        "pergunta": "A quem é que o nome e o logótipo da tecnologia sem-fios 'Bluetooth' homenageiam?",
+        "opcoes": ["Ao engenheiro sueco que inventou as ondas rádio", "A um cão com um dente azul de uma famosa fábula inglesa", "A Harald Bluetooth, um rei Viking do século X que uniu nações"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q198",
+        "facto_id": "f198",
+        "pergunta": "No contexto do ChatGPT e outras IAs, o que significa o conceito de 'Alucinação'?",
+        "opcoes": ["Quando o servidor bloqueia e exibe erros visuais", "Quando a IA inventa uma mentira completa mas escreve-a com total confiança e detalhe", "Quando o programa usa cores fortes no ecrã e assusta o utilizador"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q199",
+        "facto_id": "f199",
+        "pergunta": "Qual é um dos enormes custos físicos para suportar as respostas de uma IA avançada em Data Centers?",
+        "opcoes": ["Milhões de ratos de computador descartados", "Esgotamento das reservas de lítio", "Gastam até meio litro de água doce apenas para arrefecer os servidores a cada pesquisa complexa"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q200",
+        "facto_id": "f200",
+        "pergunta": "Quanto foi originalmente pago à estudante Carolyn Davidson, em 1971, para desenhar o logótipo 'Swoosh' da Nike?",
+        "opcoes": ["35 dólares", "1.000 dólares e ações na empresa", "Fê-lo de graça como projeto de escola"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q201",
+        "facto_id": "f201",
+        "pergunta": "Por que motivo legal a Red Bull foi forçada a pagar milhões em indemnizações judiciais em 2014?",
+        "opcoes": ["Foi considerada publicidade enganosa porque a bebida 'não dava asas' literalmente", "Roubou o design da lata a uma marca alemã", "Usou ingredientes proibidos na Europa nos anos 90"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q202",
+        "facto_id": "f202",
+        "pergunta": "De onde surgiu a ideia multimilionária da invenção dos pequenos blocos 'Post-it'?",
+        "opcoes": ["Uma estratégia do exército para colar mensagens debaixo de água", "Um erro ao criar notas que se desintegravam após 5 dias", "A tentativa fracassada de um cientista em criar a cola mais forte do mundo"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q203",
+        "facto_id": "f203",
+        "pergunta": "Qual o significado da famosa e única palavra Tagalog 'Gigil' das Filipinas?",
+        "opcoes": ["A sensação fantasma do telemóvel a vibrar", "A saudade de alguém que só se viu uma vez", "O sentimento irresistível de querer apertar algo por ser insuportavelmente fofo"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q204",
+        "facto_id": "f204",
+        "pergunta": "Longe do vilão demoníaco da cultura pop, quem era verdadeiramente o Hades da mitologia original?",
+        "opcoes": ["Um burocrata passivo e justo que tinha o azar de gerir a morte", "O criador das nuvens e da chuva", "O deus dos ladrões e do fogo"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q205",
+        "facto_id": "f205",
+        "pergunta": "O que defende a teoria filosófica chamada 'Solipsismo'?",
+        "opcoes": ["Que a única coisa que tu podes ter a certeza absoluta que existe é a tua própria mente", "Que a natureza chora quando uma árvore é cortada", "Apenas as emoções importam, os factos científicos são ilusões"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q206",
+        "facto_id": "f206",
+        "pergunta": "O que requer o fabrico de um volante (pena) de Badminton para ser usado em torneios oficiais?",
+        "opcoes": ["Um centro de borracha vulcânica pura", "Exatamente 16 penas provenientes da asa esquerda de um ganso", "Penas de pato branco tingidas artificialmente"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q207",
+        "facto_id": "f207",
+        "pergunta": "Qual é a verdade nutricional enganadora por detrás do 'Chocolate Branco'?",
+        "opcoes": ["Contém uma elevada percentagem de calcário", "É feito apenas do pó das cascas secas do cacau", "Não contém qualquer cacau sólido, apenas manteiga de cacau e açúcar"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q208",
+        "facto_id": "f208",
+        "pergunta": "O que ocorre fisicamente na estrutura da Torre Eiffel durante o verão europeu?",
+        "opcoes": ["Afunda-se no solo dois centímetros", "O ferro expande e a torre cresce até 15 centímetros de altura", "Muda ligeiramente de cor devido à radiação solar extrema"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q209",
+        "facto_id": "f209",
+        "pergunta": "No século XIX, porque se pedia às pessoas para dizerem 'Ameixas' (Prunes) antes de tirarem uma foto?",
+        "opcoes": ["Para esconderem dentes em falta", "Porque sorrir nas fotografias era sinal de falta de educação ou loucura", "A palavra abria mais os olhos devido ao reflexo muscular"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q210",
+        "facto_id": "f210",
+        "pergunta": "Na ciência e física reais, a que velocidade equivale a medida 'Jiffy'?",
+        "opcoes": ["A velocidade da luz a atravessar um centímetro no vácuo", "A velocidade com que o som dá a volta à Terra", "O momento em que uma pálpebra humana se fecha"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q211",
+        "facto_id": "f211",
+        "pergunta": "Contrariando os filmes de sobrevivência, o que é perigoso em beber a água do interior de um cacto?",
+        "opcoes": ["Faz-te cegar por duas horas", "Pode atrair cobras peçonhentas com o cheiro", "Está cheia de ácidos e alcaloides tóxicos que te fazem vomitar e desidratar"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q212",
+        "facto_id": "f212",
+        "pergunta": "Porque é que engenheiros não consideram o HTML uma linguagem de programação oficial?",
+        "opcoes": ["Porque não suporta lógica matemática, servindo apenas de 'Linguagem de Marcação' visual", "Porque é uma língua demasiado antiga", "Porque só existe no lado dos servidores da web"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q213",
+        "facto_id": "f213",
+        "pergunta": "No que consiste a eficaz técnica psicológica do 'Empilhamento de Hábitos'?",
+        "opcoes": ["Escrever todos os hábitos numa folha de cálculo e avaliar", "Fazer todos os novos hábitos da parte de manhã logo a acordar", "Colar um novo objetivo a um hábito antigo que já fazes em piloto automático"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q214",
+        "facto_id": "f214",
+        "pergunta": "O ácido clorídrico dentro do nosso estômago possui uma capacidade química extrema para fazer o quê?",
+        "opcoes": ["Desativar os vírus do Ébola em cinco minutos", "Dissolver parcialmente uma lâmina de metal em cerca de 24 horas", "Purificar água contaminada com arsénico"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q215",
+        "facto_id": "f215",
+        "pergunta": "Como apareceram as cenouras cor-de-laranja, se originalmente eram apenas brancas, amarelas ou roxas na natureza?",
+        "opcoes": ["Uma mutação após as bombas de Hiroxima", "Foram inventadas por agricultores na Holanda no século XVII em homenagem à sua família real", "Foram tingidas por comerciantes ingleses"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q216",
+        "facto_id": "f216",
+        "pergunta": "O que existe em quantidades massivas no interior da nuvem espacial de gás chamada Sagittarius B2?",
+        "opcoes": ["Milhares de milhões de litros de álcool etílico (o mesmo das bebidas)", "Gelo sólido com o formato exato de diamantes gigantes", "Partículas mortais de radiação gama"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q217",
+        "facto_id": "f217",
+        "pergunta": "Apesar do quão lentas as preguiças são em terra firme, que super poder desenvolvem elas dentro de água?",
+        "opcoes": ["Ficam invisíveis debaixo de lama densa", "Conseguem suster a respiração debaixo de água por 40 minutos", "Nadam mais rápido do que um crocodilo do Nilo"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q218",
+        "facto_id": "f218",
+        "pergunta": "Por que razão bizarra medes cerca de 1 centímetro a menos à noite do que de manhã ao acordar?",
+        "opcoes": ["Os pulmões vaziam de ar denso", "A gravidade comprime lentamente a cartilagem da tua coluna ao longo do dia", "O efeito de refração da lua aperta os vasos sanguíneos das pernas"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q219",
+        "facto_id": "f219",
+        "pergunta": "Os cientistas descobriram que jogar Tetris imediatamente após um trauma severo ajuda a combater Stress Pós-Traumático (PTSD). Porquê?",
+        "opcoes": ["As músicas de 8 bits reduzem a pressão arterial radicalmente", "Foca o cérebro matemático de modo a adormecer a dor física", "A queda dos blocos interfere com o armazenamento visual da memória traumática"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q220",
+        "facto_id": "f220",
+        "pergunta": "Que curiosidade envolve o primeiro cartão de crédito de restaurantes do mundo (Diners Club, 1950)?",
+        "opcoes": ["O saldo do cartão era visível no próprio verso", "Era feito com simples cartão impresso, não de plástico", "Podia ser usado até estar fisicamente destruído"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q221",
+        "facto_id": "f221",
+        "pergunta": "Porque é que, num balde com água, uma maçã flutua tão perfeitamente, mas a pera afunda?",
+        "opcoes": ["O caroço da pera age como uma pedra", "25% do volume interior da maçã é composto por ar preso entre células", "A casca da maçã repele moléculas de água magneticamente"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q222",
+        "facto_id": "f222",
+        "pergunta": "Graças à glaciação antiga, que país perfurado sozinho detém mais de metade de todos os lagos do mundo combinados?",
+        "opcoes": ["Brasil", "Rússia", "Canadá"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q223",
+        "facto_id": "f223",
+        "pergunta": "Quem foi duramente interrogado pela polícia como principal suspeito quando a Mona Lisa foi roubada em 1911?",
+        "opcoes": ["O famoso pintor e rival espanhol, Pablo Picasso", "O diretor de restauro do museu do Louvre", "O rei de França, num elaborado esquema de seguros"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q224",
+        "facto_id": "f224",
+        "pergunta": "Qual é a bizarra promessa da peça musical de John Cage a decorrer numa igreja na Alemanha desde 2001?",
+        "opcoes": ["Apenas será terminada no ano de 2640 porque as notas de órgão são assustadoramente lentas", "O órgão toca sozinho e aleatoriamente ativado por abelhas da zona", "Pode ser ouvida na Austrália através das fundações da igreja"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q225",
+        "facto_id": "f225",
+        "pergunta": "Como foi recriado o icónico som aterrorizante do rugido do monstro Godzilla nos estúdios dos anos 50?",
+        "opcoes": ["Completamente feito em computador e acelerado", "Usaram gravações invertidas de furacões japoneses", "Esfregando uma luva de couro coberta de resina contra as cordas tensas de um contrabaixo"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q226",
+        "facto_id": "f226",
+        "pergunta": "Onde foi inventada e impressa pela primeira vez na história a famosa palavra 'Nerd' em 1950?",
+        "opcoes": ["Num filme B de ficção científica em Hollywood", "No livro infantil 'If I Ran the Zoo', do Dr. Seuss", "Nos corredores dos laboratórios da universidade de Harvard"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q227",
+        "facto_id": "f227",
+        "pergunta": "O que irritaria qualquer utilizador moderno no primeiro despertador mecânico inventado nos EUA em 1787?",
+        "opcoes": ["Pesava tanto que precisava de uma mesa reforçada para suportá-lo", "Emitia choques elétricos fracos na mão do utilizador em vez de som", "Tinha as engrenagens soldadas e só permitia acordar exclusivamente às 4h da manhã"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q228",
+        "facto_id": "f228",
+        "pergunta": "O supercomputador Deep Blue tornou-se um marco histórico em 1997 quando humilhou a humanidade num desafio épico. Qual?",
+        "opcoes": ["Enganou os cientistas e simulou estar consciente e vivo", "Conseguiu compor uma sinfonia perfeitamente bela e digna de Beethoven", "Derrotou Garry Kasparov, o campeão do mundo invencível de Xadrez"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q229",
+        "facto_id": "f229",
+        "pergunta": "A biologia surpreendeu a sustentabilidade na Amazónia quando cientistas encontraram fungos com que apetite especial?",
+        "opcoes": ["Tornavam-se invencíveis ao calor do sol equatorial", "Alimentavam-se unicamente de metal pesado e venenoso", "Conseguiam sobreviver comendo exclusivamente plástico poluente e sem oxigénio"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q230",
+        "facto_id": "f230",
+        "pergunta": "Por que razão a desprezada fonte oficial 'Comic Sans' foi inventada em 1994?",
+        "opcoes": ["Como uma partida entre diretores da Microsoft no Dia das Mentiras", "Especificamente para ilustrar falas num cão virtual para um programa simplista da Microsoft", "Para dificultar o trabalho aos copiadores nos documentos legais"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q231",
+        "facto_id": "f231",
+        "pergunta": "Na verdade, o que nos vicia biologicamente quando gostamos de inspirar o célebre 'cheiro de carro novo'?",
+        "opcoes": ["É apenas o resultado de mais de 50 Químicos e gases tóxicos libertados pelos plásticos de fábrica", "É um perfume sedutor injetado secretamente no banco do condutor", "Odor de metal fundido que aumenta os níveis de testosterona"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q232",
+        "facto_id": "f232",
+        "pergunta": "Qual foi a surpreendente e falhada proposta inicial da plataforma YouTube quando foi lançada em 2005?",
+        "opcoes": ["Venda de filmes ilegais e pirataria global", "Apenas permitir visualizações a quem pagasse em cartão de crédito", "Atuar como um site de encontros online focado apenas em perfis em vídeo"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q233",
+        "facto_id": "f233",
+        "pergunta": "Qual é a bizarra responsabilidade cultural dos gestores da conta em Latim do Papa na plataforma X/Twitter?",
+        "opcoes": ["São forçados a rezar sempre que terminam uma publicação online", "Escrevem à mão nos ecrãs com uma pena oficial antes do upload digital", "Têm de inventar palavras latinas modernas para conceitos que não existiam, como 'internet' e 'blog'"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q234",
+        "facto_id": "f234",
+        "pergunta": "Toda a gente chama 'Minotauro' (Touro de Minos) à besta grega, mas qual era o seu nome poético nos mitos originais?",
+        "opcoes": ["Zeus de Hades", "Dracon", "Asterion (que significa 'Estrelado')"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q235",
+        "facto_id": "f235",
+        "pergunta": "A que se refere o fenómeno puramente matemático chamado 'Efeito Borboleta', criado na Teoria do Caos?",
+        "opcoes": ["Mostra como insetos e o clima evoluem no sentido inverso ao tempo", "Uma prova de como um detalhe minúsculo provoca reações colossais do outro lado do mundo, semanas depois", "Ao milagre da reencarnação, inspirado no bater das asas"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q236",
+        "facto_id": "f236",
+        "pergunta": "Entre 1900 e 1920, que brincadeira atual infantil garantia incrivelmente um lugar nos Jogos Olímpicos com atletas internacionais?",
+        "opcoes": ["Jogo das cadeiras até à morte súbita", "Corrida dentro de pesados sacos de serapilheira", "A violenta 'Tração de Corda' em equipas / Jogo do Empurra"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q237",
+        "facto_id": "f237",
+        "pergunta": "A nossa boca é facilmente enganada por ácidos que anulam tudo. Devido a este erro humano, qual é um facto bizarro entre Morangos e Limões?",
+        "opcoes": ["O limão esconde grama por grama mais açúcar natural e frutose do que os morangos maduros", "O morango produz internamente suco azedo semelhante ao tomate da vinha", "Os morangos deixam de ter açúcar ao meio-dia sob o sol direto do Verão"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q238",
+        "facto_id": "f238",
+        "pergunta": "Qual a verdade trágica revelada pelos arqueólogos italianos e diários antigos acerca da Torre Inclinada de Pisa?",
+        "opcoes": ["Foi afundada propositadamente por causa dos cobradores de impostos corruptos", "Os pedreiros falharam porque usaram gelo compactado como fundação provisória no inverno gelado", "Não demorou séculos a cair; começou a afundar catastroficamente no lodo logo na construção do terceiro andar"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q239",
+        "facto_id": "f239",
+        "pergunta": "O monstro tecnológico com 4 quilos (a primeira máquina digital do mundo criada em 1975 pela Kodak), como é que este aparelho guardava a fotografia final?",
+        "opcoes": ["Desenhava no chão com laser durante três minutos e copiava com uma antena", "Num processo extremamente ruidoso onde escrevia as informações brutas do ecrã para longas cassetes de áudio convencionais", "Guardava um ficheiro jpeg perfeito num cartão incrustado a ouro e pérolas"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q240",
+        "facto_id": "f240",
+        "pergunta": "Biólogos demonstraram que as vacas partilham connosco um nível de ligação afetiva muito especial. O que lhes acontece emocional e fisicamente?",
+        "opcoes": ["Ficam daltónicas por sete dias e negam o bezerro no escuro", "Têm amnésia e esquecem-se do curral e da linguagem para mugir", "Têm 'melhores amigas' reais no rebanho e quando são forçadas a separar-se delas entram em grave stress clínico"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q241",
+        "facto_id": "f241",
+        "pergunta": "Em que antiga rede informática foi enviado o primeiro email de 'spam' da história, em 1978?",
+        "opcoes": ["No Facebook universitário", "Na ARPANET (a avó da internet)", "Na rede secreta do Pentágono"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q242",
+        "facto_id": "f242",
+        "pergunta": "O que deves fazer na técnica de programação conhecida como 'Rubber Duck Debugging' (Pato de Borracha)?",
+        "opcoes": ["Explicar o código em voz alta, linha a linha, a um pato de borracha", "Atirar um boneco contra a parede para aliviar o stress", "Colocar um pato em cima da tecla Delete para não apagar o trabalho"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q243",
+        "facto_id": "f243",
+        "pergunta": "Qual é a base fundamental do 'Método Ivy Lee' para atingir o pico da produtividade?",
+        "opcoes": ["Trabalhar 4 horas e descansar o resto do dia", "Escrever e priorizar as 6 tarefas mais importantes no final do dia anterior", "Delegar tudo a assistentes menos o e-mail"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q244",
+        "facto_id": "f244",
+        "pergunta": "Porque é crucial para toda a vida na Terra que a água congelada (gelo) se expanda e fique mais leve?",
+        "opcoes": ["Porque se não fosse assim, a chuva congelaria ainda no céu", "Para permitir que os ursos polares consigam nadar", "Porque se fosse denso como outros materiais, os oceanos congelariam do fundo para cima"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q245",
+        "facto_id": "f245",
+        "pergunta": "Qual o evento mais absurdo relativo à 'Guerra de 335 Anos' entre os Países Baixos e as Ilhas Scilly?",
+        "opcoes": ["Foi travada inteiramente com barcos de papel", "Durante 335 anos nunca houve um único tiro disparado nem uma só vítima", "Só terminou após uma partida de xadrez diplomática"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q246",
+        "facto_id": "f246",
+        "pergunta": "O que é que os astrónomos detetaram a flutuar solitariamente a 12 mil milhões de anos-luz da Terra?",
+        "opcoes": ["Um planeta gigante inteiramente coberto de relva", "Uma nuvem de vapor de água maior que todos os oceanos da Terra combinados", "Uma esfera perfeita de ouro sólido brilhante"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q247",
+        "facto_id": "f247",
+        "pergunta": "O ornitorrinco é uma das criaturas mais bizarras do mundo por várias razões. Qual destas é verdade?",
+        "opcoes": ["O animal não tem estômago, o esófago liga-se direto aos intestinos", "Consegue voar distâncias curtas usando a cauda", "O seu pêlo muda de cor consoante o seu humor"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q248",
+        "facto_id": "f248",
+        "pergunta": "De acordo com os biólogos, o soluço humano é na verdade um espasmo derivado de quê?",
+        "opcoes": ["De um erro genético dos Neandertais", "Do mesmo reflexo muscular inútil que os girinos (anfíbios) usam para respirar água", "De tentar expelir dióxido de carbono muito rapidamente"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q249",
+        "facto_id": "f249",
+        "pergunta": "Na mente humana, como funciona o curioso 'Fenómeno Baader-Meinhof' (ou Ilusão de Frequência)?",
+        "opcoes": ["É quando aprendes uma palavra nova e de repente começas a reparar nela em todo o lado", "Quando te esqueces completamente do porquê de teres entrado numa sala", "A vontade repentina de dançar ao ouvir ritmos antigos"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q250",
+        "facto_id": "f250",
+        "pergunta": "O que provocou a primeira colapsante bolha financeira da história da humanidade em 1637, na Holanda?",
+        "opcoes": ["A venda desenfreada de barcos falsos", "O comércio irracional de bolbos de Tulipas (onde um bolbo chegou a valer uma mansão)", "O comércio de pedras brilhantes pintadas a ouro"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q251",
+        "facto_id": "f251",
+        "pergunta": "A que se deve o facto de existirem milhares de pessoas a afirmar que os coentros sabem a detergente?",
+        "opcoes": ["As folhas de coentro são quase sempre lavadas em lixívia fraca nos supermercados", "A uma variação genética (gene OR6A2) que faz essas pessoas detetarem um químico específico na planta", "A uma alergia grave cruzada com marisco"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q252",
+        "facto_id": "f252",
+        "pergunta": "A que velocidade bizarra e constante as placas tectónicas da Europa e da América do Norte se afastam?",
+        "opcoes": ["À velocidade em que o cabelo de uma criança cresce", "À exata mesma velocidade a que as tuas unhas crescem", "Afastam-se cerca de um metro por cada década passada"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q253",
+        "facto_id": "f253",
+        "pergunta": "Os pintores europeus do século XVI usavam uma popular cor chamada 'Mummy Brown'. De onde vinha esse pigmento?",
+        "opcoes": ["Do pó raspado do interior das pirâmides egípcias puras", "Moendo cadáveres reais de múmias que eram contrabandeadas do Egito para a Europa", "Da mistura de sangue seco de animais com terra argilosa africana"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q254",
+        "facto_id": "f254",
+        "pergunta": "O que prova a ciência neurológica que o teu corpo faz subconscientemente quando ouves música ritmada?",
+        "opcoes": ["A tua temperatura corporal sobe exatamente 1 grau celsius", "O teu batimento cardíaco e respiração alteram-se para tentar sincronizar automaticamente com o ritmo da música", "O teu cérebro desliga a sensação de sede temporariamente"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q255",
+        "facto_id": "f255",
+        "pergunta": "Sendo impossível gravar dinossauros reais, que combinação sonora gerou o icónico rugido do T-Rex em Jurassic Park?",
+        "opcoes": ["Sons distorcidos do motor de um trator antigo", "O choro de um bebé elefante, um tigre furioso e um crocodilo misturados", "Um leão com o som manipulado para ser cem vezes mais grave"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q256",
+        "facto_id": "f256",
+        "pergunta": "Qual foi a grande aposta de 50 dólares que forçou a criação do popular livro 'Green Eggs and Ham' do Dr. Seuss?",
+        "opcoes": ["Escrever o livro em menos de 24 horas ininterruptas", "O editor desafiou-o a escrever a história inteira com sentido usando apenas 50 palavras diferentes", "Tinha de usar a palavra verde em todas as frases do livro sem falhar"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q257",
+        "facto_id": "f257",
+        "pergunta": "O que aconteceu na lendária 'Jogada 37' quando a IA AlphaGo destruiu o campeão do mundo de Go?",
+        "opcoes": ["A máquina travou o sistema operativo para ganhar tempo matemático", "A máquina fez um movimento tão criativo e alienígena que os especialistas de Go acharam que tinha sido um erro de software", "A IA sacrificou todas as suas peças exceto uma"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q258",
+        "facto_id": "f258",
+        "pergunta": "Por ser uma erva gigante, o bambu é uma das maiores esperanças ecológicas do mundo. Quão rápido consegue ele crescer?",
+        "opcoes": ["Cerca de 10 centímetros todas as madrugadas de forma ruidosa", "Um metro a cada ano consecutivo", "Até 90 centímetros num único dia visível a olho nu"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q259",
+        "facto_id": "f259",
+        "pergunta": "Que famoso truque de ilusão em design de espaço em branco está oculto no logótipo da 'FedEx'?",
+        "opcoes": ["Um relógio oculto nos cantos da letra 'd'", "A cara de um piloto de avião no espaço entre os E's", "Uma seta apontada para a frente cravada subtilmente no espaço em branco entre o 'E' e o 'x'"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q260",
+        "facto_id": "f260",
+        "pergunta": "Qual a desilusão histórica por detrás da tradição mundial de comprar anéis de noivado de diamantes caros?",
+        "opcoes": ["Os diamantes originais eram feitos de vidro aquecido", "Não é tradição antiga nenhuma, mas apenas uma genial campanha de marketing criada em 1947 pela De Beers", "A tradição pertencia à Igreja, mas foi roubada por joalheiros"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q261",
+        "facto_id": "f261",
+        "pergunta": "No duro início de 2008, a que engenhoso produto físico recorreram os criadores do Airbnb para salvar a empresa da falência?",
+        "opcoes": ["Caixas de cereais com caricaturas dos políticos Obama e McCain", "Venda de almofadas personalizadas com o seu logótipo em feiras", "T-shirts que davam descontos em hotéis"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q262",
+        "facto_id": "f262",
+        "pergunta": "Embora passem despercebidas, qual é a letra absolutamente mais usada no nosso alfabeto, compondo 11% do que lemos?",
+        "opcoes": ["A letra A", "A letra O", "A letra E"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q263",
+        "facto_id": "f263",
+        "pergunta": "Qual era a verdadeira reputação da cabeça de cobras da monstruosa Medusa antes dos mitos serem distorcidos?",
+        "opcoes": ["Simbolizava o fim dos tempos e morte iminente", "Era usada unicamente como uma maldição para afundar os navios inimigos", "Era uma bênção e símbolo de proteção forte usado em portas e escudos para afastar o mal"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q264",
+        "facto_id": "f264",
+        "pergunta": "O famosíssimo exercício ético do 'Dilema do Elétrico' (matar 1 pessoa salvando 5 ou não agir) serve para quê na filosofia?",
+        "opcoes": ["Aprovar os códigos morais de programação dos novos carros autónomos da Tesla", "Forçar-te a debater como é que tu e a sociedade determinam o valor prático da vida", "Fazer um teste de sociopatia puro em adolescentes"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q265",
+        "facto_id": "f265",
+        "pergunta": "Em que assenta a bizarra e violenta logística oficial do desporto europeu 'Xadrez-Boxe'?",
+        "opcoes": ["Jogar um jogo de xadrez usando luvas gigantes de cabedal", "O atleta tem de alternar rondas, ou ganha por dar nocaute físico no ringue ou por dar xeque-mate no tabuleiro", "É xadrez normal mas quem perder é obrigado a ser esmurrado pelo treinador no final"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q266",
+        "facto_id": "f266",
+        "pergunta": "Quem começou a mentira generalizada de que comer muitas cenouras faria as pessoas ganharem 'visão noturna'?",
+        "opcoes": ["A Força Aérea Britânica, para esconderem e protegerem o segredo da nova tecnologia do Radar noturno", "Empresas alimentares norte-americanas para escoarem vegetais na guerra", "Médicos franceses num mal-entendido científico"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q267",
+        "facto_id": "f267",
+        "pergunta": "A icónica Torre Eiffel devia ter sido completamente destruída passados 20 anos da sua inauguração. O que a salvou da sucata?",
+        "opcoes": ["Os turistas faziam protestos violentos na sua base", "O governo militar francês descobriu tardiamente que aquela altura era perfeita para colocar redes e antenas rádio", "Uma tempestade afundou as máquinas de demolição do porto de Paris"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q268",
+        "facto_id": "f268",
+        "pergunta": "Que frustrante realidade tecnológica acompanhou a tiragem da primeira e turva fotografia da história pelo químico Niépce, em 1826?",
+        "opcoes": ["Ele demorou 3 semanas a desenvolver os químicos para ver a cor", "A sua câmara de madeira teve de repousar e absorver a luz do sol num terraço ao longo de 8 horas ininterruptas", "Ele só conseguia tirar fotos em absoluto escuro"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q269",
+        "facto_id": "f269",
+        "pergunta": "Sendo talvez a figura de plástico mais influente de sempre, qual o nome completo batizado à boneca Barbie pela empresa Mattel?",
+        "opcoes": ["Barbie Keneth Star", "Barbara Millicent Roberts", "Bárbara Jane Mattel"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q270",
+        "facto_id": "f270",
+        "pergunta": "Fingires-te morto resulta incrivelmente contra um Urso Pardo, no entanto, porque NÃO o deves fazer se o urso for de cor Negra?",
+        "opcoes": ["Porque os Ursos Negros são cegos e não vão reparar se tu te mexeres", "Porque o Urso Negro pode continuar o ataque. Nunca fiques deitado, levanta os braços, grita e luta para o assustar", "A cor não importa, o mito de lutar com ursos leva a mortes na floresta"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q271",
+        "facto_id": "f271",
+        "pergunta": "Em informática e cultura pop, como se comporta fisicamente a brincadeira conhecida como a 'Superposição do USB'?",
+        "opcoes": ["Todos os comandos ficam descontrolados quando as portas são desligadas ao mesmo tempo", "A frustrante obrigatoriedade de tentar virar a porta da pen drive duas vezes até ela magicamente encaixar na terceira tentativa", "Os cabos USB entrelaçam-se nos bolsos instantaneamente"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q272",
+        "facto_id": "f272",
+        "pergunta": "Porque é que a maioria dos teclados antigos apresenta a 'Barra de Espaço' muito mais lisa e estragada que o resto das teclas?",
+        "opcoes": ["Porque o material das teclas da base é sempre mais barato e inferior ao do topo do teclado", "A fricção térmica acumulada pelos milhões de rápidos toques faz o plástico no meio ceder mais depressa à erosão", "Devido à acumulação rápida de suor e pó que danifica a base metálica"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q273",
+        "facto_id": "f273",
+        "pergunta": "No desenvolvimento pessoal moderno, como é que aplicarias a utilíssima 'Regra dos 5 Segundos' a uma tarefa chata?",
+        "opcoes": ["Contar mentalmente '5,4,3,2,1' e agires de imediato de modo a cortar o tempo do teu cérebro racionalizar a preguiça e o cansaço", "Dares a ti próprio um prémio e um chocolate após cada 5 segundos de foco profundo", "Mudar fisicamente a postura corporal apenas a cada 5 segundos"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q274",
+        "facto_id": "f274",
+        "pergunta": "Cientificamente, porque é que engolir o ar de um balão festivo de hélio torna a voz tão bizarramente aguda e fininha?",
+        "opcoes": ["Porque as cordas vocais contraem e ficam geladas devido aos químicos sintéticos", "O hélio é muito menos denso que o oxigénio, o que faz com que as tuas ondas sonoras viagem mais rápido sem atrito na garganta", "Porque a língua paralisa ligeiramente com as bolhas do gás noble"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q275",
+        "facto_id": "f275",
+        "pergunta": "A vaidade do império romano pela saúde dentária envolvia importações nauseabundas de Portugal. Para quê?",
+        "opcoes": ["Dentes triturados de guerreiros ibéricos", "Cera quente das grutas do Algarve para selar buracos dolorosos nas gengivas", "Pipos cheios da nossa forte urina, que servia de elixir de bochecho mágico graças ao enorme poder de branqueamento da amónia"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q276",
+        "facto_id": "f276",
+        "pergunta": "O planeta infernal vizinho, Vénus, gira sobre si próprio num sentido contrário ao resto do sistema solar, o que significa que...",
+        "opcoes": ["As noites demoram dezenas de anos a passar", "O Sol nasce estranhamente no horizonte Oeste e põe-se devagar no lado Este", "A atmosfera é continuamente sugada e lançada para o espaço morto"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q277",
+        "facto_id": "f277",
+        "pergunta": "O lendário Estegossauro (com as cristas grandes no dorso), pesava impressionantes 3 toneladas em vida, mas como era o cérebro escondido nesse crânio minúsculo?",
+        "opcoes": ["Literalmente equivalente a dois grãos da nossa areia espessa", "Cilíndrico, do formato redondo e do tamanho de um pequeno cachorro-quente de compra", "Era gigantesco mas composto por bolhas de sangue e cartilagem espumosa inútil"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q278",
+        "facto_id": "f278",
+        "pergunta": "Quando consomes raspadinhas frias rapidamente os nervos provocam o 'Brain Freeze'. Como é que isto dói na cabeça se tocou apenas na língua?",
+        "opcoes": ["Porque ao tocar no céu da boca dispara um reflexo de emergência que força o cérebro a dilatar massivamente as veias para gerar calor, causando pressão de dor", "Gera uma leve convulsão elétrica do pescoço", "É o oxigénio das cavidades do maxilar a entrar nos teus dentes molares"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q279",
+        "facto_id": "f279",
+        "pergunta": "O triste 'Efeito Espectador' comprova uma terrível mecânica chamada difusão de responsabilidade. Porque é perigoso desmaiar numa rua cheia?",
+        "opcoes": ["Porque todos assumem e racionalizam que uma das outras 30 pessoas que ali estão já chamou a ambulância, o que faz com que ninguém aja de facto", "Num choque caótico social a adrenalina coletiva cega a visão na multidão e não te vêem", "Pois as ambulâncias evitam parar em multidões descontroladas na rua"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q280",
+        "facto_id": "f280",
+        "pergunta": "Em Wall Street (2007) Buffett colocou o seu milhão numa aposta humilhante. Ele apostou que nos 10 anos vindouros ganhava com o Fundo de Índice em vez dos génios agressivos. O que era esse Fundo?",
+        "opcoes": ["A compra massiva de milhares de ações de uma só grande empresa bancária à beira da falência por valores cêntimos", "Um modelo aborrecido e passivo que se limitava a replicar passivamente as médias gerais das 500 maiores empresas ignorando pânicos", "Um robot matemático com Inteligência Artificial na altura protótipo da IBM"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q281",
+        "facto_id": "f281",
+        "pergunta": "O que justifica a restrição tóxica na culinária se usares acidentalmente duas colheres cruas inteiras e massivas de noz-moscada para temperares a comida?",
+        "opcoes": ["Irias inchar de alergia letal por ácido fraco e queima de cordas vocais em meros segundos", "Contém o composto oculto da miristicina, capaz de envenenar o corpo causando terríveis surtos visuais, convulsões e alucinações de gravidade extrema", "Queimará buracos graves irreversíveis nas tuas papilas no céu da boca"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q282",
+        "facto_id": "f282",
+        "pergunta": "Que projeto megalómano da União Soviética causou diretamente a extinção dramática de toda a vida, fauna e volume aquífero do monumental Mar de Aral em 1960?",
+        "opcoes": ["O desvio maciço das correntes vitais e fluviais dos dois maiores rios que o regavam para irrigar à pressa colheitas desertas noutra zona pobre do território", "Testes aquáticos contínuos de bombardeamentos a oxigénio empobrecido de urânio", "A evaporação descontrolada pelo aumento colossal de furos de extração do fundo oceânico do mar Negro das redondezas"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q283",
+        "facto_id": "f283",
+        "pergunta": "Como foi planeada, desenhada e forjada originalmente a magnífica estátua a solo em bronze francês que hoje glorificamos e chamamos apenas 'O Pensador'?",
+        "opcoes": ["Como a minúscula figura trágica de 70 cm inserida na composição de uma grande porta pesada (As Portas do Inferno) encomendada para o topo de um museu", "Como uma coluna principal secreta construída atrás do grande Panteão dos Deuses das Termas da cidade romana caída em abandono", "O gigante bronze era a parte frontal decorativa esquecida nas garagens de um magnata em Nápoles"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q284",
+        "facto_id": "f284",
+        "pergunta": "Sem esse momento não teríamos a música eletrónica atual. O que tem de crucial o 'Amen Break', aquele solo de 6 segundos dos anos 60 gravado pelos The Winstons?",
+        "opcoes": ["É a linha de baixo com mais direitos de autor na história musical e de entretenimento da América latina e pop no mundo", "Tornou-se ironicamente o ritmo cru, manipulado e mais repetidamente 'samplado' da história discográfica, sendo assim a fundação sagrada de todo o Hip-hop moderno, Rap clássico e Drum and Bass no mundo", "Criou o primeiro sintetizador rudimentar de teclas que reproduzia sons humanos puros de respiração do vocalista nos concertos aúdio do palco do Festival de Woodstock de verão"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q285",
+        "facto_id": "f285",
+        "pergunta": "O som aterrador de realeza e de selva na voz gravada da criatura majestosa do Mufasa na longa-metragem original de culto (O Rei Leão) não usou o grito real de leões. Porquê e o que usaram na edição?",
+        "opcoes": ["Foram gravados em zoo tigres agressivos e misturou-se as frequências do seu som porque os rugidos do mundo natural dos leões reais perdem a imponência no cinema ou nos ecrãs de gravação de fitas aúdio", "Por uma falta crónica global de autorização ambiental gravaram apenas um urso africano pardo no fundo de um túnel de pedra maciça na selva virgem perto do estúdio californiano", "Foi fabricado digitalmente usando baterias acústicas rasgadas a alta velocidade sob o chão da mesa do realizador de aúdio da Disney por três dias inteiros de trabalho consecutivo com efeitos de cornetas"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q286",
+        "facto_id": "f286",
+        "pergunta": "Qual foi a polémica nacional e a terrível ironia macabra com o nome de Agatha Christie na sua real vida biográfica na distante década britânica dramática de 1920 e o que ela fez?",
+        "opcoes": ["Ela mesma causou um envenenamento e crime passional real com uma luva escondida que era a mesma que os polícias viram num dos seus romances mais caros dos teatros populares ingleses sendo exilada sem julgamento dos pares criminais ou provas materiais nas prisões de Londres na noite de março fatal", "Foi raptada pela concorrência comercial dos livros num comboio escuro para destruir o manuscrito e queimar a fita da história dos comboios e de comboios num pânico noturno mediático até regressar ensanguentada do braço em ferida com uma história épica nos tribunais", "Desapareceu num mistério absoluto e mediático da sua casa provocando buscas maciças policiais em toda a nação por uns longos assustadores 11 dias, até aparecer de regresso em choque vivo sem memória e alegar até ao seu final de dias de luto que a sua mente tinha apagado as vivências daqueles dias confusos e brancos sem mais explicações do que fez daquela vez num quarto vago isolado onde esteve oculta nas estalagens rurais sem bagagem em segredo perante toda a população a especular da sua tragédia mental forjada ou pura invenção genial das memórias tristes no mundo das elites de ficção literária."],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q287",
+        "facto_id": "f287",
+        "pergunta": "Qual é a base lógica assombrosa atrás das falhas tristes na produção distópica visual de modelos digitais puros e geradores de Inteligência Artificial modernos a construir fisicamente e detalhadamente o complexo da nossa estrutura fisiológica exata (mão humana, membros ou músculos corporais, as dobras finas, sombras complexas nas ilustrações artísticas, recortes digitais criativos nos projetos modernos fotográficos artísticos e em pinturas no mundo) no cérebro das placas dos robôs das grandes invenções digitais no final em 2023 das fotos de modelos fotográficos em cenários abertos desportivos ou nas fotos das poses perfeitas anatómicas digitais com 6 deformidades digitais dos nossos ossos finos reais?",
+        "opcoes": ["É puramente intencional um choque imposto aos servidores nas máquinas de base ou fábricas do limite físico de processamento dos dados lógicos em terabytes para poupar toda a placa nos computadores em tempo rápido online e a qualidade", "A máquina da IA que calcula a geração de uma textura corporal visual das dobras das falanges, mãos e ossos cruzados da estrutura física dos modelos desconhece por inteiro a biologia estrutural, e simula meros padrões caóticos probabilísticos e cegos de texturas copiados das texturas cruzadas dos milhares e milhões variados de ficheiros bidimensionais do treino em posições escondidas obscuras dos bolsos nas posições dos ombros onde pixéis da luz misturam o dedo nos dados misturados ao ponto de alucinar as articulações da foto crua como padrão numérico apenas não compreendendo fisicamente como e porque o osso une aos músculos visuais das partes e nas mãos humanas", "Porque as proteções severas e patentes de censura do copyright global impediram que e imagens nítidas da mão biológica pudessem alguma vez e para sempre e completamente de base e serem descarregadas aos bancos em massa visualizando o esqueleto real biológico dos artistas europeus"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q288",
+        "facto_id": "f288",
+        "pergunta": "A sustentabilidade da revolução ecológica global confronta brutalmente a perigosa extinção maciça industrial e silenciosa e silenciosa trágica de recursos como das fundações das metrópoles globais por areia natural pura do crescimento exponencial na habitação contemporânea asiática mundial, mas é impossível porquê usarem os construtores as massivas tempestades das areias africanas douradas vastas gigantescas do grande escaldante Deserto da areia seca livre sem dono no planeta do deserto com abundância imensa natural infinita visualmente e mineral das rochas finas e inesgotável para forjar tijolos cruéis rijos do cimento?",
+        "opcoes": ["A areia dura soprada violentamente nestes desertos enormes nas esferas de lixa do pó no vento seco eterno faz as rochas do pó virarem redondas microscópicas perfeitamente de grãos minerais tão redondos polidos limpos esféricos redondos brilhantes perfeitos puros limpos por forças mecânicas que a ligação física vital da estrutura molhada bruta de cimento húmido angular escasso da areia de rio rochosa falha no deserto escorregando como bolas microscópicas sem adesão das massas estruturais de construção nos arranha-céus na queda", "A areia dourada e escura mítica egípcia das dunas áridas secas vermelhas pesadas ricas secas do solo profundo maciço africano escuro nos desertos solares não seca ao frio tem um sal de mercúrio mineral venenoso letal escuro orgânico que as derrete ao molhar ao contacto aquático frágil da construção cimentícia forte sólida", "A extração em dunas finas leves quentes nos desertos imensos das rochas e do mar de areia do deserto mineral bruto quente árido natural não possui o tipo raro raro e único do grão exótico do fóssil marítimo rico de carbonato e cálcio cru salgado exato das estrelas marinhas profundas escasso da água indispensável indispensável único especial ao ferro fundido espesso do chão forte das fundações molhadas húmidas urbanas dos blocos grossos industriais frios na rocha cinzenta"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q289",
+        "facto_id": "f289",
+        "pergunta": "A Teoria psicológica famosa de cores subconscientes visuais cruéis de marketing manipulador oculto escuro comercial cruel mental da comida da Teoria Ketchup Mostarda crua fria forte mental brutal clássica das cores no comércio das correntes massivas globais clássicas ricas cruéis nas redes e logótipos das redes gigantes velozes globais massivas cruéis alimentares baratas (do mundo do império Burger rápido McDonald's e o império quente Subway), por detrás dos tons brilhantes apelativos primários vermelhos nos painéis e também amarelados visuais em todo o aspeto físico visual e móveis brilhantes intensos vibrantes fortes escondem qual e exato imperativo violento subliminar biológico feroz comercial puro rápido mecânico comercial mecânico puro nos nossos impulsos do olhar forte ao cliente consumidor passivo passivo na porta e sala fria fechada de consumo nas lojas urbanas plásticas das metrópoles de cimento?",
+        "opcoes": ["Cores como os amarelos agressivos chamam os olhos na neblina cinzenta de forma magnética subconsciente crua despertando leve ansiedade aguda mental leve gástrica fome de consumo e as linhas da cor pura viva agressiva intensa dos vermelhos e cores escarlates agressivas forçam o olho humano do cliente consumidor passivo com uma urgência imperativa acelerando subconscientemente os seus movimentos de atenção rápida de devorar rapidamente os pedidos calóricos das refeições mastigáveis densas e libertando as cadeiras da loja numa dança calculada lucrativa das luzes nas paredes de plástico de rotatividade de tempo cruel brutal da linha dos plásticos urbanos dos negócios das comidas doces artificiais urbanas de comida veloz", "Toda a Teoria é um grande mito e um feliz acaso histórico e antigo inocente dos anos puros de design vintage dos criadores do logo nos postos que adoravam cores de corridas desportivas americanas retro sem nenhum aspeto cruel mental neuro científico comercial nas lojas nas avenidas de asfalto americanas do século da era de crescimento industrial passado americano onde o vermelho da bandeira na pintura e nos postes coloridos americanos significava sempre o puro otimismo nas tintas e liberdade económica crua", "Vermelhos evocam calor primitivo exótico quente biológico suave biológico e calor dos ninhos e da natureza do homem selvagem cru forte e familiaridade biológica do ninho e o uso de amarelo ouro visual evoca a riqueza financeira e abundância majestosa nas cadeias antigas para justificar aos pobres operários cansados no fim do turno nos centros comercios de noite que estão no limite do palácio dourado do palácio do luxo com realeza gastronómica superior crua barata falsa americana das elites urbanas das torres luxuosas nas metrópoles chiques e exclusivas"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q290",
+        "facto_id": "f290",
+        "pergunta": "No universo feroz do consumo psicológico cruel elitista clássico e da economia comercial sombria de marketing dissimulado luxuoso frio silenciosa cruel mental e manipuladora pura biológica financeira dos falsos ricos das táticas nos menus pesados exclusivos nos grandes requintados restaurantes mundiais chiques da restauração global das elites cruéis urbanas de cidade na ementa oculta psicológica brutal fria clássica de vinhos das garrafas ocultas dos líquidos finos e tintos caros velhos pesados de rolha por qual tática pura matemática brutalmente eficaz desonesta fria psicológica dos psicólogos de consumo nas vendas é propositadamente colocada no pedestal superior e no topo supremo dos livros luxuosos do cardápio das lojas luxuosas de serviço urbano nas garrafas uma única e insana e excêntrica poção ou garrafa de preço assustador astronómico irracionalmente alto proibitivo e brutal e isolado na vista isolada rica exótica nas garrafas inatingíveis das adegas das uvas nas terras das adegas caríssimas intocáveis ao comum do cidadão de fora das metrópoles e dos comensais da riqueza elitista sem que no fim das contas quase pura ninguém na vida daquele estabelecimento cruel na cidade das luzes consiga alguma vez comprá-lo ou pedir a um empregado vestido no jantar rico e chique da rua de calçada?",
+        "opcoes": ["O efeito âncora cruel. Essa garrafa no pico isolada de topo gigante de número irracional inalcançável exótico caro isolado caríssimo brutal não quer ser uma lenda do vinho raro esotérico e nunca o venderam numa década inteira de serviço ou foi comprada; no fundo só e apenas atua nos olhos do leitor atónito para que o preço violento e irracional faça no cérebro com que e na sua magia crua e que a segunda oferta a garrafa isolada gigante a meio da tabela ou de baixo que o chefe queria mesmo vender na realidade com lucros brutais e dissimulados não pareça cruel à vista das poupanças puras e de uma forma imediata e brutal para nós pareça afinal repentinamente um grande barato ou negócio acessível ou acessível pechincha perante aquele descalabro absoluto rico louco inatingível no pico visual dos números da conta absurda da oferta louca milionária intocável das opções caras irracionais exóticas de elite da prateleira na adega poeirenta visual da ementa falsa", "Na realidade fria biológica social do ego rico é por pura exibição financeira comercial estéril do dono das marcas de status exótico social das castas antigas velhas e do chef arrogante cruel no estabelecimento de requinte e mostrar orgulhosa brutalmente agressiva perante todos os clientes a brutal imensa fama mundial de elite aristocrática de importação pura real fria brutal excêntrica mundial em segredo do acesso rico do dono ao vinho dos imperadores escondidos em adegas ricas isoladas francesas inacessíveis a todos os críticos no planeta de classe rica de crítica gourmet cruel dos paladares", "Para encobrir falhas. Este único vinho lendário mítico e exótico é um escudo cru protetor isolado psicológico mental do estabelecimento nas revistas finas e jantares e caso e só apenas se esgotem os pratos frios os stocks puros dos restantes de mesa das garrafas diárias no fundo armazém do subsolo fechado das vinhas velhas ocultas em baixo nos tonéis dos anos escuros de barro velho fechadas à luz do sol quente das manhãs tristes"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q291",
+        "facto_id": "f291",
+        "pergunta": "Que inusitada manufatura arcaica impulsionou as origens humildes puras imperiais no império da consola das antigas indústrias remotas artesanais mecânicas velhas velozes de fabrico japonês da gigante e do templo colossal atual da Nintendo que revolucionaria com botões físicos digitais e as televisões a geração crua mecânica digital digital crua do ecrã luminoso da era do videojogo interativo moderna visual nos chips na longínqua misteriosa idade das fábulas ancestrais do antigo distante silêncio cruel distante antigo mítico poético de 1889 na cidade das ruelas do outono longínquo poético dos templos silenciosos fechados do império poético feudal ancestral silencioso das madeiras de Quioto no Japão cruel dos ventos finos vermelhos fechado na luz longínqua dos outonos na folha das neves puras no Japão feudal?",
+        "opcoes": ["Bicicletas de madeira e vime sem rodas desenhadas pela mecânica oculta e trólei para levar os generais japoneses e mensageiros silenciosos em caminhos rochosos dos imperadores das trevas distantes na luz escarlate poética e sombria distante nas pontes no império vermelho asiático nas eras remotas fechadas nas nevoas rurais secretas de inverno branco", "A venda exclusiva nos becos poéticos antigos longínquos misteriosos asiáticos em silêncio das oficinas do papel na velha rua das folhas de cerejeira puras finas dos tabuleiros clássicos complexos do jogo europeu escuro de chumbo das matrizes dos botões mecânicos do império exótico místico escuro em metal branco do jogo do xadrez clássico nos painéis europeus nas mãos das elites guerreiras do império cruel de nevoeiro no outono e da sombra nas pontes secretas nos exércitos exóticos", "Uma pequena loja simples da luz antiga humilde de manufatura artesanal da rua da cidade do outono asiático nos templos poéticos brancos na ponte das águas e na neve limpa onde o artesão e e criador colava nos papéis delicados japoneses cortados com lâminas rurais grossas rurais pequenas e espessos as tintas vermelhas e desenhos rústicos pintados e nas cores originais no escuro dos candeeiros rústicos à mão em cartões rígidos rurais finos do papel rústico duro para o antigo e jogo popular colorido japonês místico colorido das fábulas longínquas místico das velhas folhas fechadas silenciosas clássico de jogar místico de cartas Hanafuda populares no mercado antigo da rua das neves asiáticas da luz das folhas puras."],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q292",
+        "facto_id": "f292",
+        "pergunta": "Qual foi a função burocrática real por detrás da célebre aberração oficial da língua com a colossal amálgama confusa de 63 caracteres unidos sem espaços germânicos ('Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz')?",
+        "opcoes": ["O nome exato do manual militar para reatores a vapor", "Foi a lei sobre a delegação de deveres para a supervisão e controlo de qualidade e rotulagem correta da carne de vaca e bovinos", "Um poema tradicional do norte recitado aos recém-casados"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q293",
+        "facto_id": "f293",
+        "pergunta": "De acordo com as origens mitológicas cruas, como surgiu e tomou vida material a temida e iluminada deusa da sabedoria pura grega antiga (Atena)?",
+        "opcoes": ["Após Zeus ter devorado em pânico a sua grávida esposa, a deusa emergiu e brotou e abriu caminho da própria testa do grande deus dos relâmpagos, já adulta em pleno, gritando a vida e completamente armada em ferros de bronze dourado e pronta ao combate cru da inteligência pura", "Foi esculpida por escravos fenícios com blocos imensos caídos de pedra do céu branco abençoada pelas faíscas azuis fortes de luz e dos trovões noturnos", "Emergiu dos oceanos profundos sangrando espuma após a trágica batalha contra os brutais Titãs de rocha nas nuvens negras"],
+        "resposta_correta": 0
+    },
+    {
+        "id": "q294",
+        "facto_id": "f294",
+        "pergunta": "O que quis o astuto físico e pensador genial da academia (Erwin Schrödinger) realmente criticar no seu excêntrico e icónico 'Paradoxo do Gato na Caixa' (onde o animal fica eternamente e paradoxalmente morto e em simultâneo vivo fechado e isolado)?",
+        "opcoes": ["Como a ciência devia usar animais isolados nas jaulas seladas sem medo da lei ética das sociedades primitivas modernas em cativeiro escuro e sombrio sem ar com as pedras fechadas no laboratório secreto radiativo da radiação nula radioativa secreta para curar fobias nos cientistas sem empatia com o felino da teoria pura com as pedras cinzentas na parede nula secreta escondidas pelo medo sombrio sombrio", "Era puramente uma sátira e ironia cruel elaborada com requintes macabros na piada pura sombria sombria com intenção sarcástica de provar por analogia irónica a total e a total e absoluta falha ridícula insana ridícula que os conceitos das matemáticas quânticas absurdas das dimensões absurdas revelavam se fossem irónica estupidamente e estupidamente transpostos com força dos minúsculos átomos absurdos aos animais gigantes e coisas comuns concretas comuns banais absurdas comuns na luz da vida pura biológica de um gato comum da lógica mundana", "O místico dom paranormal natural exótico subconsciente exótico cru na genética mutante exótica secreta obscura subconsciente das linhagens felinas puras ancestrais e animais da natureza secreta para a intuição mística oculta biológica exótica crua exótica crua biológica e crua da sua inteligência crua natural nas feridas biológicas das celas de ferro antigas sombrias em laboratório biológico exótico nas gaiolas pesadas escuras obscuras exóticas antigas nos laboratórios com paredes antigas com gatos secretos"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q295",
+        "facto_id": "f295",
+        "pergunta": "Qual das particularidades inusitadas na mecânica humana crua e espetacular genética isolada biológica inusitada puramente morfológica crua física invulgar que dotou cruel e singular e prodigiosamente a lenda da piscina (Michael Phelps) no domínio estrondoso olímpico feroz no seu recorde na água imbatível do corpo?",
+        "opcoes": ["Um par de pulmões hipertrofiados massivos e densos desproporcionais aos ossos, o dobro do volume biológico biológico padrão normal do abdómen e coração atlético de um jovem puramente vulgar e que forneciam em silêncio uma enorme câmara pesada elástica massiva profunda crua interior interna biológica interna de mergulho nas extremidades na biologia do seu músculo cruel no seu estômago espesso", "O cérebro imune ao desmaio devido ao fluxo extra num capilar mutante puro nas ligações óticas nos nervos das vértebras cegas no espaço apertado do topo que permitia uma brutal respiração crua mecânica cega cega da dor", "A anomalia conhecida por 'Índice de Macaco': uma rara envergadura biológica excecional crua puramente de braços incrivelmente longa larga monstruosa que media muito e puramente em muitos e e longos centímetros medidos mais compridos esticados do que até à altura total e do que o limite da sua enorme própria imensa do crânio cruel altura gigante do tronco vertical dos calcanhares da lenda inteira fora do nível cego no chão húmido e fora do chão maciço de pé liso na prancha da altura física de pé firme medidos do seu cérebro gigante ao solo nos pés calçados longos enormes"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q296",
+        "facto_id": "f296",
+        "pergunta": "Que inofensiva fruta crua e popular na rotina amarga cítrica global é o segredo tóxico fatal traiçoeiro e oculto da perigosa bomba relógio metabólica cega nas reações cruas hepáticas nas vísceras e de perigo oculto da biologia com remédios comuns a quem sofre do coração e com comprimidos e pastilhas dos males comuns modernos que afetam as doenças tristes crónicas (colesterol fatal químico perigoso crónico cego) em idosos fracos e ao consumir sumos frescos e gomos cítricos cruéis de pequeno almoço da fruta natural nas farmácias e do consumo oculto biológico das famílias na inocência da manhã das cozinhas de luxo e prateleiras cheias modernas de dietas comuns nas frutas perigosas cítricas das dietas da comida e e gomos cítricos mortais cítricas cegas perigosas sumarentas das refeições dietéticas cruéis da fruta crua azeda popular da manhã dietética comum e cítricas cegas sumarentas cruas da fruta na dieta crua nas mesas dietéticas frescas ácidas nas manhãs cítricas frescas populares populares azedas?",
+        "opcoes": ["A banana doce e fibrosa pastosa biológica massiva pastosa doce doce tropical tropical suave tropical doce", "O ananás e abacaxi doce ácido ácido com enzimas e os caroços do meio amarelo vivo espinhoso doce no caroço cítrico e os picos amarelos com picos cítricos do miolo das lâminas e do miolo duro doce das cascas rudes do interior azedo da casca ácida dura das escamas grossas das ilhas amarelos do meio espinhoso dos picos ácidos duros da casca dura e do ácido nos abacaxis doces tropicais doces cítricos", "A sumarenta grossa e doce pesada amarga Toranja (grapefruit cítrica pesada) que inibe cruel e bloqueia feroz e feroz e e cegamente com bloqueios cruéis implacáveis químicos com componentes invisíveis cruéis amargos a química secreta da purificação cruel metabólica a força secreta da das enzimas biológicas orgânicas purificadoras hepáticas reais vitais fortes purificadoras a função e bloqueia hepática as barreiras das enzimas e purificação no fígado das veias originando que componentes bloqueiam as barreiras perigosas cruas hepáticas hepática que uma catástrofe de perigosa química e de veneno cruel de químicos venenosos nos com a acumulação e o fígado e fatal cega e a toranja crua no fígado cega nos químicos fortes e o fígado não metabolize originando acumulações de químicos bloqueiam com bloqueios que bloqueiam bloqueiam e causam sobre doses acidentais nos remédios perigosos bloqueiam a filtração nos com perigos graves bloqueando com bloqueios no sangue de químicos e originam acidental letal massiva da medicação fatal nos órgãos originando doses acidentais e acidentais no corpo com medicação nos com componentes vitais hepáticos de sobre doses cegas no sangue com químicos dos medicamentos em excesso no sangue sem serem diluídos no sangue no organismo e no fígado no corpo e do corpo nos doentes dos remédios bloqueiam as enzimas"],
+        "resposta_correta": 2
+    },
+    {
+        "id": "q297",
+        "facto_id": "f297",
+        "pergunta": "Qual o engenhoso truque de ilusão de ótica (e segurança) usado nos pilares em volta do Taj Mahal?",
+        "opcoes": ["As colunas são ocas para o som ecoar", "Os pilares inclinam-se todos ligeiramente para fora para que, num terramoto, não caiam sobre o túmulo central", "Foram pintados com tinta invisível que brilha à noite"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q298",
+        "facto_id": "f298",
+        "pergunta": "Qual a verdadeira razão tecnológica para se usar a cor Verde (Chroma Key) para os efeitos especiais no cinema?",
+        "opcoes": ["O verde era a tinta de tecido mais barata em Hollywood", "A cor verde não existe naturalmente na cor de pele de nenhuma etnia humana, facilitando a remoção pelo software", "O verde cansa menos os olhos dos atores durante as gravações"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q299",
+        "facto_id": "f299",
+        "pergunta": "Biólogos marinhos documentaram um comportamento hilariante dos polvos quando caçam em grupo com peixes. O que fazem eles?",
+        "opcoes": ["Usam os peixes como isco vivo para tubarões", "Se acharem que um dos peixes não está a ajudar, nadam até ele e dão-lhe um murro agressivamente por irritação", "O polvo rouba a comida de todos e foge a largar tinta"],
+        "resposta_correta": 1
+    },
+    {
+        "id": "q300",
+        "facto_id": "f300",
+        "pergunta": "De acordo com a famosa 'Regra dos 3' da sobrevivência extrema, qual é o tempo máximo que o corpo humano aguenta sem água potável?",
+        "opcoes": ["3 semanas", "3 dias", "3 horas"],
+        "resposta_correta": 1
+    }
+]
