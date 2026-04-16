@@ -17,12 +17,12 @@ export default defineConfig({
         display: 'standalone', // Faz com que pareça uma app nativa, sem a barra de pesquisa
         icons: [
           {
-            src: 'public/pwa-192x192.png',
+            src: '/pwa-192x192.png',
             sizes: '192x192',
             type: 'image/png'
           },
           {
-            src: 'public/pwa-512x512.png',
+            src: '/pwa-512x512.png',
             sizes: '512x512',
             type: 'image/png',
             purpose: 'any maskable'
