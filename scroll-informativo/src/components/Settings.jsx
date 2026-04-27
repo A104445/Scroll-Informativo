@@ -9,7 +9,7 @@ export default function Settings({ categorias, categoriasAtivas, setCategoriasAt
   };
 
   return (
-    <div className="definicoes-container" style={{ paddingTop: '40px' }}>
+    <div className="definicoes-container">
       <h2 style={{ fontSize: '28px', marginBottom: '8px' }}>Temas do InfoScroll</h2>
       <p style={{ marginBottom: '32px', color: 'var(--text-secondary)' }}>
         Escolhe os temas que queres ver no teu Feed principal.
