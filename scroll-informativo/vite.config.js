@@ -28,6 +28,38 @@ export default defineConfig({
             type: 'image/png',
             purpose: 'any maskable'
           }
+        ],
+        screenshots: [
+          {
+            src: '/Scroll.png',
+            sizes: '485x934', 
+            type: 'image/png',
+            form_factor: 'narrow'
+          },
+          {
+            src: '/Temas.png',
+            sizes: '485x934', 
+            type: 'image/png',
+            form_factor: 'narrow'
+          },
+          {
+            src: '/GaleriaTrofeus.png',
+            sizes: '485x934', 
+            type: 'image/png',
+            form_factor: 'narrow'
+          },
+          {
+            src: '/Jardim.png',
+            sizes: '485x934', 
+            type: 'image/png',
+            form_factor: 'narrow'
+          },
+          {
+            src: '/Loja.png',
+            sizes: '485x934', 
+            type: 'image/png',
+            form_factor: 'narrow'
+          }
         ]
       }
     })

@@ -457,7 +457,7 @@
   },
   {
     "id": "f77",
-    "categoria": "inteligenciartificial",
+    "categoria": "inteligencia artificial",
     "titulo": "O Teste de Turing",
     "conteudo": "É um teste para ver se uma máquina consegue exibir comportamento inteligente equivalente ao de um humano, ao ponto de um observador não conseguir distinguir."
   },
@@ -637,7 +637,7 @@
   },
   {
     "id": "f107",
-    "categoria": "inteligenciartificial",
+    "categoria": "inteligencia artificial",
     "titulo": "Deepfakes",
     "conteudo": "São vídeos ou áudios criados por IA que imitam pessoas reais com perfeição. É uma das tecnologias mais perigosas para a desinformação hoje em dia."
   },
@@ -823,7 +823,7 @@
   },
   {
     "id": "f138",
-    "categoria": "inteligenciartificial",
+    "categoria": "inteligencia artificial",
     "titulo": "O que significa CAPTCHA?",
     "conteudo": "É uma sigla para 'Completely Automated Public Turing test to tell Computers and Humans Apart' (Teste de Turing público totalmente automatizado para distinguir computadores e humanos)."
   },
@@ -1003,7 +1003,7 @@
   },
   {
     "id": "f168",
-    "categoria": "inteligenciartificial",
+    "categoria": "inteligencia artificial",
     "titulo": "O Primeiro Chatterbot",
     "conteudo": "Em 1966, criou-se a ELIZA, o primeiro chatbot da história. O programa simulava um psicoterapeuta, e fá-lo-ia muito bem apenas repetindo as afirmações do utilizador de volta em forma de pergunta."
   },
@@ -1183,7 +1183,7 @@
   },
   {
     "id": "f198",
-    "categoria": "inteligenciartificial",
+    "categoria": "inteligencia artificial",
     "titulo": "A Alucinação da IA",
     "conteudo": "Quando o ChatGPT não sabe a resposta a uma pergunta, ele por vezes sofre de 'Alucinação': inventa uma mentira completa, mas escreve-a com tanta confiança e detalhe que parece um facto histórico verificado."
   },
@@ -1363,7 +1363,7 @@
   },
   {
     "id": "f228",
-    "categoria": "inteligenciartificial",
+    "categoria": "inteligencia artificial",
     "titulo": "A Derrota de Kasparov",
     "conteudo": "O momento em que a humanidade percebeu o poder da computação foi em 1997, quando o supercomputador Deep Blue da IBM conseguiu derrotar Garry Kasparov, o campeão mundial imbatível de xadrez."
   },
@@ -1537,7 +1537,7 @@
   },
   {
     "id": "f257",
-    "categoria": "inteligenciartificial",
+    "categoria": "inteligencia artificial",
     "titulo": "A Jogada 37",
     "conteudo": "Em 2016, a IA AlphaGo jogou contra o campeão mundial de Go. Na Jogada 37, a máquina fez um movimento tão criativo e alienígena que os especialistas acharam que era um erro de sistema. Foi a jogada que lhe garantiu a vitória."
   },
@@ -1717,7 +1717,7 @@
   },
   {
     "id": "f287",
-    "categoria": "inteligenciartificial",
+    "categoria": "inteligencia artificial",
     "titulo": "A Falha nas Mãos",
     "conteudo": "Os primeiros modelos de Inteligência Artificial para gerar imagens tinham uma enorme dificuldade em desenhar mãos humanas, colocando frequentemente 6 ou 7 dedos deformados. Isto acontecia porque a IA não entende 'anatomia', entende apenas padrões de pixéis sobrepostos em milhares de fotos de mãos em posições caóticas."
   },
