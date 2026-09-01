@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.infoscroll_three.twa",
+        "sha256_cert_fingerprints": ["4D:1C:8F:9F:79:4C:B9:2B:24:F7:62:0F:16:04:A0:20:9B:F2:FB:A3:16:AF:9E:24:40:4F:63:98:C3:38:D5:A4"]
+      }
+    }]
