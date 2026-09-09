@@ -47,6 +47,12 @@ export default defineConfig({
             form_factor: 'narrow'
           },
           {
+            src: '/Quiz.png',
+            sizes: '485x934', 
+            type: 'image/png',
+            form_factor: 'narrow'
+          },
+          {
             src: '/Temas.png',
             sizes: '485x934', 
             type: 'image/png',
