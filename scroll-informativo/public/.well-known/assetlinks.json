@@ -3,6 +3,6 @@
       "target": {
         "namespace": "android_app",
         "package_name": "app.vercel.infoscroll_three.twa",
-        "sha256_cert_fingerprints": ["4D:1C:8F:9F:79:4C:B9:2B:24:F7:62:0F:16:04:A0:20:9B:F2:FB:A3:16:AF:9E:24:40:4F:63:98:C3:38:D5:A4"]
+        "sha256_cert_fingerprints": ["AD:0A:AE:48:8C:22:99:01:9B:4B:4A:B5:F3:68:1C:23:AF:67:F6:79:DD:61:4B:EC:34:5B:D5:9B:3A:6E:44:6F"]
       }
     }]
