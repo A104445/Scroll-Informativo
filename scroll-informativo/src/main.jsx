@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import App from './App.jsx'
+import './i18n';
 
 // 1. IMPORTAMOS O GATILHO DO PWA
 import { registerSW } from 'virtual:pwa-register'

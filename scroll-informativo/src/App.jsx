@@ -1,14 +1,20 @@
 import { useState, useEffect, useMemo, useRef } from 'react';
-import factosBase from './data/factos.json';
-import perguntasBase from './data/perguntas.json';
-import { gerarMissoesDiarias, gerarMissoesSemanais, getSemanaAtual } from './data/missoesTemplate';import Feed from './components/Feed';
+import { useTranslation } from 'react-i18next'; // NOVO IMPORT
+
+// IMPORTAMOS AS BASES PORTUGUESAS E INGLESAS
+import factosPT from './data/factos.json';
+import factosEN from './data/factos_en.json';
+import perguntasPT from './data/perguntas.json';
+import perguntasEN from './data/perguntas_en.json';
+
+import { gerarMissoesDiarias, gerarMissoesSemanais, getSemanaAtual } from './data/missoesTemplate';
+import Feed from './components/Feed';
 import Settings from './components/Settings';
 import Evolucao from './components/Evolucao';
 import Conquistas from './components/Conquistas';
 import Loja from './components/Loja';
 import './App.css';
 
-// Baralha a base uma única vez para manter a estabilidade do scroll durante a sessão
 const baralharArray = (array) => {
   const copia = [...array];
   for (let i = copia.length - 1; i > 0; i--) {
@@ -18,15 +24,25 @@ const baralharArray = (array) => {
   return copia;
 };
 
-const todosOsFactos = baralharArray(factosBase);
-const categoriasDisponiveis = [...new Set(factosBase.map(c => c.categoria))].sort();
+// Removemos o "todosOsFactos" daqui de fora para que ele reaja à mudança de idioma
 
 function App() {
+  const { i18n } = useTranslation();
   const [tabAtiva, setTabAtiva] = useState('feed'); 
   const [temaMatrix, setTemaMatrix] = useState(false);
-  
-  // ESTADO DE PROGRESSO (Sincronizado com LocalStorage e Auto-Reparador)
+
+  // BASE DINÂMICA: Se o idioma começar por 'pt', usa os originais. Senão, usa Inglês.
+  const baseAtual = i18n.language.startsWith('pt') ? factosPT : factosEN;
+  const perguntasAtuais = i18n.language.startsWith('pt') ? perguntasPT : perguntasEN;
+
+  const todosOsFactos = useMemo(() => baralharArray(baseAtual), [baseAtual]);
+  const categoriasDisponiveis = useMemo(() => {
+    return [...new Set(baseAtual.map(c => c.categoria))].sort();
+  }, [baseAtual]);
+
+  // ESTADO DE PROGRESSO (O TEU CÓDIGO CONTINUA DAQUI PARA BAIXO)
   const [progresso, setProgresso] = useState(() => {
+  // ...
     const guardado = localStorage.getItem('infoscroll-progresso');
     const defaultProgresso = { 
       xp_total: 0, 
@@ -219,12 +235,12 @@ function App() {
       lista.push({ tipo: 'facto', data: facto }); 
       contador++;
       if (tabAtiva === 'feed' && contador % 5 === 0) {
-        const p = perguntasBase.find(p => p.facto_id === facto.id);
+        const p = perguntasAtuais.find(p => p.facto_id === facto.id);
         if (p) lista.push({ tipo: 'quiz', data: p, categoriaOriginal: facto.categoria });
       }
     });
     return lista;
-  }, [tabAtiva, categoriasAtivas, favoritos]); 
+  }, [tabAtiva, categoriasAtivas, favoritos, todosOsFactos, perguntasAtuais]); 
 
   const nivel = Math.floor(progresso.xp_total / 100) + 1;
 
@@ -263,7 +279,15 @@ function App() {
         {tabAtiva === 'conquistas' && <Conquistas progresso={progresso} nivel={nivel} />}
         {tabAtiva === 'evolucao' && <Evolucao progresso={progresso} nivel={nivel} temaMatrix={temaMatrix} setTemaMatrix={setTemaMatrix} />}
         {tabAtiva === 'loja' && <Loja progresso={progresso} setProgresso={setProgresso} />}
-        {tabAtiva === 'categorias' && <Settings categorias={categoriasDisponiveis} categoriasAtivas={categoriasAtivas} setCategoriasAtivas={setCategoriasAtivas} />}
+        {tabAtiva === 'categorias' && (
+          <Settings 
+            categorias={categoriasDisponiveis} 
+            categoriasAtivas={categoriasAtivas} 
+            setCategoriasAtivas={setCategoriasAtivas}
+            temaMatrix={temaMatrix}
+            setTemaMatrix={setTemaMatrix}
+          />
+        )}
       </div>
 
       <nav className="bottom-nav">

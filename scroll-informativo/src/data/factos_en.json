@@ -1,0 +1,2166 @@
+[
+  {
+    "id": "f1",
+    "categoria": "programacao",
+    "titulo": "The First Programmer",
+    "conteudo": "Ada Lovelace is considered the first programmer in the world. She wrote the first algorithm for a computing machine in 1843, long before computers existed."
+  },
+  {
+    "id": "f2",
+    "categoria": "programacao",
+    "titulo": "What is Git?",
+    "conteudo": "Imagine Git as a 'time machine' for your code. It keeps a history of all the changes you make, allowing you to go back if you make a serious mistake."
+  },
+  {
+    "id": "f3",
+    "categoria": "programacao",
+    "titulo": "The Most Popular Language",
+    "conteudo": "JavaScript is the most used programming language in the world because it is the only one that browsers (like Chrome) natively understand to make websites interactive."
+  },
+  {
+    "id": "f4",
+    "categoria": "produtividade",
+    "titulo": "The 5-Minute Rule",
+    "conteudo": "If you are procrastinating, promise yourself to do the task for only 5 minutes. The hardest part is getting started; after 5 minutes, the inertia disappears and you end up continuing."
+  },
+  {
+    "id": "f5",
+    "categoria": "produtividade",
+    "titulo": "Parkinson's Law",
+    "conteudo": "Work expands to fill the time you give it. If you have a week to write a report, it takes a week. If you have a day, you do it in a day."
+  },
+  {
+    "id": "f6",
+    "categoria": "ciencia",
+    "titulo": "The Sun is White",
+    "conteudo": "Our sun is not yellow. It emits all the colors of the rainbow mixed together, which results in the color white. It appears yellow from Earth because of our atmosphere."
+  },
+  {
+    "id": "f7",
+    "categoria": "ciencia",
+    "titulo": "Is Glass a Liquid?",
+    "conteudo": "It is a myth that the glass in old stained-glass windows flows over time. Glass is an amorphous solid and does not flow at room temperature."
+  },
+  {
+    "id": "f8",
+    "categoria": "historia",
+    "titulo": "The Pyramids are older",
+    "conteudo": "Cleopatra lived closer to the launch of the first iPhone (2007) than to the construction of the Great Pyramid of Giza."
+  },
+  {
+    "id": "f9",
+    "categoria": "historia",
+    "titulo": "Gladiators were Vegetarians",
+    "conteudo": "Analyses of Roman gladiator bones revealed that they had a diet based on barley and beans, being called 'barley eaters'."
+  },
+  {
+    "id": "f10",
+    "categoria": "espaco",
+    "titulo": "Diamond Planet",
+    "conteudo": "There is an exoplanet called '55 Cancri e' that is twice the size of Earth and is composed of one-third pure diamond due to the immense pressure and heat."
+  },
+  {
+    "id": "f11",
+    "categoria": "espaco",
+    "titulo": "The longest day",
+    "conteudo": "A day on Venus (one rotation on its axis) takes longer than a year on Venus (one orbit around the Sun)."
+  },
+  {
+    "id": "f12",
+    "categoria": "biologia",
+    "titulo": "Bird Brains",
+    "conteudo": "Calling someone a 'bird brain' is actually a compliment. Crows can solve complex puzzles and remember specific human faces for years."
+  },
+  {
+    "id": "f13",
+    "categoria": "biologia",
+    "titulo": "Banana DNA",
+    "conteudo": "We share about 60% of our DNA with bananas. Life on Earth all has a very deep common root."
+  },
+  {
+    "id": "f14",
+    "categoria": "saude",
+    "titulo": "Fever is Defense",
+    "conteudo": "Fever is not the illness itself; it is your body intentionally heating up to create a hostile environment and kill invading bacteria and viruses."
+  },
+  {
+    "id": "f15",
+    "categoria": "saude",
+    "titulo": "Where does the fat go?",
+    "conteudo": "When you lose weight, fat does not turn into magic energy. It is converted into carbon dioxide and water. You literally exhale the fat you lose."
+  },
+  {
+    "id": "f16",
+    "categoria": "psicologia",
+    "titulo": "The Dunning-Kruger Effect",
+    "conteudo": "People with little knowledge about a topic tend to greatly overestimate their intelligence, while true experts tend to be more humble."
+  },
+  {
+    "id": "f17",
+    "categoria": "psicologia",
+    "titulo": "Choice Paralysis",
+    "conteudo": "When a restaurant has a menu with 100 dishes, the customer gets stressed and takes longer to choose. Limiting options increases satisfaction."
+  },
+  {
+    "id": "f18",
+    "categoria": "financas",
+    "titulo": "Inflation",
+    "conteudo": "Inflation is the invisible thief. If you leave 100 euros under your mattress for 10 years, they are still 100 euros, but they buy much fewer things."
+  },
+  {
+    "id": "f19",
+    "categoria": "financas",
+    "titulo": "Asset vs Liability",
+    "conteudo": "An asset puts money in your pocket (e.g., a rented house). A liability takes money out of your pocket (e.g., a luxury car). Wealth is built by buying assets."
+  },
+  {
+    "id": "f20",
+    "categoria": "culinaria",
+    "titulo": "The Spicy Pepper",
+    "conteudo": "Spiciness is not a flavor, it is pain. The capsaicin in chili peppers tricks the temperature receptors on your tongue, making you think your mouth is burning."
+  },
+  {
+    "id": "f21",
+    "categoria": "culinaria",
+    "titulo": "Honey never spoils",
+    "conteudo": "Honey has such unique chemistry that it does not develop bacteria. Archaeologists have eaten honey found in 3,000-year-old Egyptian tombs and it was perfect."
+  },
+  {
+    "id": "f22",
+    "categoria": "geografia",
+    "titulo": "Russia and Pluto",
+    "conteudo": "Russia has a total surface area slightly larger than the entire 'dwarf planet' Pluto."
+  },
+  {
+    "id": "f23",
+    "categoria": "geografia",
+    "titulo": "Mount Everest",
+    "conteudo": "Mount Everest grows about 4 millimeters per year due to the pressure of the Indian tectonic plates against Asia."
+  },
+  {
+    "id": "f24",
+    "categoria": "artes",
+    "titulo": "Van Gogh did not sell",
+    "conteudo": "Although his paintings are worth millions today, Vincent Van Gogh sold only one painting during his entire life and died thinking he was a failure."
+  },
+  {
+    "id": "f25",
+    "categoria": "musica",
+    "titulo": "Music for Plants",
+    "conteudo": "Plants do not have ears, but they sense the vibrations of sound frequencies. Some studies show that certain frequencies help roots grow faster."
+  },
+  {
+    "id": "f26",
+    "categoria": "cinema",
+    "titulo": "Movie Trailers",
+    "conteudo": "Movie 'trailers' are called that because they were originally shown at the end (the trail) of the film. Since no one stayed to watch them, they were moved to the beginning."
+  },
+  {
+    "id": "f27",
+    "categoria": "literatura",
+    "titulo": "The longest word",
+    "conteudo": "The technical term for the fear of long words is 'Hippopotomonstrosesquipedaliophobia'. Yes, it is a cruel joke by scientists."
+  },
+  {
+    "id": "f28",
+    "categoria": "tecnologia",
+    "titulo": "The first Domain",
+    "conteudo": "The first .com domain name to be registered on the internet was 'symbolics.com', on March 15, 1985."
+  },
+  {
+    "id": "f29",
+    "categoria": "tecnologia",
+    "titulo": "The Cloud is the Sea",
+    "conteudo": "The 'Cloud' is not in the sky. More than 95% of global internet traffic travels through thick fiber-optic cables lying on the ocean floor."
+  },
+  {
+    "id": "f30",
+    "categoria": "sustentabilidade",
+    "titulo": "Light Pollution",
+    "conteudo": "There is so much artificial light in cities that about 80% of people in the world can no longer see the Milky Way in the night sky."
+  },
+  {
+    "id": "f31",
+    "categoria": "design",
+    "titulo": "The Color Blue",
+    "conteudo": "Most social networks (Facebook, Twitter, LinkedIn) use the color blue because in color psychology, blue conveys trust and security."
+  },
+  {
+    "id": "f32",
+    "categoria": "curiosidades",
+    "titulo": "Pigs do not sweat",
+    "conteudo": "Pigs do not have sweat glands. That is why they roll in the mud; it is the only way they have to cool their bodies down on hot days."
+  },
+  {
+    "id": "f33",
+    "categoria": "natureza",
+    "titulo": "Trees Talk",
+    "conteudo": "Trees communicate with each other through a network of fungi in the soil called the 'Wood Wide Web', exchanging nutrients and warning about pests."
+  },
+  {
+    "id": "f34",
+    "categoria": "natureza",
+    "titulo": "Sharks vs Trees",
+    "conteudo": "Sharks are older than trees. The first sharks appeared 400 million years ago, while the first trees emerged 350 million years ago."
+  },
+  {
+    "id": "f35",
+    "categoria": "programacao",
+    "titulo": "Comments in Code",
+    "conteudo": "Comments are not meant to explain 'WHAT' your code does (the code should be clear enough for that). They are meant to explain 'WHY' you did it."
+  },
+  {
+    "id": "f36",
+    "categoria": "produtividade",
+    "titulo": "The Impact Matrix",
+    "conteudo": "Before you start working, evaluate: does this task require little effort and bring a lot of impact? Then it should be your number one priority."
+  },
+  {
+    "id": "f37",
+    "categoria": "ciencia",
+    "titulo": "Gravity doesn't exist?",
+    "conteudo": "For Einstein, gravity is not a magnetic pulling force. It is the curvature of space and time caused by the mass of planets."
+  },
+  {
+    "id": "f38",
+    "categoria": "historia",
+    "titulo": "The Paper Empire",
+    "conteudo": "Paper money was first used in China in the 11th century, centuries before Europe adopted banknotes."
+  },
+  {
+    "id": "f39",
+    "categoria": "espaco",
+    "titulo": "Glass Rain",
+    "conteudo": "On the planet HD 189733b, winds reach 8,700 km/h and it rains glass horizontally. An absolute nightmare environment."
+  },
+  {
+    "id": "f40",
+    "categoria": "biologia",
+    "titulo": "The deadliest animal",
+    "conteudo": "The animal that kills the most humans per year is not the lion or the shark. It is the mosquito, responsible for the transmission of fatal diseases."
+  },
+  {
+    "id": "f41",
+    "categoria": "saude",
+    "titulo": "Sugar and Addiction",
+    "conteudo": "Sugar activates exactly the same reward zones in our brain as some hard drugs, which explains why it is so difficult to stop eating sweets."
+  },
+  {
+    "id": "f42",
+    "categoria": "psicologia",
+    "titulo": "Confirmation Bias",
+    "conteudo": "Our brain hates being wrong. That is why we pay more attention to information that confirms our beliefs and ignore facts that contradict them."
+  },
+  {
+    "id": "f43",
+    "categoria": "financas",
+    "titulo": "The Emergency Fund",
+    "conteudo": "Before you start investing in the stock market, you should have money saved in a bank equivalent to 6 months of your basic expenses for emergencies."
+  },
+  {
+    "id": "f44",
+    "categoria": "culinaria",
+    "titulo": "Boiling water freezes",
+    "conteudo": "The Mpemba effect is a strange physical phenomenon where hot water freezes faster than cold water under certain conditions."
+  },
+  {
+    "id": "f45",
+    "categoria": "geografia",
+    "titulo": "The Unexplored Ocean",
+    "conteudo": "We have better maps of the surface of Mars than of the bottom of our own oceans. We have explored less than 10% of the seabed."
+  },
+  {
+    "id": "f46",
+    "categoria": "artes",
+    "titulo": "Forbidden Colors",
+    "conteudo": "The painter Anish Kapoor has the exclusive right to use 'Vantablack', the darkest black in the world. Other artists are prohibited from using it."
+  },
+  {
+    "id": "f47",
+    "categoria": "musica",
+    "titulo": "The Metronome",
+    "conteudo": "Ludwig van Beethoven was the first major composer to use the metronome and to write the exact tempo in his musical scores."
+  },
+  {
+    "id": "f48",
+    "categoria": "cinema",
+    "titulo": "Disney's Oscars",
+    "conteudo": "Walt Disney won 22 competitive Oscars during his lifetime, remaining to this day the most awarded person in the history of the Academy."
+  },
+  {
+    "id": "f49",
+    "categoria": "literatura",
+    "titulo": "The Typewriter",
+    "conteudo": "Mark Twain was the first famous author to submit a book manuscript entirely typed on a typewriter."
+  },
+  {
+    "id": "f50",
+    "categoria": "tecnologia",
+    "titulo": "The Millennium Bug (Y2K)",
+    "conteudo": "In the year 2000, it was feared that systems would crash because they stored years using only 2 digits (e.g., '99'). It was not a myth; it cost billions to fix in time."
+  },
+  {
+    "id": "f51",
+    "categoria": "sustentabilidade",
+    "titulo": "Disposable Clothing",
+    "conteudo": "The 'Fast Fashion' industry is the second most polluting in the world. To make a single cotton t-shirt, it takes about 2,700 liters of water."
+  },
+  {
+    "id": "f52",
+    "categoria": "design",
+    "titulo": "White Space",
+    "conteudo": "In graphic design, 'negative' or white space is not wasted space. It is what gives the elements room to breathe and guides the reader's eye."
+  },
+  {
+    "id": "f53",
+    "categoria": "curiosidades",
+    "titulo": "Strawberries are not Berries",
+    "conteudo": "In botanical terms, bananas, watermelons, and pumpkins are considered berries, but strawberries and raspberries are not."
+  },
+  {
+    "id": "f54",
+    "categoria": "natureza",
+    "titulo": "Immortality",
+    "conteudo": "The 'Turritopsis dohrnii' jellyfish is biologically immortal. When it gets old or sick, it can revert its body back to the baby stage."
+  },
+  {
+    "id": "f55",
+    "categoria": "programacao",
+    "titulo": "The Esc Key",
+    "conteudo": "The Escape key was invented in 1960 to allow programmers to quickly interrupt code that entered infinite loops."
+  },
+  {
+    "id": "f56",
+    "categoria": "produtividade",
+    "titulo": "Pomodoro Technique",
+    "conteudo": "The inventor of the Pomodoro technique used a tomato-shaped kitchen timer. The idea is to focus for 25 minutes without interruptions, because that is the limit of maximum attention."
+  },
+  {
+    "id": "f57",
+    "categoria": "ciencia",
+    "titulo": "The weight of clouds",
+    "conteudo": "A fluffy fair-weather cloud can weigh about 500,000 kilograms, the equivalent of 100 elephants floating above your head."
+  },
+  {
+    "id": "f58",
+    "categoria": "historia",
+    "titulo": "The Burned Library",
+    "conteudo": "The burning of the Library of Alexandria set science back by centuries. Scrolls were lost regarding steam engineering, which was only reinvented during the Industrial Revolution."
+  },
+  {
+    "id": "f59",
+    "categoria": "espaco",
+    "titulo": "Lunar footprints",
+    "conteudo": "Since there is no wind or water on the Moon, the footprints left by Apollo astronauts will last for at least 100 million years."
+  },
+  {
+    "id": "f60",
+    "categoria": "biologia",
+    "titulo": "The Speed of a Nerve",
+    "conteudo": "Nerve impulses from your brain to your muscles travel at a surprising speed of 430 km/h."
+  },
+  {
+    "id": "f61",
+    "categoria": "programacao",
+    "titulo": "What is Open Source?",
+    "conteudo": "It is software whose code is public. Anyone can view, modify, and distribute it, allowing technology to evolve through global collaboration."
+  },
+  {
+    "id": "f62",
+    "categoria": "produtividade",
+    "titulo": "Deep Work",
+    "conteudo": "It is the ability to focus without distraction on a cognitively demanding task. 1 hour of total focus is worth more than 4 hours of work interrupted by notifications."
+  },
+  {
+    "id": "f63",
+    "categoria": "ciencia",
+    "titulo": "Earth's Oxygen",
+    "conteudo": "Most of the oxygen we breathe does not come from forests, but from the ocean. Marine phytoplankton produce between 50% to 80% of the world's oxygen."
+  },
+  {
+    "id": "f64",
+    "categoria": "historia",
+    "titulo": "Vikings did not wear horns",
+    "conteudo": "There is no evidence that Viking helmets had horns. This image was invented by opera costume designers in the 19th century."
+  },
+  {
+    "id": "f65",
+    "categoria": "espaco",
+    "titulo": "The Planet that rains Iron",
+    "conteudo": "On WASP-76b, temperatures are so high that iron evaporates during the day and condenses at night, literally falling as liquid iron rain."
+  },
+  {
+    "id": "f66",
+    "categoria": "biologia",
+    "titulo": "Hippopotamus Sweat",
+    "conteudo": "Hippos produce a reddish liquid that looks like blood, but it is actually a natural sunscreen and antibiotic that they produce themselves."
+  },
+  {
+    "id": "f67",
+    "categoria": "saude",
+    "titulo": "Hydration and the Brain",
+    "conteudo": "Your brain is about 75% water. Dehydration of just 2% already impairs your short-term memory and attention."
+  },
+  {
+    "id": "f68",
+    "categoria": "psicologia",
+    "titulo": "The Group Effect",
+    "conteudo": "In an emergency, if you are surrounded by many people, the probability of someone helping you decreases because everyone assumes that 'someone else will do it'."
+  },
+  {
+    "id": "f69",
+    "categoria": "financas",
+    "titulo": "The 50/30/20 Rule",
+    "conteudo": "A simple guide for your salary: 50% for basic needs, 30% for personal wants, and 20% for savings or investment."
+  },
+  {
+    "id": "f70",
+    "categoria": "culinaria",
+    "titulo": "Salt in Pasta Water",
+    "conteudo": "Salt does not help the water boil faster (the difference is minimal). It serves to season the pasta from the inside out as it absorbs the water."
+  },
+  {
+    "id": "f71",
+    "categoria": "geografia",
+    "titulo": "Point Nemo",
+    "conteudo": "It is the place in the ocean farthest from any land. Sometimes, the humans closest to the people passing through there are the astronauts on the Space Station."
+  },
+  {
+    "id": "f72",
+    "categoria": "artes",
+    "titulo": "Statues were Colorful",
+    "conteudo": "The white marble statues of Ancient Greece were originally painted in bright and gaudy colors that disappeared over time."
+  },
+  {
+    "id": "f73",
+    "categoria": "musica",
+    "titulo": "The Sound of Space",
+    "conteudo": "NASA recorded radio emissions from planets and converted them into sound. The sound of Saturn sounds like an eerie wind from a horror movie."
+  },
+  {
+    "id": "f74",
+    "categoria": "cinema",
+    "titulo": "The Wilhelm Scream",
+    "conteudo": "It is a sound effect of a scream used in over 400 films (Star Wars, Indiana Jones). It started as an inside joke among sound editors."
+  },
+  {
+    "id": "f75",
+    "categoria": "literatura",
+    "titulo": "The name 'Google'",
+    "conteudo": "It comes from the mathematical term 'Googol', which is the number 1 followed by 100 zeros. It was chosen to represent the organization of an infinite amount of data."
+  },
+  {
+    "id": "f76",
+    "categoria": "tecnologia",
+    "titulo": "The First Webcam",
+    "conteudo": "It was invented in Cambridge so that researchers wouldn't have to go to the kitchen to see if the coffee pot had coffee or if it was empty."
+  },
+  {
+    "id": "f77",
+    "categoria": "inteligencia artificial",
+    "titulo": "The Turing Test",
+    "conteudo": "It is a test to see if a machine can exhibit intelligent behavior equivalent to that of a human, to the point where an observer cannot distinguish between them."
+  },
+  {
+    "id": "f78",
+    "categoria": "sustentabilidade",
+    "titulo": "Washing Dishes by Hand",
+    "conteudo": "A modern, full dishwasher uses about 10 times less water than if you were to wash the same amount of dishes by hand in the sink."
+  },
+  {
+    "id": "f79",
+    "categoria": "design",
+    "titulo": "Psychology of the Circle",
+    "conteudo": "Rounded shapes and circles convey positive emotional messages of unity, protection, and community, unlike squares which convey stability."
+  },
+  {
+    "id": "f80",
+    "categoria": "marketing",
+    "titulo": "Prices ending in 9",
+    "conteudo": "We read from left to right. Our brain processes the '4' in '4.99' before the cents, making us feel that the product costs 4 instead of 5."
+  },
+  {
+    "id": "f81",
+    "categoria": "empreendedorismo",
+    "titulo": "The Value of Execution",
+    "conteudo": "A mediocre idea well executed is worth more than a brilliant idea that never left the drawing board. The market pays for the solution, not the thought."
+  },
+  {
+    "id": "f82",
+    "categoria": "idiomas",
+    "titulo": "Dead Languages",
+    "conteudo": "A language is considered dead when it no longer has native speakers (like Latin), but continues to be used in academic or religious contexts."
+  },
+  {
+    "id": "f83",
+    "categoria": "mitologia",
+    "titulo": "Pandora's Box",
+    "conteudo": "In the original Greek story, it was not a box, but a ceramic jar. It was a translation error in the 16th century that changed it to 'box'."
+  },
+  {
+    "id": "f84",
+    "categoria": "filosofia",
+    "titulo": "Nihilism",
+    "conteudo": "It is the belief that life has no intrinsic meaning. For many, this is liberating: if nothing matters, you are free to create your own meaning."
+  },
+  {
+    "id": "f85",
+    "categoria": "desporto",
+    "titulo": "Marathon",
+    "conteudo": "The name comes from the legend of the Greek soldier Pheidippides, who ran from the city of Marathon to Athens to announce victory in the war, dying of exhaustion shortly after."
+  },
+  {
+    "id": "f86",
+    "categoria": "nutricao",
+    "titulo": "The Color of Fruits",
+    "conteudo": "Fruits of different colors offer different nutrients. Purple (blueberries) helps memory; orange (carrots) helps vision."
+  },
+  {
+    "id": "f87",
+    "categoria": "arquitetura",
+    "titulo": "Swaying skyscrapers",
+    "conteudo": "Very tall buildings are designed to sway several centimeters in the wind. If they were completely rigid, they would break under the pressure."
+  },
+  {
+    "id": "f88",
+    "categoria": "fotografia",
+    "titulo": "Golden Hour",
+    "conteudo": "It is the first hour after sunrise and the last before sunset. The light is softer and reddish, perfect for professional photos."
+  },
+  {
+    "id": "f89",
+    "categoria": "curiosidades",
+    "titulo": "The Lighter vs. The Match",
+    "conteudo": "The lighter was invented before the friction match. The first lighter appeared in 1823; the first match in 1826."
+  },
+  {
+    "id": "f90",
+    "categoria": "sobrevivencia",
+    "titulo": "Snow Water",
+    "conteudo": "Never eat snow to hydrate yourself. Your body spends so much energy (heat) melting it that you can quickly fall into hypothermia."
+  },
+  {
+    "id": "f91",
+    "categoria": "programacao",
+    "titulo": "What is the Backend?",
+    "conteudo": "It is the part of the website that the user does not see. It is like the kitchen of a restaurant: where data is processed and logic is executed."
+  },
+  {
+    "id": "f92",
+    "categoria": "produtividade",
+    "titulo": "Polyphasic Sleep",
+    "conteudo": "Some geniuses like Leonardo da Vinci slept for 20 minutes every 4 hours. It is extremely difficult for ordinary humans to maintain this rhythm."
+  },
+  {
+    "id": "f93",
+    "categoria": "ciencia",
+    "titulo": "The Sound of Thunder",
+    "conteudo": "Thunder is simply the sound of air expanding rapidly due to the extreme heat of lightning, which is hotter than the surface of the sun."
+  },
+  {
+    "id": "f94",
+    "categoria": "historia",
+    "titulo": "The Great Emu War",
+    "conteudo": "In 1932, the Australian army 'declared war' on Emu birds that were destroying crops. Unbelievably, the birds 'won' the war."
+  },
+  {
+    "id": "f95",
+    "categoria": "espaco",
+    "titulo": "Jupiter's Years",
+    "conteudo": "Jupiter is so large that all the other planets in the solar system could fit inside it twice. It takes 12 Earth years to orbit the sun."
+  },
+  {
+    "id": "f96",
+    "categoria": "biologia",
+    "titulo": "The Sense of Smell in Dogs",
+    "conteudo": "Dogs can smell time. They perceive the difference in the fading scent trails, knowing what passed by there hours ago."
+  },
+  {
+    "id": "f97",
+    "categoria": "saude",
+    "titulo": "Blue Light",
+    "conteudo": "The blue light from screens at night tricks your brain into thinking it is still daytime, blocking the production of melatonin, the sleep hormone."
+  },
+  {
+    "id": "f98",
+    "categoria": "psicologia",
+    "titulo": "Anchoring",
+    "conteudo": "It is a bias where we focus too much on the first piece of information we receive. If you see a coat for €500 and then for €200, you think it's cheap, even if it's worth €50."
+  },
+  {
+    "id": "f99",
+    "categoria": "financas",
+    "titulo": "The Opportunity Cost",
+    "conteudo": "Everything you choose to do has a cost: what you gave up doing. Spending 100€ on a dinner means you gave up investing that 100€."
+  },
+  {
+    "id": "f100",
+    "categoria": "culinaria",
+    "titulo": "Tomato is a Fruit",
+    "conteudo": "Botanically, the tomato is a fruit because it has seeds. In culinary terms, it is a vegetable because we use it in savory dishes."
+  },
+  {
+    "id": "f101",
+    "categoria": "geografia",
+    "titulo": "African Lakes",
+    "conteudo": "Lake Victoria is so large that it has its own climate and waves that resemble those of an ocean, being the largest tropical lake in the world."
+  },
+  {
+    "id": "f102",
+    "categoria": "artes",
+    "titulo": "Picasso's Name",
+    "conteudo": "Pablo Picasso's full name has 23 words. It was common in Spain at the time to name children after various saints and relatives."
+  },
+  {
+    "id": "f103",
+    "categoria": "musica",
+    "titulo": "Mozart's Tuner",
+    "conteudo": "Mozart had 'perfect pitch'. He could identify any musical note without needing a reference, even if it was just the sound of a bell."
+  },
+  {
+    "id": "f104",
+    "categoria": "cinema",
+    "titulo": "The First Sound",
+    "conteudo": "The film 'The Jazz Singer' (1927) changed cinema forever by being the first movie with synchronized dialogue, ending the silent film era."
+  },
+  {
+    "id": "f105",
+    "categoria": "literatura",
+    "titulo": "Sherlock Holmes",
+    "conteudo": "Sir Arthur Conan Doyle tried to kill off his character Sherlock in a book because he was tired of him, but the fan outrage was so great that he had to 'resurrect' him."
+  },
+  {
+    "id": "f106",
+    "categoria": "tecnologia",
+    "titulo": "The Size of 1GB",
+    "conteudo": "In 1956, a 5MB hard drive weighed a ton and had to be transported by plane. Today, 1TB fits on the tip of your finger."
+  },
+  {
+    "id": "f107",
+    "categoria": "inteligencia artificial",
+    "titulo": "Deepfakes",
+    "conteudo": "These are videos or audio created by AI that perfectly imitate real people. It is one of the most dangerous technologies for misinformation today."
+  },
+  {
+    "id": "f108",
+    "categoria": "sustentabilidade",
+    "titulo": "Microplastics",
+    "conteudo": "Small plastic particles less than 5mm in size have already been found at the top of Mount Everest, at the bottom of the ocean, and even in human blood."
+  },
+  {
+    "id": "f109",
+    "categoria": "design",
+    "titulo": "Serif Typography",
+    "conteudo": "Fonts with 'serifs' (those little strokes at the ends) are easier to read on printed paper, while 'Sans Serif' fonts are better for digital screens."
+  },
+  {
+    "id": "f110",
+    "categoria": "marketing",
+    "titulo": "The Scent in Stores",
+    "conteudo": "Many stores use artificial scents (such as fresh bread or vanilla) to evoke memories of comfort and make customers stay in the store longer."
+  },
+  {
+    "id": "f111",
+    "categoria": "empreendedorismo",
+    "titulo": "The Pivot",
+    "conteudo": "It is when a company radically changes direction. Instagram started as a check-in app called Burbn before focusing only on photos."
+  },
+  {
+    "id": "f112",
+    "categoria": "idiomas",
+    "titulo": "Esperanto",
+    "conteudo": "It is a language created artificially in 1887 with the goal of being a neutral and easy-to-learn universal language to promote world peace."
+  },
+  {
+    "id": "f113",
+    "categoria": "mitologia",
+    "titulo": "Medusa",
+    "conteudo": "In original mythology, Medusa was not always a monster. She was a beautiful woman who was transformed as punishment by the goddess Athena."
+  },
+  {
+    "id": "f114",
+    "categoria": "filosofia",
+    "titulo": "The Allegory of the Cave",
+    "conteudo": "Plato describes people trapped in a cave who think the shadows on the wall are reality. Philosophizing is leaving the cave and seeing the real sun."
+  },
+  {
+    "id": "f115",
+    "categoria": "desporto",
+    "titulo": "Golf on the Moon",
+    "conteudo": "In 1971, astronaut Alan Shepard took a golf club to the Moon and hit two balls. The ball traveled for kilometers due to the low gravity."
+  },
+  {
+    "id": "f116",
+    "categoria": "nutricao",
+    "titulo": "Processed Food",
+    "conteudo": "The problem is not just the calories, it's that these foods are designed to 'skip' your brain's satiety signals, making you eat non-stop."
+  },
+  {
+    "id": "f117",
+    "categoria": "arquitetura",
+    "titulo": "London Windows",
+    "conteudo": "Many old buildings in London have windows bricked up. This was to avoid the 'Window Tax' charged in the 18th and 19th centuries."
+  },
+  {
+    "id": "f118",
+    "categoria": "fotografia",
+    "titulo": "ISO",
+    "conteudo": "ISO controls the camera's sensitivity to light. A high ISO lets you take photos in the dark, but it adds 'grain' or digital noise to the image."
+  },
+  {
+    "id": "f119",
+    "categoria": "curiosidades",
+    "titulo": "Shrek's Swamp",
+    "conteudo": "Shrek has a star on the Hollywood Walk of Fame, just like Mickey Mouse, The Simpsons, and Kermit the Frog."
+  },
+  {
+    "id": "f120",
+    "categoria": "sobrevivencia",
+    "titulo": "Moss on the North?",
+    "conteudo": "The myth that moss only grows on the north side of trees is false. Moss grows wherever there is shade and moisture, regardless of the direction."
+  },
+  {
+    "id": "f121",
+    "categoria": "tecnologia",
+    "titulo": "What is an API?",
+    "conteudo": "Imagine a restaurant. You are the App and the kitchen is the database. The API is the waiter: it takes your order, goes to the kitchen, and brings the information back to you."
+  },
+  {
+    "id": "f122",
+    "categoria": "programacao",
+    "titulo": "The Code Paradox",
+    "conteudo": "Reading code is significantly harder than writing it. That is why many programmers prefer to rewrite an entire block rather than trying to understand what their colleague did."
+  },
+  {
+    "id": "f123",
+    "categoria": "produtividade",
+    "titulo": "The Pareto Principle (80/20)",
+    "conteudo": "In almost everything in life, 80% of results come from 20% of the effort. 80% of an app's failures come from 20% of the bugs. Identify your crucial 20% and focus on them."
+  },
+  {
+    "id": "f124",
+    "categoria": "ciencia",
+    "titulo": "The Speed of Time",
+    "conteudo": "Astronauts on the Space Station age slightly slower than us on Earth. Traveling at high speeds causes time to slow down for you."
+  },
+  {
+    "id": "f125",
+    "categoria": "historia",
+    "titulo": "Who built the Pyramids?",
+    "conteudo": "The Great Pyramids of Egypt were not built by slaves. They were built by highly respected paid workers who were often paid in beer and bread."
+  },
+  {
+    "id": "f126",
+    "categoria": "espaco",
+    "titulo": "Black Holes are not Holes",
+    "conteudo": "They are not empty drains in space. They are actually spheres with a colossal amount of matter compressed into such a tiny space that not even light can escape their gravity."
+  },
+  {
+    "id": "f127",
+    "categoria": "biologia",
+    "titulo": "The Octopus's 9 Brains",
+    "conteudo": "Octopuses have a central brain and 'mini-brains' at the base of each of their 8 tentacles. This allows a tentacle to solve a problem without having to 'talk' to the main brain."
+  },
+  {
+    "id": "f128",
+    "categoria": "saude",
+    "titulo": "The Half-life of Caffeine",
+    "conteudo": "Caffeine has a half-life of 6 hours. If you drink a coffee at 4 PM, by 10 PM you still have half of that caffeine circulating in your blood, ruining your sleep quality."
+  },
+  {
+    "id": "f129",
+    "categoria": "psicologia",
+    "titulo": "Sunk Cost Fallacy",
+    "conteudo": "It is our tendency to continue in a bad project, a boring movie, or a toxic relationship just because 'we have already invested too much time and money in it'."
+  },
+  {
+    "id": "f130",
+    "categoria": "financas",
+    "titulo": "The Rule of 72",
+    "conteudo": "Want to know how many years it will take for your money to double? Divide 72 by the annual interest rate. At 8% per year, your money doubles every 9 years (72 ÷ 8)."
+  },
+  {
+    "id": "f131",
+    "categoria": "culinaria",
+    "titulo": "The Fake Wasabi",
+    "conteudo": "True wasabi is extremely rare and expensive. About 99% of the 'wasabi' served in sushi restaurants worldwide is just horseradish with mustard and green food coloring."
+  },
+  {
+    "id": "f132",
+    "categoria": "geografia",
+    "titulo": "The tallest mountain",
+    "conteudo": "Mount Everest is the highest above sea level, but the Mauna Kea volcano (in Hawaii) is taller if measured from its base, which is submerged at the bottom of the Pacific Ocean."
+  },
+  {
+    "id": "f133",
+    "categoria": "artes",
+    "titulo": "The Theft of the Mona Lisa",
+    "conteudo": "The Mona Lisa was not a world-famous painting until it was stolen from the Louvre Museum in 1911. It was the dramatic newspaper coverage that turned it into a global icon."
+  },
+  {
+    "id": "f134",
+    "categoria": "musica",
+    "titulo": "The Beatles and Sheet Music",
+    "conteudo": "None of the four members of the Beatles, the most influential band of all time, knew how to read or write conventional musical notation. They composed purely by ear."
+  },
+  {
+    "id": "f135",
+    "categoria": "cinema",
+    "titulo": "Chocolate Blood",
+    "conteudo": "In Hitchcock's 1960 horror classic 'Psycho', the famous shower scene did not use fake red blood. Since it was a black and white film, they used Bosco chocolate syrup."
+  },
+  {
+    "id": "f136",
+    "categoria": "literatura",
+    "titulo": "Shakespeare invented words",
+    "conteudo": "It is believed that William Shakespeare introduced more than 1700 words into the English language by simply inventing them, such as 'swagger', 'lonely', and 'assassination'."
+  },
+  {
+    "id": "f137",
+    "categoria": "tecnologia",
+    "titulo": "The Slanted Cursor",
+    "conteudo": "Your computer mouse cursor is slanted to the left because, on early low-resolution screens, it was impossible to draw a sharp vertical line only 1 pixel wide."
+  },
+  {
+    "id": "f138",
+    "categoria": "inteligencia artificial",
+    "titulo": "What does CAPTCHA stand for?",
+    "conteudo": "It is an acronym for 'Completely Automated Public Turing test to tell Computers and Humans Apart'."
+  },
+  {
+    "id": "f139",
+    "categoria": "sustentabilidade",
+    "titulo": "Glass Recycling",
+    "conteudo": "Unlike paper and plastic, which lose quality every time they are recycled, glass can be melted and recycled infinitely without losing any purity."
+  },
+  {
+    "id": "f140",
+    "categoria": "design",
+    "titulo": "The IKEA Effect",
+    "conteudo": "People place an incredibly higher value on a product, website, or piece of furniture if they have put some physical or mental effort into assembling or personalizing it."
+  },
+  {
+    "id": "f141",
+    "categoria": "marketing",
+    "titulo": "Decoy Effect",
+    "conteudo": "The 'Large' popcorn bucket at movie theaters costs almost the same as the 'Medium'. The 'Medium' is there just as a decoy to make the 'Large' look like an excellent deal."
+  },
+  {
+    "id": "f142",
+    "categoria": "empreendedorismo",
+    "titulo": "The True MVP",
+    "conteudo": "A Minimum Viable Product (MVP) is not a product with bugs or half-finished. It is the smallest version you can create that already delivers the core value to your customer, in order to test the idea."
+  },
+  {
+    "id": "f143",
+    "categoria": "idiomas",
+    "titulo": "The smallest alphabet",
+    "conteudo": "The Rotokas language, spoken in Papua New Guinea, has one of the smallest alphabets in the world: it has only 12 letters (A, E, G, I, K, O, P, R, S, T, U, V)."
+  },
+  {
+    "id": "f144",
+    "categoria": "mitologia",
+    "titulo": "The Trojan Horse",
+    "conteudo": "There is no historical or archaeological evidence that the giant wooden Trojan horse actually existed. It is most likely just a brilliant literary invention."
+  },
+  {
+    "id": "f145",
+    "categoria": "filosofia",
+    "titulo": "Occam's Razor",
+    "conteudo": "A principle that states: 'Entities should not be multiplied beyond necessity'. In other words, if you have two explanations for something, the simplest is usually the correct one."
+  },
+  {
+    "id": "f146",
+    "categoria": "desporto",
+    "titulo": "Olympic Gold",
+    "conteudo": "Olympic gold medals have not been made of solid gold since 1912. Nowadays, they are composed of about 98% silver, merely gold-plated."
+  },
+  {
+    "id": "f147",
+    "categoria": "nutricao",
+    "titulo": "Magnetic Iron",
+    "conteudo": "When a box of breakfast cereal says 'Iron-fortified', it often means the manufacturer has literally added magnetic iron dust to the food."
+  },
+  {
+    "id": "f148",
+    "categoria": "arquitetura",
+    "titulo": "The Pantheon of Rome",
+    "conteudo": "Almost 1900 years after it was built, the roof of the Pantheon in Rome is still the largest unreinforced concrete dome (without steel inside) in the world."
+  },
+  {
+    "id": "f149",
+    "categoria": "fotografia",
+    "titulo": "The First Selfie",
+    "conteudo": "The world's first photographic self-portrait was taken in 1839 by a chemist named Robert Cornelius. He had to stand completely still for about 15 minutes."
+  },
+  {
+    "id": "f150",
+    "categoria": "curiosidades",
+    "titulo": "The Largest Tire Manufacturer",
+    "conteudo": "Forget Michelin or Goodyear. The brand that manufactures the most tires in the world is LEGO, producing over 300 million tiny rubber tires per year."
+  },
+  {
+    "id": "f151",
+    "categoria": "sobrevivencia",
+    "titulo": "Quicksand",
+    "conteudo": "Despite what movies show, it is impossible to be completely swallowed by quicksand. The human body is less dense than sand, so you will float up to your waist."
+  },
+  {
+    "id": "f152",
+    "categoria": "programacao",
+    "titulo": "The CSS Paradox",
+    "conteudo": "Until the emergence of Flexbox a few years ago, the greatest nightmare and source of jokes for any Web Designer was the mathematical inability to perfectly center a div vertically."
+  },
+  {
+    "id": "f153",
+    "categoria": "produtividade",
+    "titulo": "The Zeigarnik Effect",
+    "conteudo": "Your brain remembers incomplete or interrupted tasks much better than those you have already finished. That is why you cannot sleep thinking about a half-written email."
+  },
+  {
+    "id": "f154",
+    "categoria": "ciencia",
+    "titulo": "The Color of the Universe",
+    "conteudo": "If it were possible to mix and merge all the visible light from every star and galaxy in the universe, the resulting color would be a light beige, officially named 'Cosmic Latte'."
+  },
+  {
+    "id": "f155",
+    "categoria": "historia",
+    "titulo": "The Lobster War",
+    "conteudo": "Between 1961 and 1963, Brazil and France almost engaged in an armed naval war over a ridiculous dispute regarding whether lobsters swam in the water or crawled on the seabed."
+  },
+  {
+    "id": "f156",
+    "categoria": "espaco",
+    "titulo": "Ghosts in the Sky",
+    "conteudo": "The Universe is so gigantic that it takes light millions of years to cross it. Some of the bright stars you see in the night sky may have already exploded and died thousands of years ago."
+  },
+  {
+    "id": "f157",
+    "categoria": "biologia",
+    "titulo": "The Blue Whale's Heart",
+    "conteudo": "The heart of a blue whale weighs about 180 kg and is the size of a small bumper car. It pumps with such force that it can be heard 3 km away underwater."
+  },
+  {
+    "id": "f158",
+    "categoria": "saude",
+    "titulo": "The New Skeleton",
+    "conteudo": "Bone is a living tissue that is constantly breaking down and rebuilding itself. As a result, your body regenerates a completely new human skeleton every 10 years."
+  },
+  {
+    "id": "f159",
+    "categoria": "psicologia",
+    "titulo": "Imposter Syndrome",
+    "conteudo": "A phenomenon where high-achieving and successful people constantly doubt their own intellect and live in terror of being exposed as 'frauds' or that it was all just luck."
+  },
+  {
+    "id": "f160",
+    "categoria": "financas",
+    "titulo": "The Power of Diversification",
+    "conteudo": "Never invest all your money in the 'perfect' stock. If that company goes bankrupt, you lose everything. Buying shares of 500 companies at the same time ensures that the wins cover the few losses."
+  },
+  {
+    "id": "f161",
+    "categoria": "culinaria",
+    "titulo": "The Cashew Secret",
+    "conteudo": "The cashew nut has the particularity of not growing inside the fruit. Instead, it grows hanging on the outside of a pseudofruit, which looks like a strange apple or bell pepper."
+  },
+  {
+    "id": "f162",
+    "categoria": "geografia",
+    "titulo": "The Country of Islands",
+    "conteudo": "It is neither Indonesia nor the Philippines. Sweden holds the record for the country with the most islands in the world: it has more than 267,000 islands, although the vast majority are uninhabited."
+  },
+  {
+    "id": "f163",
+    "categoria": "artes",
+    "titulo": "Insect Red",
+    "conteudo": "Many luxury red lipsticks and strawberry gummies owe their color to 'Carminic Acid'. This natural dye is made by crushing thousands of tiny insects called cochineals."
+  },
+  {
+    "id": "f164",
+    "categoria": "musica",
+    "titulo": "Mozart's Insult",
+    "conteudo": "Mozart, despite being a classical genius, had a very immature sense of humor. He wrote a musical piece for his friends to sing, officially titled 'Leck mich im Arsch' (Lick my ass)."
+  },
+  {
+    "id": "f165",
+    "categoria": "cinema",
+    "titulo": "Darth Vader's Breathing",
+    "conteudo": "The iconic and terrifying sound of Darth Vader's mechanical breathing in Star Wars was recorded by placing a microphone inside a scuba tank regulator."
+  },
+  {
+    "id": "f166",
+    "categoria": "literatura",
+    "titulo": "The Rejected Manuscript",
+    "conteudo": "J.K. Rowling saw the Harry Potter manuscript rejected by 12 major publishers. The small publisher that accepted it only did so because the director's 8-year-old daughter read it and loved it."
+  },
+  {
+    "id": "f167",
+    "categoria": "tecnologia",
+    "titulo": "What does Wi-Fi mean?",
+    "conteudo": "Contrary to what most people think (that it stands for Wireless Fidelity), the word Wi-Fi does not strictly mean anything at all. It was a purely commercial name invented by a marketing agency."
+  },
+  {
+    "id": "f168",
+    "categoria": "inteligencia artificial",
+    "titulo": "The First Chatterbot",
+    "conteudo": "In 1966, ELIZA was created, the first chatbot in history. The program simulated a psychotherapist, and it did so quite well simply by repeating the user's statements back to them in the form of a question."
+  },
+  {
+    "id": "f169",
+    "categoria": "sustentabilidade",
+    "titulo": "The Avocado Problem",
+    "conteudo": "The avocado trend has a brutal impact on the environment. To produce a single avocado, an impressive 320 liters of fresh water are needed on average."
+  },
+  {
+    "id": "f170",
+    "categoria": "design",
+    "titulo": "The Amazon Logo",
+    "conteudo": "The famous yellow arrow in the Amazon logo is not just a friendly smile for the customer; it literally points from the letter A to the letter Z, symbolizing that the store sells everything."
+  },
+  {
+    "id": "f171",
+    "categoria": "marketing",
+    "titulo": "Supermarket Lights",
+    "conteudo": "Fruit and vegetable sections and butcher shops use special manipulated LED lighting. They use lights with a reddish tone to make meat look fresher and green to make vegetables shine."
+  },
+  {
+    "id": "f172",
+    "categoria": "empreendedorismo",
+    "titulo": "The 1000 True Fans",
+    "conteudo": "A success theory states that you don't need millions of customers. If you have just 1000 'fans' obsessed with your work who pay you €100 per year, you will generate €100,000 in annual revenue."
+  },
+  {
+    "id": "f173",
+    "categoria": "idiomas",
+    "titulo": "The Most Complex Word",
+    "conteudo": "In the Oxford English Dictionary, the small word 'set' holds the impressive record for the word with the most different meanings and definitions: over 430 uses."
+  },
+  {
+    "id": "f174",
+    "categoria": "mitologia",
+    "titulo": "The Origin of the Cereal Box",
+    "conteudo": "In the ancient Roman religion, Ceres was the Goddess responsible for agriculture, harvests, and the fertility of the land. It is exactly from her name that the word 'Cereal' is derived."
+  },
+  {
+    "id": "f175",
+    "categoria": "filosofia",
+    "titulo": "The Ship of Theseus",
+    "conteudo": "A famous identity paradox: If the wooden planks of an old ship are replaced one by one over the years, once no original parts remain, does it continue to be the same ship?"
+  },
+  {
+    "id": "f176",
+    "categoria": "desporto",
+    "titulo": "The Aerodynamics of Golf",
+    "conteudo": "The dimples on the surface of golf balls create micro-turbulence in the air that drastically reduces drag. A ball with dimples flies twice the distance of a smooth ball."
+  },
+  {
+    "id": "f177",
+    "categoria": "nutricao",
+    "titulo": "The Nighttime Calorie Myth",
+    "conteudo": "The time you eat does not make you gain weight. A sandwich has the same number of calories at 2 p.m. as it does at 11 p.m. What makes you gain weight is simply consuming more calories than you burned throughout the 24 hours."
+  },
+  {
+    "id": "f178",
+    "categoria": "arquitetura",
+    "titulo": "The Empire State Mast",
+    "conteudo": "The 60-meter mast at the top of the iconic Empire State Building, in New York, was originally designed not as an antenna, but to serve as a mooring port for Zeppelin airships."
+  },
+  {
+    "id": "f179",
+    "categoria": "fotografia",
+    "titulo": "Why do we get Red Eyes?",
+    "conteudo": "The flash of a camera is so fast that the pupil does not have time to close. The light enters the eye and illuminates the red of the many blood vessels at the back of the retina."
+  },
+  {
+    "id": "f180",
+    "categoria": "curiosidades",
+    "titulo": "The Sound of Finger Snapping",
+    "conteudo": "When you snap your fingers to get attention, the sharp sound is not generated by your fingers rubbing against each other. It is actually created by your middle finger hitting your palm at high speed."
+  },
+  {
+    "id": "f181",
+    "categoria": "tecnologia",
+    "titulo": "The Origin of the QWERTY Keyboard",
+    "conteudo": "The QWERTY keyboard was not designed to be fast. It was designed in the 19th century to space out the most used keys and force typists to type slower, preventing the typewriters from jamming."
+  },
+  {
+    "id": "f182",
+    "categoria": "programacao",
+    "titulo": "The First Virus",
+    "conteudo": "The first computer virus was called 'Creeper' (1971). It didn't destroy anything, it just displayed the message: 'I'm the Creeper, catch me if you can!'. The first antivirus was called, naturally, 'Reaper'."
+  },
+  {
+    "id": "f183",
+    "categoria": "produtividade",
+    "titulo": "The Two-Pizza Rule",
+    "conteudo": "Jeff Bezos (founder of Amazon) has a strict rule: if two pizzas are not enough to feed everyone in a meeting, then there are too many people in the room and the meeting will be unproductive."
+  },
+  {
+    "id": "f184",
+    "categoria": "ciencia",
+    "titulo": "Bananas are Radioactive",
+    "conteudo": "Bananas contain radioactive isotopes of potassium. But don't worry: you would have to eat about 10 million bananas at once to die of radiation poisoning."
+  },
+  {
+    "id": "f185",
+    "categoria": "historia",
+    "titulo": "The Age of Oxford",
+    "conteudo": "The University of Oxford, in England, is older than the Aztec Empire. Teaching at Oxford began around 1096, while the Aztec city of Tenochtitlán was only founded in 1325."
+  },
+  {
+    "id": "f186",
+    "categoria": "espaco",
+    "titulo": "The Neutron Spoon",
+    "conteudo": "Neutron stars are the densest objects in the universe. A single teaspoon of the material that makes up a neutron star would weigh about 6 billion tons on Earth (the weight of a mountain)."
+  },
+  {
+    "id": "f187",
+    "categoria": "biologia",
+    "titulo": "Cube-Shaped Poop",
+    "conteudo": "The Wombat (an Australian marsupial) is the only animal in the world whose poop is shaped like perfect cubes. This happens to prevent the feces from rolling away, allowing them to mark their territory on top of rocks."
+  },
+  {
+    "id": "f188",
+    "categoria": "saude",
+    "titulo": "The appendix is not useless",
+    "conteudo": "For a long time, it was thought that the appendix was an evolutionary error. Today, it is known that it functions as a 'safe house' that stores good bacteria to repopulate your gut after severe food poisoning."
+  },
+  {
+    "id": "f189",
+    "categoria": "psicologia",
+    "titulo": "The Mandela Effect",
+    "conteudo": "It is a bizarre phenomenon where large groups of people have the same false memory about an event. The name arose when thousands of people swore they remembered seeing Nelson Mandela's death on TV in the 80s, when he only died in 2013."
+  },
+  {
+    "id": "f190",
+    "categoria": "financas",
+    "titulo": "Bulls vs Bears",
+    "conteudo": "In the stock market, a 'Bull Market' is when prices are rising and a 'Bear Market' is when they are falling. The names come from how the animals attack: the bull attacks from bottom to top with its horns, the bear attacks from top to bottom with its paw."
+  },
+  {
+    "id": "f191",
+    "categoria": "culinaria",
+    "titulo": "Peanuts are not Nuts",
+    "conteudo": "Despite their name and taste, peanuts are not nuts. Botanically, they belong to the legume family, growing underground exactly like peas and lentils."
+  },
+  {
+    "id": "f192",
+    "categoria": "geografia",
+    "titulo": "The Mariana Trench",
+    "conteudo": "The deepest point in the ocean (the Mariana Trench) is so deep that if you placed Mount Everest inside it, the top of the mountain would still be submerged under more than 2 kilometers of water."
+  },
+  {
+    "id": "f193",
+    "categoria": "artes",
+    "titulo": "Bob Ross's Secret",
+    "conteudo": "Famous TV painter Bob Ross used to paint three exact versions of each painting for the show: one beforehand for reference, one during the recording in just 27 minutes, and a more detailed version to be published in books."
+  },
+  {
+    "id": "f194",
+    "categoria": "musica",
+    "titulo": "What is an 'Earworm'?",
+    "conteudo": "That frustrating phenomenon of having a song stuck in your head is called an 'Earworm'. It happens because your brain creates an infinite loop while trying to 'close' the melody that was left incomplete in your memory."
+  },
+  {
+    "id": "f195",
+    "categoria": "cinema",
+    "titulo": "The Matrix Code",
+    "conteudo": "The iconic green rain of code from the movie The Matrix looks complex and alien, but the production designer revealed that he scanned his wife's sushi cookbooks and mixed in the Japanese characters."
+  },
+  {
+    "id": "f196",
+    "categoria": "literatura",
+    "titulo": "The Origin of Frankenstein",
+    "conteudo": "The classic 'Frankenstein' was written by an 18-year-old girl, Mary Shelley. She invented the horror story during a rainy holiday in 1816, following a challenge from Lord Byron to see who could write the best ghost story."
+  },
+  {
+    "id": "f197",
+    "categoria": "tecnologia",
+    "titulo": "The origin of the name Bluetooth",
+    "conteudo": "Bluetooth technology is named after Harald Bluetooth, a 10th-century Viking king who united Denmark and Norway. The logo is a combination of the Nordic runes for the king's initials."
+  },
+  {
+    "id": "f198",
+    "categoria": "inteligencia artificial",
+    "titulo": "AI Hallucination",
+    "conteudo": "When ChatGPT doesn't know the answer to a question, it sometimes suffers from 'Hallucination': it invents a complete lie, but writes it with such confidence and detail that it seems like a verified historical fact."
+  },
+  {
+    "id": "f199",
+    "categoria": "sustentabilidade",
+    "titulo": "The Headquarters of the Internet",
+    "conteudo": "To generate just a few responses in an advanced Artificial Intelligence model, the massive data centers of Google or Microsoft can consume up to half a liter of fresh water just to cool the servers."
+  },
+  {
+    "id": "f200",
+    "categoria": "design",
+    "titulo": "The Cost of the Nike Logo",
+    "conteudo": "The Nike 'Swoosh', one of the most valuable and recognizable logos ever, was designed in 1971 by a design student named Carolyn Davidson. She charged exactly 35 dollars for the work."
+  },
+  {
+    "id": "f201",
+    "categoria": "marketing",
+    "titulo": "Red Bull was sued",
+    "conteudo": "Red Bull had to pay millions of dollars in a lawsuit in 2014 because a consumer argued that the drink 'did not give him' literal wings, which was considered false advertising. Now, the slogan uses 'wiiings' with three i's."
+  },
+  {
+    "id": "f202",
+    "categoria": "empreendedorismo",
+    "titulo": "A Successful Failure",
+    "conteudo": "Post-it notes were born from a failure. A 3M scientist tried to create the world's strongest glue, but instead created a weak, reusable adhesive. The invention was useless for years, until someone used it to mark pages in a hymn book."
+  },
+  {
+    "id": "f203",
+    "categoria": "idiomas",
+    "titulo": "What is 'Gigil'?",
+    "conteudo": "The Tagalog language (Philippines) has the word 'Gigil', which describes that irresistible feeling of wanting to pinch, bite, or squeeze something because it is unbearably cute (like a baby or a puppy)."
+  },
+  {
+    "id": "f204",
+    "categoria": "mitologia",
+    "titulo": "Hades was not evil",
+    "conteudo": "Pop culture turned Hades (the Greek God of the Underworld) into a villain, like the Devil. In original mythology, he was just a passive and fair bureaucrat who had the bad luck of managing death, while Zeus was the one causing all the problems."
+  },
+  {
+    "id": "f205",
+    "categoria": "filosofia",
+    "titulo": "Solipsism",
+    "conteudo": "It is the unsettling philosophical theory that the only thing in the universe you can be absolutely certain exists is your own mind. Everything else, including the phone in your hand and other people, could be a simulation or a dream of yours."
+  },
+  {
+    "id": "f206",
+    "categoria": "desporto",
+    "titulo": "The Engineering of Badminton",
+    "conteudo": "Badminton is the fastest racket sport in the world, with the shuttlecock reaching over 400 km/h. For official tournaments, the shuttlecock must be made with exactly 16 feathers from the left wing of a goose."
+  },
+  {
+    "id": "f207",
+    "categoria": "nutricao",
+    "titulo": "White Chocolate is a Lie",
+    "conteudo": "White chocolate does not contain any cocoa solids (the brown powder that gives chocolate its real flavor). It is made entirely from cocoa butter, sugar, powdered milk, and plenty of vanilla."
+  },
+  {
+    "id": "f208",
+    "categoria": "arquitetura",
+    "titulo": "The Eiffel Tower Grows",
+    "conteudo": "Because it is built entirely of iron, the Eiffel Tower in Paris expands with heat. During the peak of the European summer, the tower can grow up to 15 centimeters in height compared to winter."
+  },
+  {
+    "id": "f209",
+    "categoria": "fotografia",
+    "titulo": "Say Prunes!",
+    "conteudo": "In the 19th century, smiling for photographs was considered a sign of poor manners or madness. Instead of saying 'Cheese', photographers asked people to say 'Prunes', to keep their mouths closed and serious."
+  },
+  {
+    "id": "f210",
+    "categoria": "curiosidades",
+    "titulo": "What is a 'Jiffy'?",
+    "conteudo": "When we say we will do something 'in a jiffy' (in an instant), we are using a real measurement. In physics and chemistry, a 'jiffy' is a unit of time that corresponds to the speed of light traveling one centimeter in a vacuum."
+  },
+  {
+    "id": "f211",
+    "categoria": "sobrevivencia",
+    "titulo": "Cactus Water",
+    "conteudo": "Drinking water from inside a cactus to survive in a desert is a dangerous myth created by movies. Most cacti are filled with toxic acids and alkaloids that would make you vomit and dehydrate even faster."
+  },
+  {
+    "id": "f212",
+    "categoria": "programacao",
+    "titulo": "HTML is not Programming",
+    "conteudo": "Although essential for the web, HTML is not a programming language. It is a 'Markup Language', used only to organize paragraphs, images, and links, and lacks mathematical logic like JavaScript or Python."
+  },
+  {
+    "id": "f213",
+    "categoria": "produtividade",
+    "titulo": "Habit Stacking",
+    "conteudo": "The easiest way to create a new habit is to piggyback it onto an old habit you already do on autopilot. Example: 'After brushing my teeth (old), I will read 2 pages of a book (new)'."
+  },
+  {
+    "id": "f214",
+    "categoria": "ciencia",
+    "titulo": "Acid of Destruction",
+    "conteudo": "The hydrochloric acid inside your stomach has such an extreme pH that, if you accidentally swallowed a small metal razor blade, your stomach would be able to dissolve it almost completely within 24 hours."
+  },
+  {
+    "id": "f215",
+    "categoria": "historia",
+    "titulo": "Purple Carrots",
+    "conteudo": "In their original state in nature, carrots were purple, yellow, or white. Orange carrots were only invented in the 17th century by farmers in the Netherlands, in honor of the Dutch royal family, the House of Orange."
+  },
+  {
+    "id": "f216",
+    "categoria": "espaco",
+    "titulo": "The Bar of the Universe",
+    "conteudo": "Near the center of the Milky Way, there is a giant gas cloud called Sagittarius B2. Scientists discovered that this cloud contains billions of liters of ethyl alcohol (the same as in drinks) floating in space."
+  },
+  {
+    "id": "f217",
+    "categoria": "biologia",
+    "titulo": "Swimming Sloths",
+    "conteudo": "Although they are incredibly slow moving on land, sloths are fantastic swimmers and can hold their breath underwater for 40 minutes (much longer than dolphins)."
+  },
+  {
+    "id": "f218",
+    "categoria": "saude",
+    "titulo": "We Shrink During the Day",
+    "conteudo": "You are about 1 centimeter taller in the morning when you wake up than at night. Throughout the day, gravity slowly compresses the cartilage between the bones of your spine."
+  },
+  {
+    "id": "f219",
+    "categoria": "psicologia",
+    "titulo": "The Tetris Effect",
+    "conteudo": "Psychological studies have found that playing Tetris immediately after a traumatic event can help prevent the development of Post-Traumatic Stress Disorder (PTSD), as the blocks interfere with the visual storage of the traumatic memory."
+  },
+  {
+    "id": "f220",
+    "categoria": "financas",
+    "titulo": "Cardboard Cards",
+    "conteudo": "The first universal credit card, the Diners Club, was launched in 1950. Wealthy people could use it at various restaurants, but the card was not made of plastic; it was made of simple printed cardboard."
+  },
+  {
+    "id": "f221",
+    "categoria": "culinaria",
+    "titulo": "Apples Float",
+    "conteudo": "If you throw an apple into a bucket of water, it will float perfectly while a pear will sink. This happens because 25% of an apple's interior volume is literally pure air trapped between its cells."
+  },
+  {
+    "id": "f222",
+    "categoria": "geografia",
+    "titulo": "The Country of Lakes",
+    "conteudo": "Canada has a geography so unique and carved by ancient glaciers that it alone possesses more than half of all the world's natural lakes combined. There are over 2 million lakes."
+  },
+  {
+    "id": "f223",
+    "categoria": "artes",
+    "titulo": "Picasso, the Thief?",
+    "conteudo": "When the Mona Lisa was stolen in 1911, the French police arrested and harshly interrogated Pablo Picasso as the main suspect. The poet Guillaume Apollinaire had falsely accused Picasso, who was eventually cleared of the charges."
+  },
+  {
+    "id": "f224",
+    "categoria": "musica",
+    "titulo": "The 639-year Concert",
+    "conteudo": "There is an organ concert taking place in a church in Germany since 2001, composed by John Cage. The music is so slow that the next organ note change will only happen in the year 2026. The piece ends in 2640."
+  },
+  {
+    "id": "f225",
+    "categoria": "cinema",
+    "titulo": "Godzilla's Roar",
+    "conteudo": "The Japanese sound team in the 1950s tried dozens of real animal growls, but nothing sounded terrifying enough for Godzilla. The final sound was created by rubbing a resin-covered leather glove against the strings of a double bass."
+  },
+  {
+    "id": "f226",
+    "categoria": "literatura",
+    "titulo": "The Invention of the 'Nerd'",
+    "conteudo": "The word 'Nerd', now used globally to describe someone obsessed with computers or pop culture, was invented and printed for the first time in 1950 by the famous children's author Dr. Seuss, in the book 'If I Ran the Zoo'."
+  },
+  {
+    "id": "f227",
+    "categoria": "tecnologia",
+    "titulo": "The 4 AM Alarm Clock",
+    "conteudo": "The first mechanical alarm clock invented in the US in 1787 by Levi Hutchins was not adjustable. The creator programmed it with soldered gears to ring exclusively at 4 AM, the time he needed to wake up for work."
+  },
+  {
+    "id": "f228",
+    "categoria": "inteligencia artificial",
+    "titulo": "Kasparov's Defeat",
+    "conteudo": "The moment humanity realized the power of computing was in 1997, when IBM's supercomputer Deep Blue managed to defeat Garry Kasparov, the unbeatable world chess champion."
+  },
+  {
+    "id": "f229",
+    "categoria": "sustentabilidade",
+    "titulo": "Plastic-Eating Mushrooms",
+    "conteudo": "Scientists have discovered a rare species of fungus in the Amazon (Pestalotiopsis microspora) that can survive by feeding exclusively on polyurethane plastic, and it can even do so in oxygen-free environments."
+  },
+  {
+    "id": "f230",
+    "categoria": "design",
+    "titulo": "The Hatred for Comic Sans",
+    "conteudo": "Comic Sans is the most hated font by designers. It was created in 1994, not for professional documents, but specifically to fit into the speech bubbles of a small virtual yellow dog that served as an assistant in Microsoft Bob."
+  },
+  {
+    "id": "f231",
+    "categoria": "marketing",
+    "titulo": "The New Car Smell",
+    "conteudo": "That 'new car smell' that customers love so much is not an added perfume. It is actually the result of more than 50 Volatile Organic Compounds (some toxic) being slowly released by the interior plastics and rubbers."
+  },
+  {
+    "id": "f232",
+    "categoria": "empreendedorismo",
+    "titulo": "YouTube's Past",
+    "conteudo": "When YouTube was founded in 2005, its original idea was to be a video dating site called 'Tune In Hook Up'. Since no one uploaded videos, they opened the platform to random cat videos and it exploded."
+  },
+  {
+    "id": "f233",
+    "categoria": "idiomas",
+    "titulo": "Tweets in Latin",
+    "conteudo": "The Pope's official Twitter (X) account does not just tweet in modern languages. His Latin account (@Pontifex_ln) has almost 1 million followers and requires the use of invented Latin words for modern concepts such as 'internet'."
+  },
+  {
+    "id": "f234",
+    "categoria": "mitologia",
+    "titulo": "The Name of the Minotaur",
+    "conteudo": "Everyone knows him as the Minotaur (which literally means 'Minos' bull'). However, in original Greek mythology, the monster at the center of the labyrinth had a real and poetic name: Asterion, which means 'Starry'."
+  },
+  {
+    "id": "f235",
+    "categoria": "filosofia",
+    "titulo": "The Butterfly Effect",
+    "conteudo": "The Butterfly Effect is not about time travel. It is a real concept from Chaos Theory that mathematically proves how a tiny event (the flapping of a butterfly's wings) can cause chain reactions that alter a hurricane on another continent weeks later."
+  },
+  {
+    "id": "f236",
+    "categoria": "desporto",
+    "titulo": "Olympic Tug of War",
+    "conteudo": "It may seem like just a summer camp game, but Tug of War was a highly competitive sport in the Olympic Games, with national teams fighting for Gold between 1900 and 1920."
+  },
+  {
+    "id": "f237",
+    "categoria": "nutricao",
+    "titulo": "Lemon vs Strawberry",
+    "conteudo": "Taste can be deceiving regarding nutrition. Because of the extreme amount of citric acid that masks the sweetness, a lemon contains, gram for gram, more natural sugar than the same amount of red strawberries."
+  },
+  {
+    "id": "f238",
+    "categoria": "arquitetura",
+    "titulo": "The Leaning Tower of Pisa was never straight",
+    "conteudo": "The famous Leaning Tower of Pisa did not become crooked hundreds of years later. The soil in Italy was so soft and clay-like that the tower began to sink and tilt severely just as the masons were only building the third floor in 1178."
+  },
+  {
+    "id": "f239",
+    "categoria": "fotografia",
+    "titulo": "The First Digital Camera",
+    "conteudo": "Kodak invented the world's first digital camera in 1975. It looked like a giant toaster, weighed almost 4 kilograms, used audio cassettes to record black and white images, and took 23 seconds to process a single 0.01-megapixel photo."
+  },
+  {
+    "id": "f240",
+    "categoria": "curiosidades",
+    "titulo": "The Anxiety of Cows",
+    "conteudo": "Just like humans and dogs, studies show that cows form deep emotional bonds with other members of the herd. If you separate a cow from its 'best friend', its heart rate spikes and it enters clinical stress."
+  },
+  {
+    "id": "f241",
+    "categoria": "tecnologia",
+    "titulo": "The First Spam",
+    "conteudo": "The first 'spam' email in history was sent in 1978 on ARPANET (the grandmother of the internet). It was an advertisement for DEC computers and was sent to just 393 people."
+  },
+  {
+    "id": "f242",
+    "categoria": "programacao",
+    "titulo": "The Rubber Duck",
+    "conteudo": "'Rubber Duck Debugging' is a real technique where a programmer explains their code out loud, line by line, to a rubber duck. By forcing the explanation, the brain stumbles upon the error almost magically."
+  },
+  {
+    "id": "f243",
+    "categoria": "produtividade",
+    "titulo": "The Ivy Lee Method",
+    "conteudo": "At the end of each day, write down the 6 most important tasks for the next day in order of priority. The next day, focus on the 1st one until it is finished. It is one of the oldest and most effective productivity methods."
+  },
+  {
+    "id": "f244",
+    "categoria": "ciencia",
+    "titulo": "The Mystery of Ice",
+    "conteudo": "Water is one of the only substances in the universe that expands and becomes lighter when it freezes. If ice were denser than water (like almost everything else), the oceans would freeze from the bottom up, killing all life on Earth."
+  },
+  {
+    "id": "f245",
+    "categoria": "historia",
+    "titulo": "The 335 Years War",
+    "conteudo": "The war between the Netherlands and the Isles of Scilly officially lasted from 1651 to 1986 (335 years). Throughout that entire time, there was never a single shot fired nor a single casualty. The parties simply forgot to sign the peace treaty."
+  },
+  {
+    "id": "f246",
+    "categoria": "espaco",
+    "titulo": "The Ocean in Space",
+    "conteudo": "12 billion light-years away, there is a giant cloud of water vapor floating in space. It contains 140 trillion times more water than all of Earth's oceans combined."
+  },
+  {
+    "id": "f247",
+    "categoria": "biologia",
+    "titulo": "The Platypus",
+    "conteudo": "The platypus is such a bizarre animal that it has no stomach. The esophagus connects directly to the intestines. Furthermore, they lay eggs, sweat milk, and the males have venomous spurs."
+  },
+  {
+    "id": "f248",
+    "categoria": "saude",
+    "titulo": "The Primitive Hiccup",
+    "conteudo": "Scientists believe that hiccups are a useless evolutionary reflex inherited from our amphibian ancestors. It is the same muscular movement that tadpoles use to breathe water through their gills."
+  },
+  {
+    "id": "f249",
+    "categoria": "psicologia",
+    "titulo": "The Baader-Meinhof Phenomenon",
+    "conteudo": "Also called 'Frequency Illusion'. It is when you learn a new word or buy a car of a certain brand and, suddenly, you start seeing it everywhere. Your brain has just activated the attention filter."
+  },
+  {
+    "id": "f250",
+    "categoria": "financas",
+    "titulo": "The Tulip Bubble",
+    "conteudo": "In 1637, in the Netherlands, the first financial bubble in history occurred. The price of tulip bulbs rose so much that a single bulb of a rare flower was worth the same as a luxury mansion in Amsterdam. Shortly after, the market collapsed."
+  },
+  {
+    "id": "f251",
+    "categoria": "culinaria",
+    "titulo": "The Cilantro Gene",
+    "conteudo": "If you think cilantro tastes like detergent or soap, it's not your palate's fault. About 10% of the world's population has a genetic variation (the OR6A2 gene) that makes them detect a chemical in the plant that is used in soap making."
+  },
+  {
+    "id": "f252",
+    "categoria": "geografia",
+    "titulo": "Tectonic Speed",
+    "conteudo": "Earth's continents (tectonic plates) are in constant motion. The speed at which Europe and North America are moving away from each other is exactly the same speed at which your fingernails grow."
+  },
+  {
+    "id": "f253",
+    "categoria": "artes",
+    "titulo": "The Color 'Mummy'",
+    "conteudo": "In the 16th and 17th centuries, European painters used a color called 'Mummy Brown'. This pigment was literally made by grinding up corpses of ancient Egyptian mummies that were smuggled into Europe."
+  },
+  {
+    "id": "f254",
+    "categoria": "musica",
+    "titulo": "The Rhythm of the Heart",
+    "conteudo": "When you listen to music, especially strong or relaxing rhythms, your heart rate and breathing patterns automatically try to synchronize with the rhythm of the music you are listening to."
+  },
+  {
+    "id": "f255",
+    "categoria": "cinema",
+    "titulo": "The T-Rex Roar",
+    "conteudo": "The chilling T-Rex roar in the movie Jurassic Park (1993) is not a synthetic sound. It is a complex blend of recorded sounds from a baby elephant, a tiger, and an alligator."
+  },
+  {
+    "id": "f256",
+    "categoria": "literatura",
+    "titulo": "Dr. Seuss's Challenge",
+    "conteudo": "The famous children's book 'Green Eggs and Ham' was written after a 50-dollar bet with his editor, who challenged him to write a whole, sensible book using exactly 50 different words. He won."
+  },
+  {
+    "id": "f257",
+    "categoria": "inteligencia artificial",
+    "titulo": "Move 37",
+    "conteudo": "In 2016, the AI AlphaGo played against the world champion of Go. On Move 37, the machine made a move so creative and alien that experts thought it was a system error. It was the move that secured its victory."
+  },
+  {
+    "id": "f258",
+    "categoria": "sustentabilidade",
+    "titulo": "High-Speed Bamboo",
+    "conteudo": "Bamboo is an excellent sustainable alternative to wood because it is the fastest-growing plant on the planet. Some species can grow more than 90 centimeters in a single day."
+  },
+  {
+    "id": "f259",
+    "categoria": "design",
+    "titulo": "The Hidden Arrow",
+    "conteudo": "One of the most clever logos in modern design is that of FedEx. If you look closely at the white (negative) space between the letters 'E' and 'x', you will find a perfect arrow pointing forward, symbolizing speed and precision."
+  },
+  {
+    "id": "f260",
+    "categoria": "marketing",
+    "titulo": "The Diamond Illusion",
+    "conteudo": "The idea that an engagement ring has to be an expensive diamond is not an ancient tradition. It was a brilliant marketing campaign created in 1947 by the company De Beers with the slogan 'A diamond is forever'."
+  },
+  {
+    "id": "f261",
+    "categoria": "empreendedorismo",
+    "titulo": "Airbnb Cereals",
+    "conteudo": "In 2008, Airbnb's founders were out of money and close to bankruptcy. To save the company, they designed cereal boxes with political caricatures (Obama and McCain), sold them online as a collector's edition, and made $30,000 to keep going."
+  },
+  {
+    "id": "f262",
+    "categoria": "idiomas",
+    "titulo": "The Letter 'E'",
+    "conteudo": "The letter 'E' is the most used letter in the English language (and also in Portuguese). It occupies about 11% of all text we read, being essential for almost all verbs and articles."
+  },
+  {
+    "id": "f263",
+    "categoria": "mitologia",
+    "titulo": "The True Medusa",
+    "conteudo": "In the oldest version of the myth, Medusa's snake-headed form was not a curse, but a symbol of protection. Images of her face were placed on shields and doorways in Ancient Greece to ward off evil."
+  },
+  {
+    "id": "f264",
+    "categoria": "filosofia",
+    "titulo": "The Trolley Problem",
+    "conteudo": "A famous ethical thought experiment: a runaway trolley is about to kill 5 people tied to the tracks. You have a lever that can divert it to another track, but it will kill 1 person. Is pulling the lever murder or salvation? The goal is not to answer, but to think about the value of life."
+  },
+  {
+    "id": "f265",
+    "categoria": "desporto",
+    "titulo": "Chess Boxing",
+    "conteudo": "'Chess Boxing' is a real and incredibly demanding sport. Athletes alternate between rounds of chess and rounds of boxing in a ring. You can win the match by physical knockout or by checkmate on the board."
+  },
+  {
+    "id": "f266",
+    "categoria": "nutricao",
+    "titulo": "The Carrot Myth",
+    "conteudo": "Carrots are healthy, but they don't give you 'super vision' in the dark. This was a lie invented by the British Royal Air Force during World War II to hide from the Germans that they had invented Radar to intercept planes at night."
+  },
+  {
+    "id": "f267",
+    "categoria": "arquitetura",
+    "titulo": "A Temporary Tower",
+    "conteudo": "The Eiffel Tower was built for the 1889 World's Fair with the intention of being dismantled 20 years later. It was only saved because the French government discovered it was excellent for mounting radio communication antennas."
+  },
+  {
+    "id": "f268",
+    "categoria": "fotografia",
+    "titulo": "The First Photograph",
+    "conteudo": "The world's first known photograph was taken in 1826 by Nicéphore Niépce in France. It was not a simple 'click': the camera had to remain stationary, absorbing sunlight for 8 consecutive hours to create the image."
+  },
+  {
+    "id": "f269",
+    "categoria": "curiosidades",
+    "titulo": "The Name of Barbie",
+    "conteudo": "The most famous doll in the world has a full name. Her official name created by the company Mattel is Barbara Millicent Roberts, and her fictional parents are named George and Margaret."
+  },
+  {
+    "id": "f270",
+    "categoria": "sobrevivencia",
+    "titulo": "Fighting Bears",
+    "conteudo": "If you are attacked by a bear, the strategy depends on the color. If it is a Brown/Grizzly Bear, lie on the ground, protect your neck, and play dead. If it is a Black Bear, never play dead; make noise, raise your arms, and fight with whatever you have."
+  },
+  {
+    "id": "f271",
+    "categoria": "tecnologia",
+    "titulo": "The USB Paradox",
+    "conteudo": "There is a joke in technology called 'USB Superposition'. It says that you always have to try to insert a USB drive three times: the first one is wrong, the second one you flip it and it's wrong, you flip it back to the first position and suddenly it fits perfectly."
+  },
+  {
+    "id": "f272",
+    "categoria": "programacao",
+    "titulo": "The Hot Space Bar",
+    "conteudo": "The space bar is the most pressed key on any keyboard in the world. For a programmer or writer, the microscopic thermal friction of hitting the key millions of times a year causes the plastic of the space bar to wear out much faster than the others."
+  },
+  {
+    "id": "f273",
+    "categoria": "produtividade",
+    "titulo": "The 5 Second Rule",
+    "conteudo": "Author Mel Robbins popularized this rule: when you have an instinct to act on a goal or task, you must count '5, 4, 3, 2, 1' and physically move. Otherwise, your brain will rationalize the fatigue and you will give up on doing it."
+  },
+  {
+    "id": "f274",
+    "categoria": "ciencia",
+    "titulo": "Helium Voice",
+    "conteudo": "Breathing helium makes your voice high-pitched not because it alters your vocal cords, but because helium is much less dense than air. Sound travels much faster through helium, altering the timbre of your voice."
+  },
+  {
+    "id": "f275",
+    "categoria": "historia",
+    "titulo": "Mouthwash in Rome",
+    "conteudo": "Ancient Romans valued white teeth, but their methods were unusual. They imported large quantities of urine (especially from Portugal, considered the strongest at the time) and used it as a mouthwash due to the whitening ammonia."
+  },
+  {
+    "id": "f276",
+    "categoria": "espaco",
+    "titulo": "Backward Rotation",
+    "conteudo": "All planets in the solar system rotate in the same direction they orbit the sun, except for two: Uranus rotates on its side (like a rolling barrel) and Venus rotates in the complete opposite direction. On Venus, the sun rises in the West and sets in the East."
+  },
+  {
+    "id": "f277",
+    "categoria": "biologia",
+    "titulo": "The Stegosaurus Brain",
+    "conteudo": "The gigantic Stegosaurus dinosaur (the one with the plates on its back) weighed up to 3 tons and was the size of a bus, but its brain was literally the size and shape of a small hot dog."
+  },
+  {
+    "id": "f278",
+    "categoria": "saude",
+    "titulo": "The Ice Cream Headache",
+    "conteudo": "The famous 'brain freeze' happens because extreme cold touches the palate (roof of the mouth). The nerves send an emergency signal to the brain to dilate blood vessels and warm the area, and this increase in pressure causes the pain."
+  },
+  {
+    "id": "f279",
+    "categoria": "psicologia",
+    "titulo": "Bystander Effect",
+    "conteudo": "If you see someone fainting on the street, the chances of that person receiving help are incredibly higher if there are 3 people nearby than if there are 30. The more people watching, the greater the 'diffusion of responsibility'."
+  },
+  {
+    "id": "f280",
+    "categoria": "financas",
+    "titulo": "The Index Fund (ETF)",
+    "conteudo": "Warren Buffett bet one million dollars in 2007 against a group of Wall Street financial experts. He bet that a simple, 'boring' Index Fund that just tracks the market average would yield more profit over 10 years than their aggressive strategies. Buffett won easily."
+  },
+  {
+    "id": "f281",
+    "categoria": "culinaria",
+    "titulo": "Beware of Nutmeg",
+    "conteudo": "Nutmeg is fantastic in mashed potatoes, but in large quantities (about two tablespoons) it becomes highly toxic. It contains myristicin, a compound that can cause severe hallucinations, palpitations, and seizures."
+  },
+  {
+    "id": "f282",
+    "categoria": "geografia",
+    "titulo": "The Sea That Died",
+    "conteudo": "The Aral Sea (between Kazakhstan and Uzbekistan) was the fourth largest lake in the world in the 1960s. Due to river diversions made by the Soviet Union for irrigation projects, the lake shrank to about 10% of its original size."
+  },
+  {
+    "id": "f283",
+    "categoria": "artes",
+    "titulo": "The Thinker was Small",
+    "conteudo": "Auguste Rodin's famous statue 'The Thinker', which we see today as a giant, isolated bronze piece, was originally designed as a tiny 70 cm figure at the top of a large door commissioned for a museum."
+  },
+  {
+    "id": "f284",
+    "categoria": "musica",
+    "titulo": "The Most Famous Break",
+    "conteudo": "A 6-second drum solo recorded in 1969 by an obscure band called 'The Winstons' became the most sampled and copied rhythm in music history. The 'Amen Break' is the foundation of all modern Hip-Hop, Jungle, and Drum and Bass."
+  },
+  {
+    "id": "f285",
+    "categoria": "cinema",
+    "titulo": "The King's Roar",
+    "conteudo": "Real lions have a low roar that is not very 'cinematic'. In the classic Disney animated film 'The Lion King' (1994), Mufasa's scary roars are actually tiger sounds that were mixed by the sound team."
+  },
+  {
+    "id": "f286",
+    "categoria": "literatura",
+    "titulo": "The Disappearance of the Author",
+    "conteudo": "The queen of crime, Agatha Christie, was at the center of a real-life mystery in 1926. She disappeared mysteriously for 11 days, sparking a massive nationwide search in England. When she was found at a hotel, she claimed to remember nothing."
+  },
+  {
+    "id": "f287",
+    "categoria": "inteligencia artificial",
+    "titulo": "The Hand Flaw",
+    "conteudo": "Early Artificial Intelligence models for image generation had enormous difficulty drawing human hands, often placing 6 or 7 deformed fingers. This happened because AI does not understand 'anatomy', it only understands patterns of pixels overlaid on thousands of photos of hands in chaotic positions."
+  },
+  {
+    "id": "f288",
+    "categoria": "sustentabilidade",
+    "titulo": "The End of Sand",
+    "conteudo": "The world is running out of useful sand. It might seem like a lie with so many deserts, but desert sand is round due to wind and is not suitable for making cement. Construction sand (extracted from riverbeds) is currently one of the most contested natural resources in the world."
+  },
+  {
+    "id": "f289",
+    "categoria": "design",
+    "titulo": "The Yellow Hunger",
+    "conteudo": "Look at McDonald's, Burger King, or Subway. The massive use of Yellow and Red is no accident (it is called the Ketchup and Mustard Theory). Yellow attracts attention and increases anxiety/hunger, while red conveys urgency to eat and leave quickly."
+  },
+  {
+    "id": "f290",
+    "categoria": "marketing",
+    "titulo": "The False Wine Menu",
+    "conteudo": "Most restaurants know that customers don't want to buy the cheapest wine (so they don't look cheap), but they also don't want the most expensive. Menus are designed with an incredibly expensive option at the top, just so that the wine they actually want to sell looks like the 'good deal in the middle'."
+  },
+  {
+    "id": "f291",
+    "categoria": "empreendedorismo",
+    "titulo": "The Age of Nintendo",
+    "conteudo": "We associate Nintendo with modern video games, but the company was founded back in the year 1889. Originally, they produced handmade paper playing cards called 'Hanafuda' in Kyoto, Japan."
+  },
+  {
+    "id": "f292",
+    "categoria": "idiomas",
+    "titulo": "The Longest German Word",
+    "conteudo": "The German language loves to stick words together to create new meanings. One of the longest official words has 63 letters: Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz (The law concerning the delegation of duties for the supervision of cattle marking and beef labeling)."
+  },
+  {
+    "id": "f293",
+    "categoria": "mitologia",
+    "titulo": "Athena's Birth",
+    "conteudo": "In Greek mythology, the goddess of wisdom, Athena, was not born of a normal mother. The myth says that she sprang fully grown and fully armed from Zeus's forehead, after he had swallowed his first wife."
+  },
+  {
+    "id": "f294",
+    "categoria": "filosofia",
+    "titulo": "Schrödinger's Cat",
+    "conteudo": "The famous cat in the closed box that is both alive and dead at the same time was not created to be a brilliant theory. Erwin Schrödinger created the story as a bad joke to mock and prove how ridiculous and absurd quantum physics sounded when applied to everyday objects."
+  },
+  {
+    "id": "f295",
+    "categoria": "desporto",
+    "titulo": "Phelps' Wingspan",
+    "conteudo": "Olympic swimmer Michael Phelps (23 Gold medals) is literally built for swimming. His arm span is 2.01 meters, which is longer than his own height (1.93 meters), a very rare anatomical feature called the 'Ape Index'."
+  },
+  {
+    "id": "f296",
+    "categoria": "nutricao",
+    "titulo": "The Treacherous Grapefruit",
+    "conteudo": "The grapefruit contains a chemical compound that blocks the liver enzymes that process medications. Eating a grapefruit can cause certain heart or cholesterol medications to accidentally overdose in your body."
+  },
+  {
+    "id": "f297",
+    "categoria": "arquitetura",
+    "titulo": "The Taj Mahal Illusion",
+    "conteudo": "The architects of the Taj Mahal used optical illusion tricks. The pillars around the building all tilt slightly outward rather than at a 90-degree angle. This way, if an earthquake occurs, they will not fall onto the central tomb."
+  },
+  {
+    "id": "f298",
+    "categoria": "fotografia",
+    "titulo": "The Green Screen",
+    "conteudo": "In Hollywood, the 'Green Screen' (Chroma Key) is used to add special effects because the color green does not naturally exist in the skin tone of any human ethnicity. This makes it easier for software to remove the background color without erasing the person."
+  },
+  {
+    "id": "f299",
+    "categoria": "curiosidades",
+    "titulo": "The Octopus's Revenge",
+    "conteudo": "Marine biologists have documented several cases of octopuses joining shoals of fish to hunt in groups. However, if the octopus feels that one of the fish is not helping, it will swim up to the fish and aggressively punch it out of pure irritation."
+  },
+  {
+    "id": "f300",
+    "categoria": "sobrevivencia",
+    "titulo": "Rule of 3",
+    "conteudo": "In extreme situations, the human body follows the Rule of 3: It cannot survive more than 3 minutes without oxygen, 3 hours without shelter in an extreme climate (snow/desert), 3 days without potable water, and 3 weeks without food.",
+    "facto_id": "f300",
+    "resposta_correta": "Regra dos 3"
+  },
+  {
+    "id": "f301",
+    "categoria": "musculacao",
+    "titulo": "Muscle Grows During Rest",
+    "conteudo": "Hypertrophy does not happen during the workout. Physical exertion creates micro-tears in the fibers; it is during sleep that the body repairs them, making them larger."
+  },
+  {
+    "id": "f302",
+    "categoria": "musculacao",
+    "titulo": "Anabolic Window",
+    "conteudo": "The idea that you need to eat protein within 30 minutes after a workout is a myth. Protein synthesis remains elevated for more than 24 hours after exercise."
+  },
+  {
+    "id": "f303",
+    "categoria": "musculacao",
+    "titulo": "Progressive Overload",
+    "conteudo": "For muscles to grow, you need Progressive Overload: increasing the weight, repetitions, or decreasing rest time weekly."
+  },
+  {
+    "id": "f304",
+    "categoria": "musculacao",
+    "titulo": "Muscle consumes Energy",
+    "conteudo": "Having more muscle mass increases your Basal Metabolic Rate. Muscle burns more calories at rest than fat."
+  },
+  {
+    "id": "f305",
+    "categoria": "musculacao",
+    "titulo": "Muscle Memory",
+    "conteudo": "If you stop training, the muscle atrophies, but the cell nuclei remain. When you return, you regain muscle mass much faster than the first time."
+  },
+  {
+    "id": "f306",
+    "categoria": "musculacao",
+    "titulo": "Fast-Twitch Fibers",
+    "conteudo": "Bodybuilding focuses on white (fast-twitch) fibers. They have the greatest growth potential, unlike the red fibers used in marathons."
+  },
+  {
+    "id": "f307",
+    "categoria": "musculacao",
+    "titulo": "The Eccentric Phase",
+    "conteudo": "Lowering the weight (eccentric phase) causes more beneficial micro-tears than lifting it. Controlling the descent is crucial for hypertrophy."
+  },
+  {
+    "id": "f308",
+    "categoria": "musculacao",
+    "titulo": "Creatine and Water",
+    "conteudo": "Creatine does not cause 'bloated' fluid retention. It draws water into the muscle cell, improving hydration and explosive strength."
+  },
+  {
+    "id": "f309",
+    "categoria": "musculacao",
+    "titulo": "Compound Exercises",
+    "conteudo": "Squats and deadlifts recruit several muscle groups at the same time, releasing more natural growth hormones than isolation machines."
+  },
+  {
+    "id": "f310",
+    "categoria": "musculacao",
+    "titulo": "Muscle Failure",
+    "conteudo": "Training close to failure (the point where you cannot perform any more repetitions) is the strongest stimulus to recruit 100% of muscle fibers."
+  },
+  {
+    "id": "f311",
+    "categoria": "musculacao",
+    "titulo": "Mind-Muscle Connection",
+    "conteudo": "Mentally focusing on the muscle you are working increases fiber activation by up to 20%. It is not just about lifting weight, it is about contracting the muscle."
+  },
+  {
+    "id": "f312",
+    "categoria": "musculacao",
+    "titulo": "Cortisol and Training",
+    "conteudo": "Excessively long workouts (over 90 min) increase cortisol, which can begin to destroy muscle tissue. The ideal is intensity over duration."
+  },
+  {
+    "id": "f313",
+    "categoria": "musculacao",
+    "titulo": "Tendons vs Muscles",
+    "conteudo": "Muscles adapt faster than tendons. Increasing weights too quickly can cause injuries because the tendons are not yet ready."
+  },
+  {
+    "id": "f314",
+    "categoria": "musculacao",
+    "titulo": "Reps and Strength",
+    "conteudo": "Low reps (1-5) focus on neurological strength; medium reps (8-12) focus on hypertrophy; high reps (15+) focus on endurance."
+  },
+  {
+    "id": "f315",
+    "categoria": "musculacao",
+    "titulo": "Water and Performance",
+    "conteudo": "A dehydration of just 3% can reduce your strength in the gym by 10%. Hydrated muscles have better contractility."
+  },
+  {
+    "id": "f316",
+    "categoria": "musculacao",
+    "titulo": "Overtraining",
+    "conteudo": "Training the same muscle every day prevents recovery. The body needs 48 to 72 hours to fully rebuild a muscle group."
+  },
+  {
+    "id": "f317",
+    "categoria": "musculacao",
+    "titulo": "Muscle Symmetry",
+    "conteudo": "Most people have a stronger side. Using dumbbells instead of barbells helps correct imbalances, as the strong side cannot assist the weak one."
+  },
+  {
+    "id": "f318",
+    "categoria": "musculacao",
+    "titulo": "Warm-up is Vital",
+    "conteudo": "Warming up increases the temperature of synovial fluid in the joints and prepares the nervous system for heavy loads, preventing tears."
+  },
+  {
+    "id": "f319",
+    "categoria": "musculacao",
+    "titulo": "Daily Protein",
+    "conteudo": "To gain muscle, the general recommendation is to consume between 1.6g to 2.2g of protein for every kilogram of your body weight every day."
+  },
+  {
+    "id": "f320",
+    "categoria": "musculacao",
+    "titulo": "Natural Testosterone",
+    "conteudo": "Sleeping less than 6 hours per night reduces testosterone levels by up to 15%, severely hindering muscle recovery."
+  },
+  {
+    "id": "f321",
+    "categoria": "perda de peso",
+    "titulo": "Caloric Deficit",
+    "conteudo": "There are no foods that magically cause weight loss. Weight loss depends solely on burning more calories than you consume (Caloric Deficit)."
+  },
+  {
+    "id": "f322",
+    "categoria": "perda de peso",
+    "titulo": "The Power of NEAT",
+    "conteudo": "NEAT is the energy expended on non-exercise activities (walking, cleaning). NEAT burns significantly more total calories per day than an hour at the gym."
+  },
+  {
+    "id": "f323",
+    "categoria": "perda de peso",
+    "titulo": "Water and Satiety",
+    "conteudo": "Drinking 500ml of water before meals can reduce caloric intake and increase metabolic rate by up to 30% for the following hour."
+  },
+  {
+    "id": "f324",
+    "categoria": "perda de peso",
+    "titulo": "The Thermic Effect",
+    "conteudo": "The body spends energy to digest food. Protein has the highest thermic effect: it burns 25% of its calories just in the digestion process."
+  },
+  {
+    "id": "f325",
+    "categoria": "perda de peso",
+    "titulo": "Cardio vs Weights",
+    "conteudo": "Cardio burns more calories during the workout, but strength training keeps the body burning calories after the workout due to recovery."
+  },
+  {
+    "id": "f326",
+    "categoria": "perda de peso",
+    "titulo": "Sleep and Fat",
+    "conteudo": "Lack of sleep increases Ghrelin (hunger hormone) and decreases Leptin (satiety), making you crave high-calorie foods the next day."
+  },
+  {
+    "id": "f327",
+    "categoria": "perda de peso",
+    "titulo": "Localized Fat",
+    "conteudo": "It is impossible to choose where the body loses fat from. Doing sit-ups does not burn belly fat; weight loss occurs systemically."
+  },
+  {
+    "id": "f328",
+    "categoria": "perda de peso",
+    "titulo": "Caloric Density",
+    "conteudo": "One hundred calories of spinach take up much more space in the stomach than one hundred calories of olive oil. Prioritizing volume helps maintain the diet without hunger."
+  },
+  {
+    "id": "f329",
+    "categoria": "perda de peso",
+    "titulo": "Fluctuating Scale",
+    "conteudo": "The weight on the scale can fluctuate by 2kg in a single day due to water retention, glycogen, or food in the gut. Do not confuse body weight with fat mass."
+  },
+  {
+    "id": "f330",
+    "categoria": "perda de peso",
+    "titulo": "Soluble Fibers",
+    "conteudo": "Fibers absorb water and form a gel in the intestine, slowing down digestion and keeping insulin levels stable."
+  },
+  {
+    "id": "f331",
+    "categoria": "perda de peso",
+    "titulo": "Zero Sodas",
+    "conteudo": "Although they have no calories, some sweeteners can keep your palate accustomed to very sweet flavors, making the dietary transition difficult."
+  },
+  {
+    "id": "f332",
+    "categoria": "perda de peso",
+    "titulo": "Alcohol and Metabolism",
+    "conteudo": "Alcohol halts fat burning. The body prioritizes the elimination of alcohol (which is toxic) before processing fats."
+  },
+  {
+    "id": "f333",
+    "categoria": "perda de peso",
+    "titulo": "Overtraining and Stress",
+    "conteudo": "Excessive exercise without rest increases cortisol. Chronically high cortisol promotes fluid retention and fat accumulation."
+  },
+  {
+    "id": "f334",
+    "categoria": "perda de peso",
+    "titulo": "Detox Myths",
+    "conteudo": "Detox juices do not detoxify the body. This function is exclusive to the liver and kidneys. Making juices often just removes the essential fiber from the fruit."
+  },
+  {
+    "id": "f335",
+    "categoria": "perda de peso",
+    "titulo": "Eating Slowly",
+    "conteudo": "It takes about 20 minutes for the brain to receive the satiety signal. Eating quickly leads you to consume more calories than necessary."
+  },
+  {
+    "id": "f336",
+    "categoria": "perda de peso",
+    "titulo": "Slow Metabolism",
+    "conteudo": "Most 'slow metabolisms' are due to a lack of daily movement (low NEAT) rather than actual genetic issues.",
+    "facto_id": null,
+    "resposta_correta": null
+  },
+  {
+    "id": "f337",
+    "categoria": "perda de peso",
+    "titulo": "Liquid Calories",
+    "conteudo": "The brain does not register liquid calories in the same way as solid ones. It is much easier to exceed caloric limits with drinks."
+  },
+  {
+    "id": "f338",
+    "categoria": "perda de peso",
+    "titulo": "Healthy Fats",
+    "conteudo": "Eating fat does not automatically make you gain fat. Healthy fats (olive oil, avocado) are essential for hormones."
+  },
+  {
+    "id": "f339",
+    "categoria": "perda de peso",
+    "titulo": "Cheat Day",
+    "conteudo": "A full day of overeating can negate an entire week's caloric deficit. It is better to have moderate cheat meals."
+  },
+  {
+    "id": "f340",
+    "categoria": "perda de peso",
+    "titulo": "Fruit and Fructose",
+    "conteudo": "Fructose from whole fruit does not cause weight gain on its own. The fiber in fruit slows down the absorption of sugar, making it an excellent ally in a diet."
+  },
+  {
+    "id": "f341",
+    "categoria": "motivacao",
+    "titulo": "Discipline vs Motivation",
+    "conteudo": "Motivation is an emotion; discipline is a system. Motivation gets you started, but discipline keeps you on track."
+  },
+  {
+    "id": "f342",
+    "categoria": "motivacao",
+    "titulo": "The 5 Second Rule",
+    "conteudo": "If you have an impulse to act, count 5-4-3-2-1 and move. If you don't act within 5 seconds, your brain will kill the idea to protect you from the effort."
+  },
+  {
+    "id": "f343",
+    "categoria": "motivacao",
+    "titulo": "Atomic Habits",
+    "conteudo": "Don't aim to read 50 books. Aim to read 1 page a day. When the habit is tiny, consistency is guaranteed."
+  },
+  {
+    "id": "f344",
+    "categoria": "motivacao",
+    "titulo": "The Cost of Inaction",
+    "conteudo": "We often fear the failure of trying, but we forget the cost of staying in the same place. A year from now, you will wish you had started today."
+  },
+  {
+    "id": "f345",
+    "categoria": "motivacao",
+    "titulo": "Growth Mindset",
+    "conteudo": "Viewing failure as feedback is key. Successful people do not fail less; they simply do not give up after failing."
+  },
+  {
+    "id": "f346",
+    "categoria": "motivacao",
+    "titulo": "Environment is Destiny",
+    "conteudo": "It is easier to change your environment than your willpower. If you want to exercise, have your clothes ready. If you want to eat well, hide the sweets."
+  },
+  {
+    "id": "f347",
+    "categoria": "motivacao",
+    "titulo": "Focus on the Process",
+    "conteudo": "Focusing only on the end result causes anxiety. Focus on winning today's tasks. The result is just the consequence of days won."
+  },
+  {
+    "id": "f348",
+    "categoria": "motivacao",
+    "titulo": "Identity-Based",
+    "conteudo": "Don't say 'I'm trying to run.' Say 'I am a runner.' When you change your identity, your actions naturally follow."
+  },
+  {
+    "id": "f349",
+    "categoria": "motivacao",
+    "titulo": "The Pareto Principle",
+    "conteudo": "About 80% of your results come from only 20% of your actions. Identify the crucial habits and focus your energy on them."
+  },
+  {
+    "id": "f350",
+    "categoria": "motivacao",
+    "titulo": "Healthy Dopamine",
+    "conteudo": "Scrolling on your phone gives cheap, quick dopamine. Finishing a workout gives effort-based dopamine, which builds mental resilience."
+  },
+  {
+    "id": "f351",
+    "categoria": "motivacao",
+    "titulo": "The Power of 'Yet'",
+    "conteudo": "Instead of saying 'I don't know how to do this', say 'I don't know how to do this yet'. This small word opens the door to continuous learning."
+  },
+  {
+    "id": "f352",
+    "categoria": "motivacao",
+    "titulo": "Active Visualization",
+    "conteudo": "Visualizing success is good, but visualizing the obstacles and planning how to overcome them is what truly ensures you won't give up."
+  },
+  {
+    "id": "f353",
+    "categoria": "motivacao",
+    "titulo": "Social Comparison",
+    "conteudo": "Comparing your behind-the-scenes with other people's highlight reels on social media destroys your focus. The only valid comparison is with yourself."
+  },
+  {
+    "id": "f354",
+    "categoria": "motivacao",
+    "titulo": "Never Miss Twice",
+    "conteudo": "Missing one day of diet or training is normal. Missing two days in a row is the beginning of a new, bad habit. Get back on track immediately."
+  },
+  {
+    "id": "f355",
+    "categoria": "motivacao",
+    "titulo": "Zeigarnik Effect",
+    "conteudo": "The brain hates unfinished tasks. If you are procrastinating, commit to working for just 2 minutes. Your brain will want to finish it."
+  },
+  {
+    "id": "f356",
+    "categoria": "motivacao",
+    "titulo": "Overcoming the Plateau",
+    "conteudo": "Progress is not linear. Stagnation is a sign that the body has adapted. It is the moment to change the strategy, not to give up on the goal."
+  },
+  {
+    "id": "f357",
+    "categoria": "motivacao",
+    "titulo": "Energy vs Time",
+    "conteudo": "Managing time is useless if you are exhausted. Prioritize your sleep and diet so that the hours you have are truly focused and productive."
+  },
+  {
+    "id": "f358",
+    "categoria": "motivacao",
+    "titulo": "The Strong 'Why'",
+    "conteudo": "He who has a strong enough 'why' can bear almost any 'how'. Define your deep motivation before your plan."
+  },
+  {
+    "id": "f359",
+    "categoria": "motivacao",
+    "titulo": "Learning Curve",
+    "conteudo": "In the beginning, any skill is frustrating. The 'beginner' phase is where most people quit, but it is where growth is most accelerated."
+  },
+  {
+    "id": "f360",
+    "categoria": "motivacao",
+    "titulo": "Self-Compassion",
+    "conteudo": "Being too hard on yourself increases stress and leads you to give up. Treat yourself as you would treat a friend who is trying to improve."
+  }
+]

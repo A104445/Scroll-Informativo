@@ -1,10 +1,11 @@
 import React from 'react';
 import { lojaItens } from '../data/lojaItens';
+import { useTranslation } from 'react-i18next';
 
 export default function Loja({ progresso, setProgresso }) {
-  
+  const { t } = useTranslation();
+
   const comprarItem = (id, preco) => {
-    // Verifica se tem sementes suficientes e se o item ainda não foi comprado
     if (progresso.sementes >= preco && !progresso.decoracoes.includes(id)) {
       setProgresso(prev => ({
         ...prev,
@@ -16,37 +17,33 @@ export default function Loja({ progresso, setProgresso }) {
 
   return (
     <div className="definicoes-container">
-      {/* Cabeçalho da Loja */}
       <div className="cabecalho-loja" style={{ marginBottom: '24px' }}>
         <h2 style={{ fontSize: '28px', margin: '0 0 8px 0', color: 'var(--text-primary)' }}>
-          🏪 Loja da Árvore
+          🌲 {t('loja_arvore', 'Loja da Árvore')}
         </h2>
         <p style={{ color: 'var(--text-secondary)', fontSize: '15px', margin: '0 0 16px 0' }}>
-          Usa as tuas sementes para personalizar o teu ecossistema.
+          {t('usa_sementes', 'Usa as tuas sementes para personalizar o teu ecossistema.')}
         </p>
         
-        {/* Contador de Sementes em destaque */}
         <div style={{ 
           background: '#f59e0b', 
           color: 'white', 
           padding: '10px 20px', 
           borderRadius: '14px', 
-          fontWeight: 'bold', 
-          display: 'inline-flex', 
-          alignItems: 'center', 
+          fontWeight: 'bold',
+          display: 'inline-flex',
+          alignItems: 'center',
           gap: '8px',
           boxShadow: '0 4px 12px rgba(245, 158, 11, 0.2)'
         }}>
-          <span>🌱</span> {progresso.sementes || 0} Sementes
+          <span>🌱</span> {progresso.sementes || 0} {t('sementes', 'Sementes')}
         </div>
       </div>
 
-      {/* Lista de Itens para Venda */}
       <div className="lista-loja" style={{ display: 'flex', flexDirection: 'column', gap: '12px' }}>
         {lojaItens.map(item => {
           const comprado = (progresso.decoracoes || []).includes(item.id);
           const podeComprar = (progresso.sementes || 0) >= item.preco;
-
           return (
             <div key={item.id} className="item-venda" style={{ 
               background: 'var(--bg-card)', 
@@ -58,7 +55,6 @@ export default function Loja({ progresso, setProgresso }) {
               gap: '16px',
               transition: 'all 0.2s ease'
             }}>
-              {/* Ícone do Item */}
               <div style={{ 
                 fontSize: '32px', 
                 background: 'var(--bg-app)', 
@@ -71,18 +67,14 @@ export default function Loja({ progresso, setProgresso }) {
               }}>
                 {item.icone}
               </div>
-
-              {/* Informação do Item */}
               <div style={{ flex: 1 }}>
                 <h4 style={{ margin: 0, fontSize: '16px', color: 'var(--text-primary)' }}>
-                  {item.nome}
+                  {t('loja_' + item.id + '_nome', item.nome)}
                 </h4>
                 <p style={{ margin: '4px 0 0', fontSize: '13px', color: 'var(--text-secondary)', lineHeight: '1.4' }}>
-                  {item.desc}
+                  {t('loja_' + item.id + '_desc', item.desc)}
                 </p>
               </div>
-
-              {/* Botão de Compra ou Estado de Equipado */}
               <div style={{ marginLeft: '8px' }}>
                 {comprado ? (
                   <span style={{ 
@@ -93,7 +85,7 @@ export default function Loja({ progresso, setProgresso }) {
                     alignItems: 'center',
                     gap: '4px'
                   }}>
-                    ✓ Obtido
+                    ✓ {t('obtido', 'Obtido')}
                   </span>
                 ) : (
                   <button 

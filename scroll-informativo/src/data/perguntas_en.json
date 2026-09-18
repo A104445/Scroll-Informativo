@@ -1,0 +1,4022 @@
+[
+  {
+    "id": "q1",
+    "facto_id": "f1",
+    "pergunta": "Who is considered the world's first programmer?",
+    "opcoes": [
+      "Marie Curie",
+      "Ada Lovelace",
+      "Grace Hopper"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q2",
+    "facto_id": "f2",
+    "pergunta": "What is the analogy used to describe Git?",
+    "opcoes": [
+      "An automatic antivirus",
+      "A code translator",
+      "A time machine for code"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q3",
+    "facto_id": "f3",
+    "pergunta": "Why is JavaScript the most used language in the world?",
+    "opcoes": [
+      "It is the only one that browsers understand natively",
+      "It was the first one to be invented",
+      "It is the easiest to learn"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q4",
+    "facto_id": "f4",
+    "pergunta": "What does the '5-Minute Rule' say about procrastination?",
+    "opcoes": [
+      "You should rest for 5 minutes every hour",
+      "Commit to doing the task for just 5 minutes to get started",
+      "If it takes less than 5 minutes, don't do it today"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q5",
+    "facto_id": "f5",
+    "pergunta": "What does Parkinson's Law state?",
+    "opcoes": [
+      "Work expands so as to fill the time available for its completion",
+      "80% of work is done in 20% of the time",
+      "Difficult tasks should be done in the morning"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q6",
+    "facto_id": "f6",
+    "pergunta": "What is the true color of our sun?",
+    "opcoes": [
+      "Yellow",
+      "White",
+      "Reddish orange"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q7",
+    "facto_id": "f7",
+    "pergunta": "Is it true that the glass in old stained-glass windows flows because it is a slow-moving liquid?",
+    "opcoes": [
+      "Yes, gravity pulls it",
+      "No, it is an amorphous solid",
+      "Yes, due to the heat of the sun"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q8",
+    "facto_id": "f8",
+    "pergunta": "Cleopatra lived closer to which event than to the construction of the Great Pyramid?",
+    "opcoes": [
+      "Fall of the Roman Empire",
+      "Launch of the first iPhone",
+      "Discovery of Brazil"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q9",
+    "facto_id": "f9",
+    "pergunta": "What was the staple of the Roman gladiators' diet?",
+    "opcoes": [
+      "Raw meat",
+      "Fish and wine",
+      "Barley and beans"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q10",
+    "facto_id": "f10",
+    "pergunta": "What is one third of the exoplanet '55 Cancri e' made of?",
+    "opcoes": [
+      "Pure gold",
+      "Solid ice",
+      "Pure diamond"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q11",
+    "facto_id": "f11",
+    "pergunta": "On which planet does a single day take longer than a whole year?",
+    "opcoes": [
+      "Mars",
+      "Venus",
+      "Jupiter"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q12",
+    "facto_id": "f12",
+    "pergunta": "Which of these impressive abilities do crows possess?",
+    "opcoes": [
+      "They remember specific human faces",
+      "They can smell from long distances",
+      "They communicate via telepathy"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q13",
+    "facto_id": "f13",
+    "pergunta": "What percentage of DNA do we share with bananas?",
+    "opcoes": [
+      "About 10%",
+      "About 60%",
+      "More than 90%"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q14",
+    "facto_id": "f14",
+    "pergunta": "What is the main purpose of a fever in the human body?",
+    "opcoes": [
+      "Sign of kidney failure",
+      "Accelerate the heartbeat",
+      "Create a hostile environment for viruses and bacteria"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q15",
+    "facto_id": "f15",
+    "pergunta": "Where does most of the fat go when you lose weight?",
+    "opcoes": [
+      "It turns into sweat",
+      "It turns into muscle",
+      "It is exhaled as carbon dioxide"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q16",
+    "facto_id": "f16",
+    "pergunta": "What describes the Dunning-Kruger Effect?",
+    "opcoes": [
+      "Ignorant people overestimate their intelligence",
+      "Experts are arrogant",
+      "Intelligent people learn faster"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q17",
+    "facto_id": "f17",
+    "pergunta": "What happens when a menu has too many options?",
+    "opcoes": [
+      "The customer consumes more",
+      "The customer gets stressed and takes longer to choose",
+      "The customer becomes more satisfied"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q18",
+    "facto_id": "f18",
+    "pergunta": "How does inflation affect money kept under the mattress?",
+    "opcoes": [
+      "Increases its real value",
+      "Makes it lose purchasing power over time",
+      "Has no effect whatsoever"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q19",
+    "facto_id": "f19",
+    "pergunta": "What is the difference between an Asset and a Liability?",
+    "opcoes": [
+      "An asset is fast, a liability is slow",
+      "An asset takes money, a liability saves",
+      "An asset puts money in your pocket, a liability takes it out"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q20",
+    "facto_id": "f20",
+    "pergunta": "What is the sensation of 'spiciness' biologically?",
+    "opcoes": [
+      "The sixth basic taste",
+      "Pain that tricks temperature receptors",
+      "Excess acid on the tongue"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q21",
+    "facto_id": "f21",
+    "pergunta": "What is the only food that never spoils over time?",
+    "opcoes": [
+      "Rice",
+      "Salt",
+      "Honey"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q22",
+    "facto_id": "f22",
+    "pergunta": "Which country in our world is larger than the entire planet Pluto?",
+    "opcoes": [
+      "Canada",
+      "Russia",
+      "China"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q23",
+    "facto_id": "f23",
+    "pergunta": "Why does Mount Everest continue to grow every year?",
+    "opcoes": [
+      "Accumulation of hard snow",
+      "Rise in sea level",
+      "Pressure from tectonic plates"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q24",
+    "facto_id": "f24",
+    "pergunta": "How many paintings did Vincent Van Gogh manage to sell during his lifetime?",
+    "opcoes": [
+      "Only one",
+      "About twenty",
+      "Hundreds"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q25",
+    "facto_id": "f25",
+    "pergunta": "How do plants react when exposed to music?",
+    "opcoes": [
+      "They feel the vibrations of sound frequencies",
+      "They close their leaves",
+      "They do not have any physical reaction"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q26",
+    "facto_id": "f26",
+    "pergunta": "Why are promotional movie videos called 'Trailers'?",
+    "opcoes": [
+      "Because they drag people to the cinema",
+      "Because they were originally shown at the end of the movie",
+      "Because they came on separate reels"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q27",
+    "facto_id": "f27",
+    "pergunta": "What does the medical term 'Hippopotomonstrosesquippedaliophobia' mean?",
+    "opcoes": [
+      "Fear of hippopotamuses",
+      "Fear of long spaces",
+      "Fear of long words"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q28",
+    "facto_id": "f28",
+    "pergunta": "What was the first .com domain to be registered on the internet?",
+    "opcoes": [
+      "google.com",
+      "symbolics.com",
+      "ibm.com"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q29",
+    "facto_id": "f29",
+    "pergunta": "Where does more than 95% of the world's Internet traffic physically travel?",
+    "opcoes": [
+      "Through satellites in space",
+      "Through cables on the ocean floor",
+      "Through 5G antennas"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q30",
+    "facto_id": "f30",
+    "pergunta": "Why can't 80% of people in the world see the Milky Way anymore?",
+    "opcoes": [
+      "Due to artificial light pollution",
+      "The galaxy is moving away",
+      "Due to the thinning of the ozone layer"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q31",
+    "facto_id": "f31",
+    "pergunta": "In color psychology, why do so many social networks use the color blue?",
+    "opcoes": [
+      "To be less eye-straining",
+      "Because it conveys trust and security",
+      "Because it was the cheapest color on early screens"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q32",
+    "facto_id": "f32",
+    "pergunta": "What is the true reason pigs roll in the mud?",
+    "opcoes": [
+      "To cool their bodies, as they do not have sweat glands",
+      "To hide their scent from predators",
+      "Because mud helps with digestion"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q33",
+    "facto_id": "f33",
+    "pergunta": "What is the 'Wood Wide Web'?",
+    "opcoes": [
+      "An old internet server",
+      "A network of fungi through which trees communicate",
+      "A type of forest spider"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q34",
+    "facto_id": "f34",
+    "pergunta": "Who appeared first on our planet's timeline?",
+    "opcoes": [
+      "Dinosaurs",
+      "Trees",
+      "Sharks"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q35",
+    "facto_id": "f35",
+    "pergunta": "What is the main function of a comment in programming code?",
+    "opcoes": [
+      "Explain WHAT the code does",
+      "Explain WHY the code was written this way",
+      "Hide old code"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q36",
+    "facto_id": "f36",
+    "pergunta": "According to the Impact Matrix, what type of task should be your number one priority?",
+    "opcoes": [
+      "High effort, low impact",
+      "Low effort, high impact",
+      "High effort, high impact"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q37",
+    "facto_id": "f37",
+    "pergunta": "How did Albert Einstein describe gravity?",
+    "opcoes": [
+      "A giant magnet at the Earth's core",
+      "The curvature of space and time caused by mass",
+      "An electrical force of attraction"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q38",
+    "facto_id": "f38",
+    "pergunta": "In which region of the world was paper money first used?",
+    "opcoes": [
+      "Ancient Rome",
+      "England",
+      "China"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q39",
+    "facto_id": "f39",
+    "pergunta": "What is the scary weather like on the exoplanet HD 189733b?",
+    "opcoes": [
+      "It rains fire",
+      "It rains sulfuric acid",
+      "It rains glass horizontally"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q40",
+    "facto_id": "f40",
+    "pergunta": "Which animal kills the most humans per year in the world?",
+    "opcoes": [
+      "Shark",
+      "Mosquito",
+      "Snake"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q41",
+    "facto_id": "f41",
+    "pergunta": "Why is sugar considered so addictive to the brain?",
+    "opcoes": [
+      "It activates the same reward zones as hard drugs",
+      "It contains traces of caffeine",
+      "It enters the bloodstream directly"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q42",
+    "facto_id": "f42",
+    "pergunta": "What defines 'Confirmation Bias' in psychology?",
+    "opcoes": [
+      "Ignoring facts that contradict our beliefs and focusing on what confirms them",
+      "Believing the first thing we hear",
+      "The need to agree with bosses"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q43",
+    "facto_id": "f43",
+    "pergunta": "How many months of basic expenses should your Emergency Fund be equivalent to?",
+    "opcoes": [
+      "1 month",
+      "6 months",
+      "24 months"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q44",
+    "facto_id": "f44",
+    "pergunta": "The Mpemba effect describes what strange phenomenon of water?",
+    "opcoes": [
+      "Hot water freezes faster than cold water",
+      "Water never freezes if it is in motion",
+      "Water evaporates more in the dark"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q45",
+    "facto_id": "f45",
+    "pergunta": "What percentage of our planet's seafloor has been explored?",
+    "opcoes": [
+      "Less than 10%",
+      "About 50%",
+      "More than 80%"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q46",
+    "facto_id": "f46",
+    "pergunta": "What is the major artistic controversy surrounding the color 'Vantablack'?",
+    "opcoes": [
+      "It is illegal to produce it",
+      "Only the painter Anish Kapoor has the right to use it",
+      "It fades after 2 years on paper"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q47",
+    "facto_id": "f47",
+    "pergunta": "Who was the first major composer to use the metronome in their scores?",
+    "opcoes": [
+      "Wolfgang Amadeus Mozart",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q48",
+    "facto_id": "f48",
+    "pergunta": "Who is the most awarded person in the history of the Academy Awards?",
+    "opcoes": [
+      "Steven Spielberg",
+      "Meryl Streep",
+      "Walt Disney"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q49",
+    "facto_id": "f49",
+    "pergunta": "Which famous author was the first to submit a manuscript entirely written on a typewriter?",
+    "opcoes": [
+      "Mark Twain",
+      "William Shakespeare",
+      "Charles Dickens"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q50",
+    "facto_id": "f50",
+    "pergunta": "What was the technical root of the famous 'Millennium Bug' (Y2K)?",
+    "opcoes": [
+      "An undetectable Russian virus",
+      "Computer systems that stored years with only 2 digits",
+      "Saturation of internet networks"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q51",
+    "facto_id": "f51",
+    "pergunta": "On average, how many liters of water are needed to produce a single cotton t-shirt?",
+    "opcoes": [
+      "About 50 liters",
+      "About 2,700 liters",
+      "About 10,000 liters"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q52",
+    "facto_id": "f52",
+    "pergunta": "In design, what is the purpose of so-called 'negative' or white space?",
+    "opcoes": [
+      "To save ink during printing",
+      "To provide visual breathing room and guide the eye",
+      "Because the client did not have enough content"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q53",
+    "facto_id": "f53",
+    "pergunta": "Which of these fruits is NOT botanically considered a 'berry'?",
+    "opcoes": [
+      "Banana",
+      "Watermelon",
+      "Strawberry"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q54",
+    "facto_id": "f54",
+    "pergunta": "How does 'Turritopsis dohrnii' achieve biological immortality?",
+    "opcoes": [
+      "It regenerates lost limbs instantly",
+      "It reverts its body to the baby phase when it ages",
+      "It freezes its metabolism at the bottom of the sea"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q55",
+    "facto_id": "f55",
+    "pergunta": "For what main purpose was the 'Escape' key invented in 1960?",
+    "opcoes": [
+      "To delete files faster",
+      "To interrupt code that entered infinite loops",
+      "To return to the previous menu in a game"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q56",
+    "facto_id": "f56",
+    "pergunta": "In the Pomodoro Technique, why is the timer based on 25-minute blocks?",
+    "opcoes": [
+      "Because it was the maximum time on the clock",
+      "Because it is the limit of maximum human attention",
+      "Because it is the exact time for the brain not to overheat"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q57",
+    "facto_id": "f57",
+    "pergunta": "Approximately how much can an average fair-weather cloud weigh?",
+    "opcoes": [
+      "It has no weight, it is just gas",
+      "500 kilograms",
+      "500,000 kilograms (100 elephants)"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q58",
+    "facto_id": "f58",
+    "pergunta": "What set science back centuries when the Library of Alexandria burned?",
+    "opcoes": [
+      "Detailed maps of the Americas",
+      "Steam engineering plans",
+      "Electricity formulas"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q59",
+    "facto_id": "f59",
+    "pergunta": "Why will astronauts' footprints remain on the Moon for millions of years?",
+    "opcoes": [
+      "Because the soil is made of magnetic glue",
+      "Because there is no wind or water on the Moon",
+      "Because they were petrified by radiation"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q60",
+    "facto_id": "f60",
+    "pergunta": "At what astonishing speed do nerve impulses travel from your brain?",
+    "opcoes": [
+      "100 km/h",
+      "430 km/h",
+      "At the speed of sound (1200 km/h)"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q61",
+    "facto_id": "f61",
+    "pergunta": "What characterizes 'Open Source' software?",
+    "opcoes": [
+      "It is code kept in absolute secrecy",
+      "The code is public and can be modified by anyone",
+      "It is software free only for students"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q62",
+    "facto_id": "f62",
+    "pergunta": "What defines 'Deep Work'?",
+    "opcoes": [
+      "Working 12 hours straight without sleeping",
+      "The ability to focus without distraction on a demanding task",
+      "Delegating most tasks to the team"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q63",
+    "facto_id": "f63",
+    "pergunta": "Where does most of the oxygen we breathe on Earth come from?",
+    "opcoes": [
+      "From the Amazon rainforests",
+      "From marine phytoplankton in the oceans",
+      "From the polar ice zones"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q64",
+    "facto_id": "f64",
+    "pergunta": "What is the origin of the image of Vikings with horned helmets?",
+    "opcoes": [
+      "They were designed by opera costume designers in the 19th century",
+      "Archaeological finds in Norway confirmed the theory",
+      "They were used only in funeral ceremonies"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q65",
+    "facto_id": "f65",
+    "pergunta": "What is the bizarre weather condition of the planet WASP-76b?",
+    "opcoes": [
+      "It rains liquid iron at night",
+      "It snows pure diamonds",
+      "Hurricanes are made of fire"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q66",
+    "facto_id": "f66",
+    "pergunta": "What is the purpose of the hippopotamus' strange reddish sweat?",
+    "opcoes": [
+      "To repel predators with the smell",
+      "To attract females during mating season",
+      "It acts as a sunscreen and natural antibiotic"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q67",
+    "facto_id": "f67",
+    "pergunta": "What is the effect of mild dehydration (only 2%) on your brain?",
+    "opcoes": [
+      "It impairs your short-term memory and attention",
+      "It causes visual hallucinations and dizziness",
+      "It temporarily speeds up your heart rate"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q68",
+    "facto_id": "f68",
+    "pergunta": "According to psychology, what is the 'Bystander Effect' in an emergency?",
+    "opcoes": [
+      "The victim is always helped within a few seconds",
+      "The more people observing, the less likely someone is to help you",
+      "The crowd enters a collective panic"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q69",
+    "facto_id": "f69",
+    "pergunta": "In the famous 50/30/20 financial rule, what do the 20% represent?",
+    "opcoes": [
+      "Basic needs (rent, food)",
+      "Savings or investment",
+      "Personal desires (leisure)"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q70",
+    "facto_id": "f70",
+    "pergunta": "Why should you add salt to boiling water when cooking pasta?",
+    "opcoes": [
+      "So that the water boils much faster",
+      "To prevent the pasta from sticking to the bottom",
+      "To season the pasta from the inside out"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q71",
+    "facto_id": "f71",
+    "pergunta": "What characterizes Point Nemo in the ocean?",
+    "opcoes": [
+      "It is the most polluted point in the world",
+      "It is the location furthest from any solid land",
+      "It is the zone with the highest concentration of great white sharks"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q72",
+    "facto_id": "f72",
+    "pergunta": "What did the original white marble statues of Ancient Greece look like?",
+    "opcoes": [
+      "Covered in shiny gold dust",
+      "Painted with bright and vivid colors",
+      "They were completely translucent"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q73",
+    "facto_id": "f73",
+    "pergunta": "What do the radio emissions of the planet Saturn resemble when converted into sound?",
+    "opcoes": [
+      "A car engine accelerating",
+      "The chirping of hundreds of high-pitched birds",
+      "A scary wind worthy of a horror movie"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q74",
+    "facto_id": "f74",
+    "pergunta": "What is the famous 'Wilhelm scream' in cinema?",
+    "opcoes": [
+      "A scream sound effect reused in over 400 films",
+      "A singing technique of a villain in a classic movie",
+      "The sound that dinosaurs make in Jurassic Park"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q75",
+    "facto_id": "f75",
+    "pergunta": "Where does the name 'Google' originate from?",
+    "opcoes": [
+      "From the word 'Goggles'",
+      "From the mathematical term 'Googol' (a 1 followed by 100 zeros)",
+      "From the nickname of one of the founding programmers"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q76",
+    "facto_id": "f76",
+    "pergunta": "What was the incredibly mundane reason for the invention of the first webcam at Cambridge?",
+    "opcoes": [
+      "To see if the boss was coming down the hallway",
+      "To monitor the cars in the parking lot",
+      "To see if the coffee pot had coffee or was empty"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q77",
+    "facto_id": "f77",
+    "pergunta": "What is the purpose of the 'Turing Test'?",
+    "opcoes": [
+      "To detect viruses disguised as useful programs",
+      "To test if a machine exhibits intelligence indistinguishable from a human",
+      "To measure the maximum speed of a processor"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q78",
+    "facto_id": "f78",
+    "pergunta": "Which uses more water: washing dishes by hand in the sink or using a full dishwasher?",
+    "opcoes": [
+      "Washing by hand uses about 10 times more water",
+      "The machine uses about three times the water",
+      "Both use exactly the same amount"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q79",
+    "facto_id": "f79",
+    "pergunta": "In design, what emotional message do circular and rounded shapes convey?",
+    "opcoes": [
+      "Aggressiveness and strength",
+      "Bureaucratic stability",
+      "Unity, protection, and community"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q80",
+    "facto_id": "f80",
+    "pergunta": "Why does a product at €4.99 seem much cheaper to us than one at €5.00?",
+    "opcoes": [
+      "Our brain processes the '4' on the left before the cents",
+      "Odd numbers convey a sense of a bargain",
+      "The brain ignores the number 9"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q81",
+    "facto_id": "f81",
+    "pergunta": "In the business world, what has more practical value?",
+    "opcoes": [
+      "A revolutionary idea that stayed on paper",
+      "A mediocre idea that is extremely well executed",
+      "The creation of the perfect logo"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q82",
+    "facto_id": "f82",
+    "pergunta": "What officially defines a 'Dead Language' like Latin?",
+    "opcoes": [
+      "It is only taught in private schools",
+      "No recent written document uses it",
+      "It no longer has living native speakers"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q83",
+    "facto_id": "f83",
+    "pergunta": "In the original Greek mythology story, Pandora's Box was actually...",
+    "opcoes": [
+      "A spellbook",
+      "A ceramic jar",
+      "A chest of pure gold"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q84",
+    "facto_id": "f84",
+    "pergunta": "What is the basis of the philosophy of Nihilism?",
+    "opcoes": [
+      "Life has no intrinsic meaning and nothing matters",
+      "Everything we do is determined by fate",
+      "Nature is the only true God"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q85",
+    "facto_id": "f85",
+    "pergunta": "Where does the name and distance of the 'Marathon' sports event come from?",
+    "opcoes": [
+      "From King Marathon who loved to run",
+      "From the Greek inventor of the track format",
+      "From the epic run of the soldier Pheidippides between Marathon and Athens"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q86",
+    "facto_id": "f86",
+    "pergunta": "Which part of the human body especially benefits from purple fruits like blueberries?",
+    "opcoes": [
+      "The muscles (fast protein)",
+      "Night vision",
+      "Memory"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q87",
+    "facto_id": "f87",
+    "pergunta": "Why do engineers design giant skyscrapers to sway in the wind?",
+    "opcoes": [
+      "Because it generates energy for the building",
+      "If they were completely rigid, they would break under wind pressure",
+      "To trick anti-seismic systems"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q88",
+    "facto_id": "f88",
+    "pergunta": "What is the 'Golden Hour' that photographers love so much?",
+    "opcoes": [
+      "The moment when the photo perfectly reveals yellow",
+      "Lunchtime with the sun at its peak",
+      "The hour after sunrise and the hour before sunset"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q89",
+    "facto_id": "f89",
+    "pergunta": "Which of these two fire-starting tools was invented first?",
+    "opcoes": [
+      "The Lighter (in 1823)",
+      "The Friction Match (in 1826)",
+      "They were invented in the same decade in collaboration"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q90",
+    "facto_id": "f90",
+    "pergunta": "In a cold emergency, why should you not eat snow to quench your thirst?",
+    "opcoes": [
+      "Because you can catch deadly frozen bacteria",
+      "Your body spends too much energy melting the snow, accelerating hypothermia",
+      "Snow dehydrates you even more because it absorbs your saliva"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q91",
+    "facto_id": "f91",
+    "pergunta": "How is the 'Backend' zone of a website defined?",
+    "opcoes": [
+      "The visual part (buttons, colors, and images)",
+      "The invisible part where data and logic are processed (the 'brain')",
+      "The code used exclusively to create animations"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q92",
+    "facto_id": "f92",
+    "pergunta": "What was the 'Polyphasic Sleep' used by geniuses like Leonardo da Vinci?",
+    "opcoes": [
+      "Sleeping 20 minutes every 4 hours instead of a long night",
+      "Sleeping only during the day and working all night",
+      "Sleeping in a bathtub with warm water"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q93",
+    "facto_id": "f93",
+    "pergunta": "The rumble of thunder is actually the sound of what?",
+    "opcoes": [
+      "Two heavy clouds physically colliding",
+      "An electric shock with the Earth's surface",
+      "Air expanding at high speed due to the extreme heat of lightning"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q94",
+    "facto_id": "f94",
+    "pergunta": "Who was the enemy of the Australian army in the bizarre 'Emu War of 1932' that they ended up losing?",
+    "opcoes": [
+      "Aggressive outback kangaroos",
+      "Destructive flocks of Emu birds",
+      "A pirate army from New Zealand"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q95",
+    "facto_id": "f95",
+    "pergunta": "How much time on Earth is equivalent to just 1 year on the giant planet Jupiter?",
+    "opcoes": [
+      "Approximately 12 Earth years",
+      "3 Earth months",
+      "About 125 Earth years"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q96",
+    "facto_id": "f96",
+    "pergunta": "How do dogs perceive the passage of 'time' using their noses?",
+    "opcoes": [
+      "By calculating the distance of the Sun based on temperature",
+      "Through the gradual decline and weakening of scent trails in the air",
+      "They hear mechanical watches on human wrists"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q97",
+    "facto_id": "f97",
+    "pergunta": "What does the blue light from mobile phones do to your brain at night?",
+    "opcoes": [
+      "It slowly burns the optical receptors",
+      "It tricks it into thinking it is still daytime, blocking the sleep hormone (melatonin)",
+      "It produces a mild headache that prevents you from sleeping"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q98",
+    "facto_id": "f98",
+    "pergunta": "The 'Anchoring' bias explains why we...",
+    "opcoes": [
+      "Focus on and are conditioned by the first piece of information/price we see",
+      "Always trust older people",
+      "Like people more who treat us badly"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q99",
+    "facto_id": "f99",
+    "pergunta": "In personal finance, what is an 'Opportunity Cost'?",
+    "opcoes": [
+      "The hidden tax in online purchases",
+      "What you gave up doing, buying, or investing when you chose the other option",
+      "The interest rate when you take out a loan"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q100",
+    "facto_id": "f100",
+    "pergunta": "Why is the tomato botanically (in science) a fruit and not a vegetable?",
+    "opcoes": [
+      "It has a high level of fructose (sugar)",
+      "It grows on a plant and has seeds inside",
+      "It is consumed in raw salads"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q101",
+    "facto_id": "f101",
+    "pergunta": "Which African lake is so monstrous that it generates its own weather and has waves like the ocean?",
+    "opcoes": [
+      "Lake Tanganyika",
+      "Lake Victoria",
+      "Lake Malawi"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q102",
+    "facto_id": "f102",
+    "pergunta": "How many words make up the full baptismal name of the painter Pablo Picasso?",
+    "opcoes": [
+      "Only 2",
+      "15",
+      "23 words"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q103",
+    "facto_id": "f103",
+    "pergunta": "What allowed Mozart to identify any note of a common sound (like a bell)?",
+    "opcoes": [
+      "He was visually impaired, which improved his hearing",
+      "He possessed 'perfect pitch'",
+      "He had a note calculator invented by his father"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q104",
+    "facto_id": "f104",
+    "pergunta": "Which 1927 film ended the silent film era by being the first with synchronized dialogue?",
+    "opcoes": [
+      "The Jazz Singer",
+      "A Trip to the Moon",
+      "City Lights"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q105",
+    "facto_id": "f105",
+    "pergunta": "What made the creator of Sherlock Holmes 'resurrect him' after having killed him off in a book?",
+    "opcoes": [
+      "He urgently needed the money",
+      "The huge and angry public outcry forced him to",
+      "A film director bought the rights"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q106",
+    "facto_id": "f106",
+    "pergunta": "What was the logistics of a 5MB hard drive like in 1956?",
+    "opcoes": [
+      "It weighed a whole ton and had to be transported in cargo planes",
+      "It was the size of a brick",
+      "It was the size of a light washing machine"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q107",
+    "facto_id": "f107",
+    "pergunta": "What are the famous and dangerous modern 'Deepfakes'?",
+    "opcoes": [
+      "Original videos stolen from cloud servers",
+      "Videos or audio created by AI that perfectly mimic real people",
+      "Trolls and fake accounts on Twitter"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q108",
+    "facto_id": "f108",
+    "pergunta": "Where have microplastic samples been alarmingly detected in our era?",
+    "opcoes": [
+      "On the summit of Mount Everest, the bottom of the ocean, and inside human blood",
+      "Only on the surface of European rivers",
+      "Solely in the stomachs of captive fish"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q109",
+    "facto_id": "f109",
+    "pergunta": "Where should you preferably use 'Serif' fonts (with small strokes at the ends of the letters)?",
+    "opcoes": [
+      "In code programming",
+      "In printed texts on paper (newspapers/books)",
+      "Exclusively on digital screens and apps"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q110",
+    "facto_id": "f110",
+    "pergunta": "What is the purpose of releasing artificial vanilla and bread scents in commercial stores?",
+    "opcoes": [
+      "To hide the smell of chemicals in clothing",
+      "To evoke memories of comfort and make the customer linger inside",
+      "To calm children down and prevent them from crying"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q111",
+    "facto_id": "f111",
+    "pergunta": "Before it was a massive photo app, what was the failed goal of the first Instagram prototype?",
+    "opcoes": [
+      "A geo-location check-in app called Burbn",
+      "A website to sell lens filters",
+      "A Twitter clone focused on videos"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q112",
+    "facto_id": "f112",
+    "pergunta": "What was the beautiful but failed original goal of Esperanto when it was created in 1887?",
+    "opcoes": [
+      "To be a secret diplomatic language for governments",
+      "To promote world peace by serving as a neutral universal second language",
+      "To revive and replace classical Latin in Europe"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q113",
+    "facto_id": "f113",
+    "pergunta": "In original Greek mythology, who was Medusa really before she turned into that stone monster?",
+    "opcoes": [
+      "She was always a monster from the depths",
+      "The original Sun Goddess who was expelled",
+      "A very beautiful woman who suffered a cruel punishment from the goddess Athena"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q114",
+    "facto_id": "f114",
+    "pergunta": "What is Plato trying to warn us about through the metaphor of the 'Allegory of the Cave'?",
+    "opcoes": [
+      "People trapped in ignorance believe that shadows/illusions are the entirety of reality",
+      "We must live far from society in the mountains",
+      "Fear of the dark is the root of civilization"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q115",
+    "facto_id": "f115",
+    "pergunta": "What unusual sport did astronaut Alan Shepard practice during the 1971 Moon mission?",
+    "opcoes": [
+      "Dribbled a soccer ball",
+      "Practiced long jump in zero gravity",
+      "Took two swings with a golf club and ball"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q116",
+    "facto_id": "f116",
+    "pergunta": "Beyond empty calories, what is the greatest biological trick of ultra-processed industrial food?",
+    "opcoes": [
+      "It tricks the palate and tastes like ingredients that do not exist",
+      "It is scientifically designed to deceive the brain's satiety signals",
+      "It dehydrates the body to sell more soft drinks"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q117",
+    "facto_id": "f117",
+    "pergunta": "What led British homeowners to brick up windows in London in past centuries?",
+    "opcoes": [
+      "The great outbreak of the Black Death in 1665",
+      "To escape the ridiculous 'Window Tax' charged by the state",
+      "An attempt to protect the house from night-thrown bombs"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q118",
+    "facto_id": "f118",
+    "pergunta": "Drastically increasing the ISO on a camera captures photos in the dark, but at what visual cost?",
+    "opcoes": [
+      "Removes all colors from the image",
+      "Distorts people's faces in a 'fisheye' effect",
+      "Adds a lot of 'grain' or digital noise that ruins sharpness"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q119",
+    "facto_id": "f119",
+    "pergunta": "The green ogre Shrek shares a very exclusive curiosity with famous characters like Mickey Mouse. What is it?",
+    "opcoes": [
+      "They both received honorary Academy Awards",
+      "They have their own official star on the Hollywood Walk of Fame",
+      "Dolls of both went into space on a NASA mission"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q120",
+    "facto_id": "f120",
+    "pergunta": "In survival navigation technique, does moss only grow pointing North?",
+    "opcoes": [
+      "Yes, it reacts to the planet's magnetic poles",
+      "No, that is false. It simply grows where there is more moisture and shade",
+      "Yes, due to alignment with the North Star in the northern hemisphere"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q121",
+    "facto_id": "f121",
+    "pergunta": "In a restaurant analogy, what does an API (Application Programming Interface) represent?",
+    "opcoes": [
+      "The head chef",
+      "The menu with the prices",
+      "The waiter who takes the order"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q122",
+    "facto_id": "f122",
+    "pergunta": "What is one of the great paradoxes in computer programming?",
+    "opcoes": [
+      "Reading other people's code is harder than writing it",
+      "Short code is always slower",
+      "Computers do not understand pure mathematics"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q123",
+    "facto_id": "f123",
+    "pergunta": "What does the Pareto Principle dictate when applied to productivity?",
+    "opcoes": [
+      "You only have 80% energy after 8 pm",
+      "80% of your results come from only 20% of your effort",
+      "You should rest for 20 minutes for every 80 minutes of focus"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q124",
+    "facto_id": "f124",
+    "pergunta": "Why do astronauts on the Space Station age slightly slower than us?",
+    "opcoes": [
+      "Because the cold of space preserves cells",
+      "Due to the lack of oxidation by the sun",
+      "Because traveling at high speeds makes time slow down"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q125",
+    "facto_id": "f125",
+    "pergunta": "Who were the people who built the Great Pyramids of Egypt?",
+    "opcoes": [
+      "Roman prisoners of war",
+      "Paid and respected workers",
+      "Thousands of foreign slaves"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q126",
+    "facto_id": "f126",
+    "pergunta": "What are 'Black Holes' in space really?",
+    "opcoes": [
+      "Zones of invisible anti-matter",
+      "Spheres with a colossal amount of compressed matter",
+      "Drains that absorb galaxies into another dimension"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q127",
+    "facto_id": "f127",
+    "pergunta": "Where are an octopus's '9 brains' located?",
+    "opcoes": [
+      "A central brain and mini-brains in each of the 8 tentacles",
+      "All concentrated in a single mass in the head",
+      "Distributed throughout its 3 hearts and digestive organs"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q128",
+    "facto_id": "f128",
+    "pergunta": "What does it mean for caffeine to have a 'half-life' of 6 hours?",
+    "opcoes": [
+      "It starts to take effect 6 hours after you drink it",
+      "It stops having any exact effect after 6 hours",
+      "6 hours after you drink it, you still have half of it in your blood"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q129",
+    "facto_id": "f129",
+    "pergunta": "What is the 'Sunk Cost Fallacy' in psychology?",
+    "opcoes": [
+      "Paying more for something to make it seem like it has better quality",
+      "Continuing a bad project just because too much has already been invested in it",
+      "Buying something you don't need just because it was on sale"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q130",
+    "facto_id": "f130",
+    "pergunta": "In financial literacy, what is the 'Rule of 72' used for?",
+    "opcoes": [
+      "To calculate in how many years your money will double based on the interest rate",
+      "To know the percentage of tax you will pay",
+      "To determine the ideal retirement age"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q131",
+    "facto_id": "f131",
+    "pergunta": "What is 99% of the supposed 'Wasabi' served in Western sushi restaurants made of?",
+    "opcoes": [
+      "Fermented bamboo roots",
+      "Dyed green ginger",
+      "Horseradish mixed with mustard and food coloring"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q132",
+    "facto_id": "f132",
+    "pergunta": "What is truly the tallest mountain in the world, if measured from its true base?",
+    "opcoes": [
+      "Mount Kilimanjaro",
+      "Mauna Kea volcano in Hawaii",
+      "Mount Everest"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q133",
+    "facto_id": "f133",
+    "pergunta": "What turned the 'Mona Lisa' into one of the most famous and globally recognized paintings?",
+    "opcoes": [
+      "The fact that it belonged to the King of England",
+      "A documentary from the first television",
+      "The enormous media attention when it was stolen from the Louvre in 1911"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q134",
+    "facto_id": "f134",
+    "pergunta": "What is the ironic trivia about the Beatles, the most influential band ever?",
+    "opcoes": [
+      "None of them knew how to read or write musical notation",
+      "They never performed outside of England",
+      "They were all deaf in their left ear"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q135",
+    "facto_id": "f135",
+    "pergunta": "What was used to simulate blood in the famous shower scene of the movie 'Psycho' (1960)?",
+    "opcoes": [
+      "Diluted tomato sauce",
+      "Industrial red paint",
+      "Bosco chocolate syrup"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q136",
+    "facto_id": "f136",
+    "pergunta": "What major literary contribution did William Shakespeare make to the English language?",
+    "opcoes": [
+      "He was the first to write pocket books",
+      "He invented more than 1700 words simply by joining syllables",
+      "He translated the Bible into modern English"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q137",
+    "facto_id": "f137",
+    "pergunta": "What is the technical reason for the mouse cursor arrow being tilted to the left?",
+    "opcoes": [
+      "To reduce eye strain for the user",
+      "Because most users are right-handed",
+      "Because early low-resolution screens could not render sharp vertical lines"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q138",
+    "facto_id": "f138",
+    "pergunta": "What does the popular internet acronym 'CAPTCHA' stand for?",
+    "opcoes": [
+      "A US military encryption code",
+      "A Turing test to distinguish computers and humans",
+      "An image-based antivirus software"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q139",
+    "facto_id": "f139",
+    "pergunta": "What is the great advantage of recycling glass compared to plastic and paper?",
+    "opcoes": [
+      "It can be recycled infinitely without losing any purity",
+      "It melts in the sun saving energy for factories",
+      "It is much lighter to transport"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q140",
+    "facto_id": "f140",
+    "pergunta": "The 'IKEA Effect' demonstrates that people place an incredibly higher value on a product when...",
+    "opcoes": [
+      "They buy it in another country",
+      "It is made of wood instead of metal",
+      "They put physical or mental effort into assembling and personalizing it"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q141",
+    "facto_id": "f141",
+    "pergunta": "In marketing, what is the purpose of the 'Decoy Effect', such as the medium popcorn bucket at the cinema?",
+    "opcoes": [
+      "To use up leftover food from the previous day",
+      "Only to make the largest and most expensive package look like a great deal",
+      "To please children and people with less hunger"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q142",
+    "facto_id": "f142",
+    "pergunta": "What is truly an 'MVP' (Minimum Viable Product) for an entrepreneur?",
+    "opcoes": [
+      "A broken product only for internal testing",
+      "The smallest version of a product that already delivers the main value to the customer",
+      "An application that has already made its first million"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q143",
+    "facto_id": "f143",
+    "pergunta": "What is the main trivia about the Rotokas alphabet (Papua New Guinea)?",
+    "opcoes": [
+      "It has no vowels",
+      "It is read from bottom to top",
+      "It is one of the smallest in the world, with only 12 letters"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q144",
+    "facto_id": "f144",
+    "pergunta": "What do archaeology and modern history say about the iconic Trojan Horse?",
+    "opcoes": [
+      "There is no evidence that it existed, it is just a literary invention",
+      "It was built of stone and not wood",
+      "Three small ones were used instead of one large one"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q145",
+    "facto_id": "f145",
+    "pergunta": "What does the philosophical principle of 'Occam's Razor' state?",
+    "opcoes": [
+      "Pain teaches more than theory",
+      "If you have two explanations for something, the simplest one is usually the correct one",
+      "We must question and destroy the myths of religion"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q146",
+    "facto_id": "f146",
+    "pergunta": "What metal are modern Olympic 'Gold' medals actually made of?",
+    "opcoes": [
+      "Recycled bronze",
+      "Solid, pure gold",
+      "About 98% silver, only plated with gold"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q147",
+    "facto_id": "f147",
+    "pergunta": "What do many companies use when they claim breakfast cereals are 'Fortified with Iron'?",
+    "opcoes": [
+      "They literally add magnetic iron dust to the food",
+      "They bake the cereals in old industrial frying pans",
+      "They put a drop of cow's blood in each batch"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q148",
+    "facto_id": "f148",
+    "pergunta": "What architectural record is still held by the Pantheon in Rome, nearly 1900 years after it was built?",
+    "opcoes": [
+      "Largest indoor temple illuminated by torches",
+      "Largest unreinforced concrete dome in the world (without steel)",
+      "The only earthquake-proof structure in Europe"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q149",
+    "facto_id": "f149",
+    "pergunta": "What was the main difficulty of the first 'selfie' (photographic self-portrait) taken in 1839?",
+    "opcoes": [
+      "The man had to remain completely motionless for 15 minutes",
+      "The entire image was inverted and had the wrong colors",
+      "The lens weighed 30 kilograms and had to be lifted by hand"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q150",
+    "facto_id": "f150",
+    "pergunta": "Surprisingly, which brand manufactures and produces the most tires in the world?",
+    "opcoes": [
+      "The Chinese brand Michelin",
+      "Goodyear",
+      "LEGO (for toys)"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q151",
+    "facto_id": "f151",
+    "pergunta": "Unlike in movies, what actually happens to you if you fall into quicksand?",
+    "opcoes": [
+      "The sand hardens and turns into cement around your legs",
+      "You will sink to your waist and float because the body is less dense",
+      "You suffocate due to the dust that rises"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q152",
+    "facto_id": "f152",
+    "pergunta": "Until the emergence of Flexbox, what was one of the biggest nightmares for programmers and Web Designers in CSS?",
+    "opcoes": [
+      "Centering text from right to left",
+      "Applying transparent colors",
+      "Perfectly centering an element (a div) vertically"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q153",
+    "facto_id": "f153",
+    "pergunta": "What explains the famous 'Zeigarnik Effect' in the psychology of memory?",
+    "opcoes": [
+      "We remember irrelevant details better under high stress",
+      "We remember incomplete or interrupted tasks much better than those already finished",
+      "We hate names starting with the letter Z"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q154",
+    "facto_id": "f154",
+    "pergunta": "If we mixed all the light in the universe, what official color did scientists call 'Cosmic Latte'?",
+    "opcoes": [
+      "A light beige",
+      "A deep, dark purple",
+      "A pure metallic gray"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q155",
+    "facto_id": "f155",
+    "pergunta": "What was the ridiculous geographical reason for the 'Lobster War' between Brazil and France in 1961?",
+    "opcoes": [
+      "The decision on whether lobsters should be boiled alive or dead",
+      "The dispute over the original color of the species in the Atlantic",
+      "The legal dispute over whether lobsters swam in the water or crawled on the seabed"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q156",
+    "facto_id": "f156",
+    "pergunta": "Why can we be looking at 'Ghosts' when we observe stars in the night sky?",
+    "opcoes": [
+      "Because astronomers cannot explain their origin",
+      "Due to the time it takes for light to travel, those stars may have already exploded and died",
+      "They are optical illusions formed by space junk"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q157",
+    "facto_id": "f157",
+    "pergunta": "What is the staggering scale of a blue whale's heart?",
+    "opcoes": [
+      "It weighs as much as a bumper car (180kg) and can be heard from 3km away",
+      "It is the size of a tennis ball but beats 500 times per minute",
+      "It is the size of a bathtub and produces its own electricity"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q158",
+    "facto_id": "f158",
+    "pergunta": "Bone is living tissue. How long does it take for the human body to regenerate a completely new skeleton?",
+    "opcoes": [
+      "2 years",
+      "Approximately 50 years",
+      "Every 10 years"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q159",
+    "facto_id": "f159",
+    "pergunta": "What defines 'Imposter Syndrome' in high-achieving and successful individuals?",
+    "opcoes": [
+      "An uncontrollable urge to lie on their resumes",
+      "The irrational fear that their intellect is a farce and they will be exposed as 'frauds'",
+      "Copying coworkers' attitudes to disguise themselves"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q160",
+    "facto_id": "f160",
+    "pergunta": "How did Warren Buffett win a famous 10-year millionaire financial bet against Wall Street experts?",
+    "opcoes": [
+      "Using illegal artificial intelligence",
+      "By buying a simple Index Fund (ETF) that followed the market average",
+      "By investing all his money in a single agricultural startup"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q161",
+    "facto_id": "f161",
+    "pergunta": "What is the unique botanical characteristic of the cashew nut?",
+    "opcoes": [
+      "It does not grow inside a fruit, but hangs on the outside",
+      "It must be cooked underground to avoid being toxic",
+      "It is the only seed in the world without water in its composition"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q162",
+    "facto_id": "f162",
+    "pergunta": "Which country holds the world record for the largest number of islands (over 267,000)?",
+    "opcoes": [
+      "The Philippines",
+      "Canada",
+      "Sweden"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q163",
+    "facto_id": "f163",
+    "pergunta": "Where does the natural red (Carminic Acid) used in luxury lipsticks and certain gummies come from?",
+    "opcoes": [
+      "Highly concentrated African beetroot roots",
+      "Thousands of crushed cochineal insects",
+      "Ink collected from the shell of certain red squids"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q164",
+    "facto_id": "f164",
+    "pergunta": "Despite his genius and formal status, what is the immature name of a choral piece written by Mozart?",
+    "opcoes": [
+      "The Waltz of the Idiots",
+      "Drink 'til You Drop",
+      "'Leck mich im Arsch' (Lick my arse)"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q165",
+    "facto_id": "f165",
+    "pergunta": "How was the iconic sound of Darth Vader's mechanical breathing recorded for the Star Wars film?",
+    "opcoes": [
+      "By placing a microphone inside the regulator of a scuba tank",
+      "The actor used a funnel and a paper cup",
+      "By distorting the engine of an old vacuum cleaner"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q166",
+    "facto_id": "f166",
+    "pergunta": "Why did a small publishing house finally decide to approve the Harry Potter manuscript after 12 rejections?",
+    "opcoes": [
+      "Because the British Government offered them a subsidy",
+      "Because the publisher's 8-year-old daughter read it and loved it",
+      "Because the director lost a bet at a pub"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q167",
+    "facto_id": "f167",
+    "pergunta": "What does the name 'Wi-Fi' originally and technically mean?",
+    "opcoes": [
+      "Wireless Fibers",
+      "It doesn't strictly mean anything, it was a name invented by marketing",
+      "Wireless Fidelity"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q168",
+    "facto_id": "f168",
+    "pergunta": "What was the primary function of 'ELIZA', the first chatbot in history created in 1966?",
+    "opcoes": [
+      "Booking flight tickets",
+      "Playing Tic-Tac-Toe with the scientists",
+      "Simulating a psychotherapist by turning statements into questions"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q169",
+    "facto_id": "f169",
+    "pergunta": "What is the main brutal environmental impact of intensive avocado farming?",
+    "opcoes": [
+      "It takes about 320 liters of fresh water to produce a single avocado",
+      "Its roots are toxic to almost all surrounding life",
+      "It requires soils fertilized by heavy petroleum chemicals"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q170",
+    "facto_id": "f170",
+    "pergunta": "What is the hidden message in the yellow arrow of the Amazon logo?",
+    "opcoes": [
+      "It is just a 'smile' focused on customer happiness",
+      "It points from the letter 'A' to the letter 'Z', symbolizing that you can find everything there",
+      "It symbolizes express package shipping from point A to point B"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q171",
+    "facto_id": "f171",
+    "pergunta": "What is the trick behind LED lighting in supermarket meat and produce sections?",
+    "opcoes": [
+      "They use infrared lights to kill bacteria on the meat",
+      "They avoid using lighting to save energy after closing",
+      "They manipulate colors with reddish light to make meat look fresh and green light to make vegetables shine"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q172",
+    "facto_id": "f172",
+    "pergunta": "What does the '1,000 True Fans' entrepreneurial theory state?",
+    "opcoes": [
+      "No one should try to be successful without having 1,000 Instagram followers",
+      "One million followers is not worth the same as 1,000 real friends",
+      "If you have 1,000 super dedicated fans who pay you €100/year, you don't need anything more to make a living from it (€100,000/year)"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q173",
+    "facto_id": "f173",
+    "pergunta": "Which harmless and small word holds the record for the word with the most meanings in the English language?",
+    "opcoes": [
+      "Run",
+      "Set",
+      "Go"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q174",
+    "facto_id": "f174",
+    "pergunta": "From which ancient figure does the word 'Cereal' directly derive?",
+    "opcoes": [
+      "Ceres, the Roman Goddess of agriculture",
+      "The Cerean King of Ancient Rome",
+      "The city of Ceris, in Gaul where wheat was harvested"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q175",
+    "facto_id": "f175",
+    "pergunta": "Which philosophical paradox makes us wonder: if I gradually replace all the planks of an ancient ship, does it remain the same ship?",
+    "opcoes": [
+      "The Carpenter's Fallacy",
+      "The Temporal Illusion",
+      "The Ship of Theseus"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q176",
+    "facto_id": "f176",
+    "pergunta": "Why are golf balls not perfectly round and smooth like billiard balls?",
+    "opcoes": [
+      "Because plastic slips on wet grass",
+      "To be easier to mold in factories",
+      "Because the dimples create micro-turbulences in the air that reduce drag and make them fly twice as far"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q177",
+    "facto_id": "f177",
+    "pergunta": "What is the nutritional truth regarding the old myth of not consuming calories or snacks at night?",
+    "opcoes": [
+      "Eating after midnight turns carbohydrates into pure fat",
+      "Mealtimes do not matter for weight; what causes weight gain is exceeding your total daily calories",
+      "Your stomach does not digest food after 9:00 PM"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q178",
+    "facto_id": "f178",
+    "pergunta": "For what strange purpose was the long, pointed mast at the top of the Empire State Building originally designed in 1931?",
+    "opcoes": [
+      "To serve as a radio antenna for counter-espionage",
+      "To serve as an airship mooring mast for Zeppelin airships",
+      "As a giant lightning decoy to provide light to New York"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q179",
+    "facto_id": "f179",
+    "pergunta": "Biologically, what causes the irritating 'Red Eye' effect in a night photograph?",
+    "opcoes": [
+      "The flash momentarily dries the tears",
+      "Since the pupil does not have time to close against the quick flash, the light illuminates all the blood in the back of the retina",
+      "A mistake in cheap lenses when they detect an absence of color"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q180",
+    "facto_id": "f180",
+    "pergunta": "When you 'snap' your fingers to make a sound, the sharp sound you hear isn't from the fingers rubbing. Where does it come from?",
+    "opcoes": [
+      "It is the air bubble created and crushed in a very small vacuum at the moment of separation",
+      "From your joints displacing the bone",
+      "From the speed at which the middle finger violently hits the lower part of your thumb/palm"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q181",
+    "facto_id": "f181",
+    "pergunta": "What was the real and counterintuitive reason for the invention of the QWERTY keyboard layout in the 19th century?",
+    "opcoes": [
+      "To space out the keys and force people to type slower, preventing the machines from jamming",
+      "To put all the vowels on the same row",
+      "To allow typing faster with only one hand"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q182",
+    "facto_id": "f182",
+    "pergunta": "What mischievous act did the 'Creeper', the first computer virus in history created in 1971, perform?",
+    "opcoes": [
+      "It deleted government documents",
+      "It did not destroy anything, it just displayed a taunting message on the screen",
+      "It overheated the processor until it melted"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q183",
+    "facto_id": "f183",
+    "pergunta": "What does the 'Two-Pizza Rule' created by Jeff Bezos at Amazon dictate?",
+    "opcoes": [
+      "You should reward the team with food after every delivery",
+      "If two pizzas cannot feed the entire room, there are too many people in the meeting",
+      "Half of the meeting time should be for breaks"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q184",
+    "facto_id": "f184",
+    "pergunta": "Bananas are technically radioactive fruits because they contain isotopes of which element?",
+    "opcoes": [
+      "Sodium",
+      "Calcium",
+      "Potassium"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q185",
+    "facto_id": "f185",
+    "pergunta": "What is more recent in world history when compared to teaching at the University of Oxford?",
+    "opcoes": [
+      "The Aztec Empire",
+      "The Pyramids of Egypt",
+      "Ancient Rome"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q186",
+    "facto_id": "f186",
+    "pergunta": "What would be the approximate weight, on Earth, of a single teaspoon of neutron star matter?",
+    "opcoes": [
+      "The equivalent of 5 adult elephants",
+      "The weight of a skyscraper",
+      "About 6 billion tons (the weight of a mountain)"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q187",
+    "facto_id": "f187",
+    "pergunta": "What is the biological purpose of the bizarre cube-shaped feces of the Australian Wombat marsupial?",
+    "opcoes": [
+      "To prevent them from rolling and falling off rocks when marking territory",
+      "To facilitate the slow digestion of wood",
+      "Camouflage against nocturnal predators"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q188",
+    "facto_id": "f188",
+    "pergunta": "Far from being useless, what have scientists discovered to be the main function of the human appendix?",
+    "opcoes": [
+      "Filters toxins from the liver",
+      "Acts as a 'safe house' that stores good bacteria to repopulate the gut",
+      "Helps digest large amounts of raw meat"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q189",
+    "facto_id": "f189",
+    "pergunta": "How is the so-called 'Mandela Effect' defined in psychology?",
+    "opcoes": [
+      "The sensation that we have already lived through that exact moment in the past",
+      "A phenomenon where large groups of people have the same false memory about an event",
+      "The hidden and subconscious racism of society"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q190",
+    "facto_id": "f190",
+    "pergunta": "In the stock market, where do the terms 'Bull' (upward) and 'Bear' (downward) historically derive from?",
+    "opcoes": [
+      "From the initials of the first major investors in New York",
+      "From the physical way the animals attack (the bull from bottom to top, the bear from top to bottom)",
+      "From the astral constellation at the time the market was founded"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q191",
+    "facto_id": "f191",
+    "pergunta": "Botanically speaking, to which family do peanuts belong?",
+    "opcoes": [
+      "Hard nuts",
+      "Tubers (like potatoes)",
+      "Legumes (they grow underground like peas)"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q192",
+    "facto_id": "f192",
+    "pergunta": "What would happen visually if the giant Mount Everest were laid in the Mariana Trench?",
+    "opcoes": [
+      "The top of the mountain would still remain submerged under 2 kilometers of water",
+      "It would serve as a bridge between the two continents",
+      "The mountain's peak would stick out hundreds of meters above the water"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q193",
+    "facto_id": "f193",
+    "pergunta": "What was the behind-the-scenes secret of the famous television painter Bob Ross's art?",
+    "opcoes": [
+      "He only painted over pre-printed photographs",
+      "Someone else painted hidden behind the canvas",
+      "He painted three exact versions of each painting for the show"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q194",
+    "facto_id": "f194",
+    "pergunta": "What causes the 'Earworm' phenomenon (having a song stuck in your head) in the brain?",
+    "opcoes": [
+      "Chronic dehydration of the auditory nerves",
+      "The brain creates an infinite loop while trying to 'complete' a melody from memory",
+      "Music played at very low frequencies"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q195",
+    "facto_id": "f195",
+    "pergunta": "The iconic green code rain in the movie 'The Matrix' was created from what?",
+    "opcoes": [
+      "Mirrored quantum physics formulas",
+      "Scanned Japanese characters from sushi cookbooks",
+      "Real 3D-visualized computer viruses"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q196",
+    "facto_id": "f196",
+    "pergunta": "What was the mundane origin of the famous classic horror novel 'Frankenstein'?",
+    "opcoes": [
+      "A challenge between friends to see who could write the best ghost story",
+      "A nightmare during a fatal illness",
+      "Commissioned by the church as a morality fable"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q197",
+    "facto_id": "f197",
+    "pergunta": "Whom do the name and logo of the 'Bluetooth' wireless technology pay homage to?",
+    "opcoes": [
+      "The Swedish engineer who invented radio waves",
+      "A dog with a blue tooth from a famous English fable",
+      "Harald Bluetooth, a 10th-century Viking king who united nations"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q198",
+    "facto_id": "f198",
+    "pergunta": "In the context of ChatGPT and other AIs, what does the concept of 'Hallucination' mean?",
+    "opcoes": [
+      "When the server crashes and displays visual errors",
+      "When the AI invents a complete lie but writes it with total confidence and detail",
+      "When the program uses bright colors on the screen and scares the user"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q199",
+    "facto_id": "f199",
+    "pergunta": "What is one of the massive physical costs of supporting advanced AI responses in Data Centers?",
+    "opcoes": [
+      "Millions of discarded computer mice",
+      "Depletion of lithium reserves",
+      "They consume up to half a liter of fresh water just to cool the servers for every complex query"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q200",
+    "facto_id": "f200",
+    "pergunta": "How much was student Carolyn Davidson originally paid in 1971 to design the Nike 'Swoosh' logo?",
+    "opcoes": [
+      "35 dollars",
+      "1,000 dollars and company stock",
+      "She did it for free as a school project"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q201",
+    "facto_id": "f201",
+    "pergunta": "For what legal reason was Red Bull forced to pay millions in class-action settlements in 2014?",
+    "opcoes": [
+      "It was considered false advertising because the drink did not literally 'give you wings'",
+      "It stole the can design from a German brand",
+      "It used ingredients banned in Europe in the 90s"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q202",
+    "facto_id": "f202",
+    "pergunta": "Where did the multimillion-dollar idea for the invention of 'Post-it' notes come from?",
+    "opcoes": [
+      "A military strategy to stick messages underwater",
+      "A mistake while creating notes that disintegrated after 5 days",
+      "A scientist's failed attempt to create the world's strongest glue"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q203",
+    "facto_id": "f203",
+    "pergunta": "What is the meaning of the famous and unique Tagalog word 'Gigil' from the Philippines?",
+    "opcoes": [
+      "The phantom sensation of a mobile phone vibrating",
+      "The longing for someone seen only once",
+      "The irresistible urge to squeeze something because it is unbearably cute"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q204",
+    "facto_id": "f204",
+    "pergunta": "Far from the demonic pop-culture villain, who was Hades truly in original mythology?",
+    "opcoes": [
+      "A passive and fair bureaucrat who had the misfortune of managing death",
+      "The creator of clouds and rain",
+      "The god of thieves and fire"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q205",
+    "facto_id": "f205",
+    "pergunta": "What does the philosophical theory called 'Solipsism' advocate?",
+    "opcoes": [
+      "That the only thing you can be absolutely certain exists is your own mind",
+      "That nature cries when a tree is cut down",
+      "Only emotions matter, scientific facts are illusions"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q206",
+    "facto_id": "f206",
+    "pergunta": "What does the manufacture of a badminton shuttlecock require to be used in official tournaments?",
+    "opcoes": [
+      "A pure volcanic rubber center",
+      "Exactly 16 feathers from the left wing of a goose",
+      "Artificially dyed white duck feathers"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q207",
+    "facto_id": "f207",
+    "pergunta": "What is the misleading nutritional truth behind 'White Chocolate'?",
+    "opcoes": [
+      "It contains a high percentage of limestone",
+      "It is made only from the powder of dried cocoa shells",
+      "It does not contain any cocoa solids, only cocoa butter and sugar"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q208",
+    "facto_id": "f208",
+    "pergunta": "What happens physically to the structure of the Eiffel Tower during the European summer?",
+    "opcoes": [
+      "It sinks into the ground by two centimeters",
+      "The iron expands and the tower grows up to 15 centimeters in height",
+      "It changes color slightly due to extreme solar radiation"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q209",
+    "facto_id": "f209",
+    "pergunta": "In the 19th century, why were people asked to say 'Prunes' before having their photo taken?",
+    "opcoes": [
+      "To hide missing teeth",
+      "Because smiling in photographs was considered a sign of poor manners or madness",
+      "The word opened the eyes wider due to muscular reflex"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q210",
+    "facto_id": "f210",
+    "pergunta": "In real science and physics, what speed does the unit 'Jiffy' equate to?",
+    "opcoes": [
+      "The speed of light traveling through one centimeter in a vacuum",
+      "The speed at which sound travels around the Earth",
+      "The moment a human eyelid closes"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q211",
+    "facto_id": "f211",
+    "pergunta": "Contrary to survival movies, what is dangerous about drinking the water inside a cactus?",
+    "opcoes": [
+      "It makes you go blind for two hours",
+      "It can attract poisonous snakes with its smell",
+      "It is full of toxic acids and alkaloids that make you vomit and dehydrate"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q212",
+    "facto_id": "f212",
+    "pergunta": "Why do engineers not consider HTML an official programming language?",
+    "opcoes": [
+      "Because it does not support mathematical logic, serving only as a visual 'Markup Language'",
+      "Because it is too old a language",
+      "Because it only exists on the web server side"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q213",
+    "facto_id": "f213",
+    "pergunta": "What does the effective psychological technique of 'Habit Stacking' consist of?",
+    "opcoes": [
+      "Writing all habits in a spreadsheet and evaluating them",
+      "Doing all new habits in the morning right after waking up",
+      "Attaching a new goal to an old habit that you already do on autopilot"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q214",
+    "facto_id": "f214",
+    "pergunta": "The hydrochloric acid inside our stomach has an extreme chemical capacity to do what?",
+    "opcoes": [
+      "Disable Ebola viruses in five minutes",
+      "Partially dissolve a metal blade in about 24 hours",
+      "Purify water contaminated with arsenic"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q215",
+    "facto_id": "f215",
+    "pergunta": "How did orange carrots appear, if originally they were only white, yellow, or purple in nature?",
+    "opcoes": [
+      "A mutation after the Hiroshima bombs",
+      "They were invented by farmers in the Netherlands in the 17th century in honor of their royal family",
+      "They were dyed by English merchants"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q216",
+    "facto_id": "f216",
+    "pergunta": "What exists in massive quantities inside the space gas cloud called Sagittarius B2?",
+    "opcoes": [
+      "Billions of liters of ethyl alcohol (the same found in alcoholic beverages)",
+      "Solid ice in the exact shape of giant diamonds",
+      "Deadly gamma radiation particles"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q217",
+    "facto_id": "f217",
+    "pergunta": "Despite how slow sloths are on land, what superpower do they develop in the water?",
+    "opcoes": [
+      "They become invisible under thick mud",
+      "They can hold their breath underwater for 40 minutes",
+      "They swim faster than a Nile crocodile"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q218",
+    "facto_id": "f218",
+    "pergunta": "For what bizarre reason are you about 1 centimeter shorter at night than you are in the morning when you wake up?",
+    "opcoes": [
+      "Your lungs empty of dense air",
+      "Gravity slowly compresses the cartilage in your spine throughout the day",
+      "The moon's refraction effect tightens the blood vessels in your legs"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q219",
+    "facto_id": "f219",
+    "pergunta": "Scientists have discovered that playing Tetris immediately after a severe trauma helps combat Post-Traumatic Stress Disorder (PTSD). Why?",
+    "opcoes": [
+      "The 8-bit music radically reduces blood pressure",
+      "It focuses the mathematical brain in a way that numbs physical pain",
+      "The falling blocks interfere with the visual storage of traumatic memory"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q220",
+    "facto_id": "f220",
+    "pergunta": "What curiosity involves the world's first restaurant credit card (Diners Club, 1950)?",
+    "opcoes": [
+      "The card balance was visible on the back itself",
+      "It was made of a simple printed card, not plastic",
+      "It could be used until it was physically destroyed"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q221",
+    "facto_id": "f221",
+    "pergunta": "Why does an apple float so perfectly in a bucket of water, while a pear sinks?",
+    "opcoes": [
+      "The pear's core acts like a stone",
+      "25% of the apple's internal volume is composed of air trapped between cells",
+      "The apple skin repels water molecules magnetically"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q222",
+    "facto_id": "f222",
+    "pergunta": "Thanks to ancient glaciation, which single country holds more than half of all the world's lakes combined?",
+    "opcoes": [
+      "Brazil",
+      "Russia",
+      "Canada"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q223",
+    "facto_id": "f223",
+    "pergunta": "Who was harshly interrogated by the police as the prime suspect when the Mona Lisa was stolen in 1911?",
+    "opcoes": [
+      "The famous Spanish painter and rival, Pablo Picasso",
+      "The Louvre museum's restoration director",
+      "The King of France, in an elaborate insurance scheme"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q224",
+    "facto_id": "f224",
+    "pergunta": "What is the bizarre promise of the John Cage musical piece taking place in a church in Germany since 2001?",
+    "opcoes": [
+      "It will only be finished in the year 2640 because the organ notes are terrifyingly slow",
+      "The organ plays by itself and is randomly activated by local bees",
+      "It can be heard in Australia through the church's foundations"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q225",
+    "facto_id": "f225",
+    "pergunta": "How was the iconic terrifying sound of the Godzilla monster's roar recreated in 1950s studios?",
+    "opcoes": [
+      "Completely computer-generated and sped up",
+      "They used reversed recordings of Japanese hurricanes",
+      "Rubbing a resin-coated leather glove against the taut strings of a double bass"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q226",
+    "facto_id": "f226",
+    "pergunta": "Where was the famous word 'Nerd' first invented and printed in history in 1950?",
+    "opcoes": [
+      "In a B-movie science fiction film in Hollywood",
+      "In the children's book 'If I Ran the Zoo', by Dr. Seuss",
+      "In the hallways of Harvard University laboratories"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q227",
+    "facto_id": "f227",
+    "pergunta": "What would irritate any modern user about the first mechanical alarm clock invented in the USA in 1787?",
+    "opcoes": [
+      "It weighed so much that it needed a reinforced table to support it",
+      "It emitted weak electric shocks to the user's hand instead of sound",
+      "It had the gears welded and only allowed waking up exclusively at 4 AM"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q228",
+    "facto_id": "f228",
+    "pergunta": "The supercomputer Deep Blue became a historical milestone in 1997 when it humbled humanity in an epic challenge. Which one?",
+    "opcoes": [
+      "It deceived scientists and simulated being conscious and alive",
+      "It managed to compose a perfectly beautiful symphony worthy of Beethoven",
+      "It defeated Garry Kasparov, the invincible world Chess champion"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q229",
+    "facto_id": "f229",
+    "pergunta": "Biology surprised sustainability in the Amazon when scientists found fungi with what special appetite?",
+    "opcoes": [
+      "They became invincible to the heat of the equatorial sun",
+      "They fed solely on heavy and poisonous metal",
+      "They managed to survive by eating exclusively polluting plastic and without oxygen"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q230",
+    "facto_id": "f230",
+    "pergunta": "Why was the despised font 'Comic Sans' invented in 1994?",
+    "opcoes": [
+      "As a prank between Microsoft directors on April Fools' Day",
+      "Specifically to illustrate speech in a virtual dog for a simplistic Microsoft program",
+      "To make it difficult for copyists to work on legal documents"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q231",
+    "facto_id": "f231",
+    "pergunta": "What actually biologically addicts us when we like to inhale the famous 'new car smell'?",
+    "opcoes": [
+      "It is just the result of more than 50 chemicals and toxic gases released by factory plastics",
+      "It is a seductive perfume secretly injected into the driver's seat",
+      "The scent of molten metal that increases testosterone levels"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q232",
+    "facto_id": "f232",
+    "pergunta": "What was the surprising and failed initial proposal of the YouTube platform when it was launched in 2005?",
+    "opcoes": [
+      "Selling illegal movies and global piracy",
+      "Only allowing views to those who paid by credit card",
+      "Acting as an online dating site focused only on video profiles"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q233",
+    "facto_id": "f233",
+    "pergunta": "What is the bizarre cultural responsibility of the managers of the Pope's Latin account on the X/Twitter platform?",
+    "opcoes": [
+      "They are forced to pray every time they finish an online post",
+      "They write by hand on the screens with an official quill before digital upload",
+      "They have to invent modern Latin words for concepts that did not exist, such as 'internet' and 'blog'"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q234",
+    "facto_id": "f234",
+    "pergunta": "Everyone calls the Greek beast the 'Minotaur' (Bull of Minos), but what was its poetic name in the original myths?",
+    "opcoes": [
+      "Zeus of Hades",
+      "Dracon",
+      "Asterion (which means 'Starry')"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q235",
+    "facto_id": "f235",
+    "pergunta": "To what does the purely mathematical phenomenon called the 'Butterfly Effect', created in Chaos Theory, refer?",
+    "opcoes": [
+      "Shows how insects and the climate evolve in the opposite direction of time",
+      "A proof of how a tiny detail causes colossal reactions on the other side of the world, weeks later",
+      "To the miracle of reincarnation, inspired by the flapping of wings"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q236",
+    "facto_id": "f236",
+    "pergunta": "Between 1900 and 1920, which current children's game incredibly guaranteed a place in the Olympic Games with international athletes?",
+    "opcoes": [
+      "Musical chairs until sudden death",
+      "Racing inside heavy burlap sacks",
+      "The violent 'Tug-of-War' in teams"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q237",
+    "facto_id": "f237",
+    "pergunta": "Our mouth is easily fooled by acids that cancel everything out. Due to this human error, what is a bizarre fact about Strawberries and Lemons?",
+    "opcoes": [
+      "Lemon hides gram for gram more natural sugar and fructose than ripe strawberries",
+      "The strawberry internally produces sour juice similar to the vine tomato",
+      "Strawberries lose their sugar content at noon under the direct summer sun"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q238",
+    "facto_id": "f238",
+    "pergunta": "What is the tragic truth revealed by Italian archaeologists and ancient diaries about the Leaning Tower of Pisa?",
+    "opcoes": [
+      "It was intentionally sunken because of corrupt tax collectors",
+      "The masons failed because they used compacted ice as a temporary foundation during the freezing winter",
+      "It did not take centuries to lean; it began to sink catastrophically into the silt as early as the construction of the third floor"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q239",
+    "facto_id": "f239",
+    "pergunta": "The 4-kilogram technological monster (the world's first digital camera created in 1975 by Kodak), how did this device save the final photograph?",
+    "opcoes": [
+      "It drew on the floor with a laser for three minutes and copied it with an antenna",
+      "In an extremely noisy process where it wrote the raw screen information onto long conventional audio cassettes",
+      "It saved a perfect jpeg file onto a card encrusted with gold and pearls"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q240",
+    "facto_id": "f240",
+    "pergunta": "Biologists have shown that cows share a very special level of emotional bond with us. What happens to them emotionally and physically?",
+    "opcoes": [
+      "They become colorblind for seven days and reject their calf in the dark",
+      "They suffer from amnesia and forget the barn and the language to moo",
+      "They have real 'best friends' in the herd and when they are forced to separate from them, they experience severe clinical stress"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q241",
+    "facto_id": "f241",
+    "pergunta": "On which old computer network was the first 'spam' email in history sent in 1978?",
+    "opcoes": [
+      "On the university Facebook",
+      "On the ARPANET (the grandmother of the internet)",
+      "On the Pentagon's secret network"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q242",
+    "facto_id": "f242",
+    "pergunta": "What should you do in the programming technique known as 'Rubber Duck Debugging'?",
+    "opcoes": [
+      "Explain the code out loud, line by line, to a rubber duck",
+      "Throw a doll against the wall to relieve stress",
+      "Place a duck on top of the Delete key to avoid deleting work"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q243",
+    "facto_id": "f243",
+    "pergunta": "What is the fundamental basis of the 'Ivy Lee Method' for reaching peak productivity?",
+    "opcoes": [
+      "Working 4 hours and resting the rest of the day",
+      "Writing down and prioritizing the 6 most important tasks at the end of the previous day",
+      "Delegating everything to assistants except email"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q244",
+    "facto_id": "f244",
+    "pergunta": "Why is it crucial for all life on Earth that frozen water (ice) expands and becomes lighter?",
+    "opcoes": [
+      "Because if it weren't so, rain would freeze while still in the sky",
+      "To allow polar bears to swim",
+      "Because if it were dense like other materials, the oceans would freeze from the bottom up"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q245",
+    "facto_id": "f245",
+    "pergunta": "What is the most absurd event regarding the 'Three Hundred and Thirty-Five Years' War' between the Netherlands and the Isles of Scilly?",
+    "opcoes": [
+      "It was fought entirely with paper boats",
+      "For 335 years there was never a single shot fired nor a single casualty",
+      "It only ended after a diplomatic game of chess"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q246",
+    "facto_id": "f246",
+    "pergunta": "What did astronomers detect floating solitarily 12 billion light-years from Earth?",
+    "opcoes": [
+      "A giant planet entirely covered in grass",
+      "A water vapor cloud larger than all of Earth's oceans combined",
+      "A perfect sphere of solid shining gold"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q247",
+    "facto_id": "f247",
+    "pergunta": "The platypus is one of the most bizarre creatures in the world for several reasons. Which of these is true?",
+    "opcoes": [
+      "The animal has no stomach; the esophagus connects directly to the intestines",
+      "It can fly short distances using its tail",
+      "Its fur changes color depending on its mood"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q248",
+    "facto_id": "f248",
+    "pergunta": "According to biologists, the human hiccup is actually a spasm derived from what?",
+    "opcoes": [
+      "From a genetic error of the Neanderthals",
+      "From the same useless muscle reflex that tadpoles (amphibians) use to breathe water",
+      "From trying to expel carbon dioxide too quickly"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q249",
+    "facto_id": "f249",
+    "pergunta": "In the human mind, how does the curious 'Baader-Meinhof Phenomenon' (or Frequency Illusion) work?",
+    "opcoes": [
+      "It is when you learn a new word and suddenly start noticing it everywhere",
+      "When you completely forget why you walked into a room",
+      "The sudden urge to dance when hearing old rhythms"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q250",
+    "facto_id": "f250",
+    "pergunta": "What caused the first collapsing financial bubble in human history in 1637, in the Netherlands?",
+    "opcoes": [
+      "The unrestrained sale of fake boats",
+      "The irrational trade of Tulip bulbs (where a bulb could be worth a mansion)",
+      "The trade of shiny gold-painted stones"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q251",
+    "facto_id": "f251",
+    "pergunta": "Why do thousands of people claim that cilantro tastes like soap?",
+    "opcoes": [
+      "Cilantro leaves are almost always washed in weak bleach at supermarkets",
+      "A genetic variation (OR6A2 gene) that causes these people to detect a specific chemical in the plant",
+      "A severe cross-allergy with shellfish"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q252",
+    "facto_id": "f252",
+    "pergunta": "At what bizarre and constant speed are the tectonic plates of Europe and North America moving apart?",
+    "opcoes": [
+      "At the speed at which a child's hair grows",
+      "At the exact same speed at which your fingernails grow",
+      "They move apart by about one meter for every decade that passes"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q253",
+    "facto_id": "f253",
+    "pergunta": "16th-century European painters used a popular color called 'Mummy Brown'. Where did this pigment come from?",
+    "opcoes": [
+      "From powder scraped from the inside of pure Egyptian pyramids",
+      "By grinding up actual mummy corpses that were smuggled from Egypt to Europe",
+      "From a mixture of dried animal blood and African clay soil"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q254",
+    "facto_id": "f254",
+    "pergunta": "What does neurological science prove your body does subconsciously when you listen to rhythmic music?",
+    "opcoes": [
+      "Your body temperature rises exactly 1 degree Celsius",
+      "Your heart rate and breathing change to try to automatically synchronize with the rhythm of the music",
+      "Your brain temporarily switches off the feeling of thirst"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q255",
+    "facto_id": "f255",
+    "pergunta": "Since it was impossible to record real dinosaurs, what sound combination generated the iconic T-Rex roar in Jurassic Park?",
+    "opcoes": [
+      "Distorted sounds of an old tractor engine",
+      "The cry of a baby elephant, a roaring tiger, and a crocodile mixed together",
+      "A lion with the sound manipulated to be a hundred times deeper"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q256",
+    "facto_id": "f256",
+    "pergunta": "What was the $50 bet that forced the creation of Dr. Seuss's popular book 'Green Eggs and Ham'?",
+    "opcoes": [
+      "To write the book in less than 24 uninterrupted hours",
+      "His editor challenged him to write the entire coherent story using only 50 different words",
+      "He had to use the word green in every sentence of the book without fail"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q257",
+    "facto_id": "f257",
+    "pergunta": "What happened in the legendary 'Move 37' when the AI AlphaGo destroyed the world Go champion?",
+    "opcoes": [
+      "The machine crashed its operating system to gain mathematical time",
+      "The machine made a move so creative and alien that Go experts thought it had been a software error",
+      "The AI sacrificed all of its pieces except one"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q258",
+    "facto_id": "f258",
+    "pergunta": "As a giant grass, bamboo is one of the world's greatest ecological hopes. How fast can it grow?",
+    "opcoes": [
+      "About 10 centimeters every dawn in a noisy way",
+      "One meter each consecutive year",
+      "Up to 90 centimeters in a single day visible to the naked eye"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q259",
+    "facto_id": "f259",
+    "pergunta": "What famous white space illusion trick is hidden in the 'FedEx' logo?",
+    "opcoes": [
+      "A clock hidden in the corners of the letter 'd'",
+      "The face of an airplane pilot in the space between the E's",
+      "A forward-pointing arrow subtly wedged into the white space between the 'E' and the 'x'"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q260",
+    "facto_id": "f260",
+    "pergunta": "What is the historical disillusionment behind the global tradition of buying expensive diamond engagement rings?",
+    "opcoes": [
+      "The original diamonds were made of heated glass",
+      "It is not an ancient tradition at all, but just a brilliant marketing campaign created in 1947 by De Beers",
+      "The tradition belonged to the Church, but was stolen by jewelers"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q261",
+    "facto_id": "f261",
+    "pergunta": "In the difficult early days of 2008, what ingenious physical product did Airbnb founders turn to in order to save the company from bankruptcy?",
+    "opcoes": [
+      "Cereal boxes with caricatures of politicians Obama and McCain",
+      "Sale of personalized cushions with their logo at trade fairs",
+      "T-shirts that offered hotel discounts"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q262",
+    "facto_id": "f262",
+    "pergunta": "Although they go unnoticed, which letter is absolutely the most used in our alphabet, making up 11% of what we read?",
+    "opcoes": [
+      "The letter A",
+      "The letter O",
+      "The letter E"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q263",
+    "facto_id": "f263",
+    "pergunta": "What was the true reputation of the monstrous Medusa's snake-head before the myths were distorted?",
+    "opcoes": [
+      "It symbolized the end of times and imminent death",
+      "It was used solely as a curse to sink enemy ships",
+      "It was a blessing and a symbol of strong protection used on doors and shields to ward off evil"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q264",
+    "facto_id": "f264",
+    "pergunta": "What is the purpose of the famous ethical exercise known as the 'Trolley Problem' (killing 1 person to save 5 or taking no action) in philosophy?",
+    "opcoes": [
+      "To approve the moral programming codes for new Tesla autonomous cars",
+      "To force you to debate how you and society determine the practical value of life",
+      "To conduct a pure sociopathy test on teenagers"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q265",
+    "facto_id": "f265",
+    "pergunta": "What is the bizarre and violent official logistics of the European sport 'Chess Boxing' based on?",
+    "opcoes": [
+      "Playing a game of chess while wearing giant leather gloves",
+      "The athlete must alternate rounds, either winning by physical knockout in the ring or by checkmate on the board",
+      "It is normal chess but whoever loses is forced to be punched by the coach at the end"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q266",
+    "facto_id": "f266",
+    "pergunta": "Who started the widespread lie that eating lots of carrots would make people gain 'night vision'?",
+    "opcoes": [
+      "The British Air Force, to hide and protect the secret of their new night radar technology",
+      "American food companies to move vegetables during the war",
+      "French doctors in a scientific misunderstanding"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q267",
+    "facto_id": "f267",
+    "pergunta": "The iconic Eiffel Tower was supposed to have been completely destroyed 20 years after its inauguration. What saved it from the scrap heap?",
+    "opcoes": [
+      "Tourists held violent protests at its base",
+      "The French military government belatedly discovered that its height was perfect for placing radio nets and antennas",
+      "A storm sank the demolition machines at the port of Paris"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q268",
+    "facto_id": "f268",
+    "pergunta": "What frustrating technological reality accompanied the taking of the first and blurry photograph in history by chemist Niépce, in 1826?",
+    "opcoes": [
+      "It took him 3 weeks to develop the chemicals to see the color",
+      "His wooden camera had to rest and absorb sunlight on a terrace for 8 uninterrupted hours",
+      "He could only take photos in absolute darkness"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q269",
+    "facto_id": "f269",
+    "pergunta": "Being perhaps the most influential plastic figure ever, what is the full name given to the Barbie doll by the Mattel company?",
+    "opcoes": [
+      "Barbie Keneth Star",
+      "Barbara Millicent Roberts",
+      "Bárbara Jane Mattel"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q270",
+    "facto_id": "f270",
+    "pergunta": "Playing dead works incredibly well against a Grizzly Bear, however, why should you NOT do it if the bear is Black?",
+    "opcoes": [
+      "Because Black Bears are blind and will not notice if you move",
+      "Because the Black Bear may continue the attack. Never stay lying down, raise your arms, shout, and fight to scare it off",
+      "The color does not matter, the myth of fighting bears leads to deaths in the forest"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q271",
+    "facto_id": "f271",
+    "pergunta": "In computing and pop culture, how does the phenomenon known as 'USB Superposition' physically behave?",
+    "opcoes": [
+      "All commands become uncontrolled when ports are disconnected at the same time",
+      "The frustrating requirement of having to try flipping the USB drive twice until it magically fits on the third attempt",
+      "USB cables instantly tangle in your pockets"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q272",
+    "facto_id": "f272",
+    "pergunta": "Why do most old keyboards have the 'Space Bar' much smoother and more worn out than the rest of the keys?",
+    "opcoes": [
+      "Because the material of the base keys is always cheaper and inferior to that of the top of the keyboard",
+      "The thermal friction accumulated by millions of rapid taps causes the plastic in the middle to give in to erosion faster",
+      "Due to the rapid accumulation of sweat and dust that damages the metal base"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q273",
+    "facto_id": "f273",
+    "pergunta": "In modern personal development, how would you apply the very useful '5-Second Rule' to a boring task?",
+    "opcoes": [
+      "Count '5, 4, 3, 2, 1' mentally and act immediately to cut the time for your brain to rationalize laziness and fatigue",
+      "Give yourself a reward and a chocolate after every 5 seconds of deep focus",
+      "Physically change your body posture only every 5 seconds"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q274",
+    "facto_id": "f274",
+    "pergunta": "Scientifically, why does inhaling air from a helium party balloon make your voice sound so bizarrely high-pitched and squeaky?",
+    "opcoes": [
+      "Because the vocal cords contract and get cold due to synthetic chemicals",
+      "Helium is much less dense than oxygen, which causes your sound waves to travel faster without friction in the throat",
+      "Because the tongue becomes slightly paralyzed by the noble gas bubbles"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q275",
+    "facto_id": "f275",
+    "pergunta": "The Roman Empire's vanity regarding dental health involved nauseating imports from Portugal. What for?",
+    "opcoes": [
+      "Crushed teeth of Iberian warriors",
+      "Hot wax from the Algarve caves to seal painful holes in the gums",
+      "Barrels filled with our strong urine, which served as a magical mouthwash elixir thanks to the enormous whitening power of ammonia"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q276",
+    "facto_id": "f276",
+    "pergunta": "The hellish neighbor planet, Venus, rotates on its axis in the opposite direction to the rest of the solar system, which means that...",
+    "opcoes": [
+      "Nights last for decades",
+      "The Sun rises strangely on the Western horizon and sets slowly on the Eastern side",
+      "The atmosphere is continuously sucked and thrown into dead space"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q277",
+    "facto_id": "f277",
+    "pergunta": "The legendary Stegosaurus (with the large plates on its back) weighed an impressive 3 tons in life, but what was the brain hidden in that tiny skull like?",
+    "opcoes": [
+      "Literally equivalent to two grains of our coarse sand",
+      "Cylindrical, round-shaped, and the size of a small store-bought hot dog",
+      "It was gigantic but composed of useless blood bubbles and foamy cartilage"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q278",
+    "facto_id": "f278",
+    "pergunta": "When you consume cold slushies quickly, the nerves cause 'brain freeze'. How does this hurt in the head if it only touched the tongue?",
+    "opcoes": [
+      "Because touching the roof of the mouth triggers an emergency reflex that forces the brain to massively dilate the veins to generate heat, causing pain pressure",
+      "It generates a slight electrical seizure in the neck",
+      "It is the oxygen from the jaw cavities entering your molar teeth"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q279",
+    "facto_id": "f279",
+    "pergunta": "The sad 'Bystander Effect' proves a terrible mechanism called diffusion of responsibility. Why is it dangerous to faint on a crowded street?",
+    "opcoes": [
+      "Because everyone assumes and rationalizes that one of the other 30 people there has already called an ambulance, which means no one actually acts",
+      "In a chaotic social shock, collective adrenaline blinds the vision in the crowd and they don't see you",
+      "Because ambulances avoid stopping in uncontrolled crowds on the street"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q280",
+    "facto_id": "f280",
+    "pergunta": "In 'Wall Street' (2007) [referring to his bet], Buffett placed his million in a humbling wager. He bet that over the next 10 years he would win with an Index Fund against aggressive geniuses. What was that Fund?",
+    "opcoes": [
+      "The massive purchase of thousands of shares of a single large banking company on the verge of bankruptcy for pennies",
+      "A boring, passive model that simply replicated the general averages of the 500 largest companies, ignoring panics",
+      "A mathematical robot with Artificial Intelligence that was a prototype from IBM at the time"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q281",
+    "facto_id": "f281",
+    "pergunta": "What justifies the toxic restriction in cooking if you accidentally use two whole and massive raw tablespoons of nutmeg to season food?",
+    "opcoes": [
+      "You would swell from a lethal allergy due to weak acid and burning of vocal cords in mere seconds",
+      "It contains the hidden compound myristicin, capable of poisoning the body by causing terrible visual outbursts, seizures, and hallucinations of extreme severity",
+      "It will burn irreversible serious holes in your taste buds on the roof of your mouth"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q282",
+    "facto_id": "f282",
+    "pergunta": "Which megalomaniacal Soviet Union project directly caused the dramatic extinction of all life, fauna, and water volume of the monumental Aral Sea in 1960?",
+    "opcoes": [
+      "The massive diversion of the vital river currents of the two largest rivers that fed it to hastily irrigate desert crops in another poor area of the territory",
+      "Continuous aquatic tests of depleted uranium oxygen bombings",
+      "Uncontrolled evaporation due to the colossal increase in extraction wells from the ocean floor of the nearby Black Sea"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q283",
+    "facto_id": "f283",
+    "pergunta": "How was the magnificent solo French bronze statue that we glorify today and call simply 'The Thinker' originally planned, designed, and forged?",
+    "opcoes": [
+      "As a tiny 70 cm tragic figure inserted into the composition of a large, heavy door (The Gates of Hell) commissioned for the top of a museum",
+      "As a secret main column built behind the great Pantheon of the Gods of the Thermae of the fallen Roman city",
+      "The giant bronze was a forgotten decorative front part in the garages of a tycoon in Naples"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q284",
+    "facto_id": "f284",
+    "pergunta": "Without this moment we wouldn't have current electronic music. What is so crucial about the 'Amen Break', that 6-second solo from the 60s recorded by The Winstons?",
+    "opcoes": [
+      "It is the most copyrighted bassline in the musical and entertainment history of Latin America and pop in the world",
+      "It ironically became the raw, manipulated, and most repeatedly 'sampled' rhythm in recording history, thus being the sacred foundation of all modern Hip-hop, classic Rap, and Drum and Bass in the world",
+      "It created the first rudimentary keyboard synthesizer that reproduced pure human breathing sounds of the vocalist during the audio stage concerts of the summer Woodstock Festival"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q285",
+    "facto_id": "f285",
+    "pergunta": "The terrifying sound of royalty and jungle in the recorded voice of the majestic creature Mufasa in the original cult feature film (The Lion King) did not use the actual roar of lions. Why and what did they use in the edit?",
+    "opcoes": [
+      "Aggressive tigers were recorded at a zoo and their sound frequencies were mixed because the roars of real lions in the natural world lose their impressiveness in cinema or on audio tape recording screens",
+      "Due to a chronic global lack of environmental authorization, they only recorded an African brown bear at the bottom of a solid stone tunnel in the virgin jungle near the Californian studio",
+      "It was digitally manufactured using acoustic drums torn at high speed under the floor of the Disney audio director's desk for three full consecutive days of work with horn effects"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q286",
+    "facto_id": "f286",
+    "pergunta": "What was the national controversy and the terrible macabre irony involving Agatha Christie's name in her actual biographical life during the distant and dramatic British decade of the 1920s, and what did she do?",
+    "opcoes": [
+      "She herself caused a poisoning and an actual crime of passion with a hidden glove that was the same as the one police saw in one of her most expensive popular English theater novels, being exiled without a trial by criminal peers or material evidence in London prisons on a fatal March night.",
+      "She was kidnapped by book trade competition on a dark train to destroy the manuscript and burn the tape of the story of trains and railways in a media-fueled night panic, until she returned with a wounded arm and an epic story in the courts.",
+      "She disappeared in an absolute media mystery from her home, triggering massive police searches across the nation for a long and scary 11 days, until she reappeared alive in shock with no memory and claimed until the end of her mourning days that her mind had erased the experiences of those confusing, blank days, with no further explanation of what she did during that time in a vacant isolated room where she was hidden in rural inns without luggage in secret while the entire population speculated on her forged mental tragedy or pure genius invention of sad memories in the world of literary fiction elites."
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q287",
+    "facto_id": "f287",
+    "pergunta": "What is the astonishing logical basis behind the sad flaws in the visual dystopian production of pure digital models and modern Artificial Intelligence generators in physically and detailedly constructing the complex of our exact physiological structure (human hand, limbs or body muscles, the fine folds, complex shadows in artistic illustrations, creative digital cutouts in modern artistic photographic projects and paintings in the world) in the brain of the robot boards of the great digital inventions at the end of 2023 of photos of photographic models in open sports settings or in photos of perfect digital anatomical poses with 6 digital deformities of our real fine bones?",
+    "opcoes": [
+      "It is purely intentional, a shock imposed on the servers in the base machines or factories of the physical limit of processing logical data in terabytes to save the entire board on computers in fast online time and quality.",
+      "The AI machine that calculates the generation of a visual body texture of the folds of the phalanges, hands, and crossed bones of the models' physical structure is entirely unaware of structural biology, and simulates mere chaotic, blind, probabilistic patterns of textures copied from the cross-textures of thousands and millions of varied two-dimensional training files in obscure hidden positions of pockets in shoulder positions where light pixels mix the finger in the mixed data to the point of hallucinating the joints of the raw photo as a numerical pattern only, not physically understanding how and why the bone connects to the visual muscles of the parts and human hands.",
+      "Because severe protections and global copyright censorship patents prevented sharp images of the biological hand from ever and forever and completely from the base being downloaded to mass banks visualizing the real biological skeleton of European artists."
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q288",
+    "facto_id": "f288",
+    "pergunta": "The sustainability of the global ecological revolution brutally confronts the dangerous, silent, and tragically massive industrial extinction of resources, such as the foundations of global metropolises, due to the exponential growth of natural sand in contemporary global Asian housing. However, why is it impossible for builders to use the massive storms of the vast, gigantic golden African sands of the great, scorching, dry, ownerless desert on the planet, which possesses immense, visually infinite, and mineral-rich fine rocks, to forge cruel, hard cement bricks?",
+    "opcoes": [
+      "The hard sand blown violently in these huge deserts into spheres of sandpaper dust in the eternal dry wind turns the dust rocks into perfectly microscopic, round, polished, clean, spherical, shiny, pure mineral grains due to mechanical forces, such that the vital physical bond of the raw wet structure of scarce angular wet cement of rocky river sand fails in the desert, sliding like microscopic balls without the adhesion of structural construction masses in skyscrapers, causing them to fall.",
+      "The mythical golden and dark Egyptian sand from the dry, red, heavy, deep, massive African soil in solar deserts does not dry in the cold; it has a lethal, dark, organic, poisonous mineral mercury salt that melts them upon wetting at the fragile aquatic contact of strong, solid cementitious construction.",
+      "The extraction from light, hot, fine dunes in the immense deserts of rocks and the sea of raw, hot, arid, natural mineral desert sand does not possess the rare, unique type of exotic grain of sea fossils rich in carbonate and exact salty calcium from deep sea stars, which is indispensable for the thick cast iron of the strong floor of wet, damp urban foundations of thick industrial cold blocks in gray rock."
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q289",
+    "facto_id": "f289",
+    "pergunta": "The famous psychological theory of cruel visual subconscious marketing colors—the dark, hidden, manipulative, commercial, cruel, mental food theory of the raw, cold, strong, mental, brutal, classic 'Ketchup and Mustard' theory of colors in the trade of massive, global, classic, rich, cruel chains in the networks and logos of massive, fast, global, cruel, cheap food giants (from the fast-food Burger McDonald's empire and the hot Subway empire)—behind the bright, appealing, primary red tones on the signs and also the yellow visual shades throughout the entire physical visual aspect and intense, vibrant, strong, bright furniture, hides what exact, violent, subliminal, biological, fierce, pure, fast, mechanical commercial imperative in our impulses of the strong gaze towards the passive consumer customer at the door and in the cold, closed consumption room in the plastic urban stores of cement metropolises?",
+    "opcoes": [
+      "Colors like aggressive yellows magnetically and subconsciously catch the eyes in the gray fog, awakening slight acute mental anxiety and mild gastric hunger, and the lines of pure, lively, aggressive, intense red and scarlet colors force the human eye of the passive consumer customer with an imperative urgency, subconsciously accelerating their movements of quick attention to rapidly devour the caloric orders of dense, chewable meals and freeing up store chairs in a calculated, profitable dance of lights on the plastic walls of cruel, brutal time turnover in the line of urban plastics of artificial sweet urban fast-food businesses.",
+      "The entire theory is a great myth and a happy, innocent, ancient historical coincidence from the pure years of vintage design by logo creators at stations who loved retro American sports racing colors, with no cruel, mental, neuro-scientific, commercial aspect in the stores on the American asphalt avenues of the past century of American industrial growth, where the red of the flag in the paint and in the American colored posts always meant pure optimism in the paints and raw economic freedom.",
+      "Reds evoke primitive, exotic, warm, biological, soft biological heat and the heat of nests and the nature of wild, raw, strong man, and biological familiarity with the nest, and the use of visual gold yellow evokes financial wealth and majestic abundance in the old chains to justify to the tired, poor workers at the end of their shift in the shopping malls at night that they are at the edge of the golden palace of luxury with superior, raw, cheap, fake American gastronomic royalty of the urban elites in the luxurious, chic, and exclusive metropolises."
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q290",
+    "facto_id": "f290",
+    "pergunta": "In the fierce universe of classic elitist cruel psychological consumption and the dark commercial economy of luxurious, cold, silent, cruel, mental, and manipulative, pure biological, financial deceptive marketing of the fake rich tactics in heavy, exclusive menus in large, exquisite, chic global world restaurants, in the hidden, brutal, cold, classic psychological wine menu of hidden bottles of fine, expensive, old, heavy, corked liquids, by what pure, mathematically brutal, effective, dishonest, cold psychological tactic of consumer psychologists in sales is a single, insane, and eccentric potion or bottle of a frightening, astronomical, irrationally high, prohibitive, brutal, and isolated price purposefully placed on a pedestal at the top and the supreme peak of luxury menu books of urban service shops, in bottles isolated in rich, exotic, unattainable views from the cellars of grapes in the lands of very expensive wineries, untouchable to the common citizen outside the metropolises and the diners of elitist wealth, without, in the end, almost anyone in the life of that cruel establishment in the city of lights ever being able to buy it or ask an employee dressed for the rich, chic dinner on the cobblestone street?",
+    "opcoes": [
+      "The cruel anchor effect. That bottle at the isolated giant peak, with an irrational, unattainable, exotic, expensive, very expensive, brutal number, is not meant to be a legend of rare, esoteric wine and has never been sold in an entire decade of service; deep down, it acts only and solely on the eyes of the stunned reader so that the violent and irrational price works in the brain with its raw magic, and so that the second offer, the giant isolated bottle in the middle of the table or at the bottom, which the chef actually wanted to sell with brutal and hidden profits, does not seem cruel to the eyes of pure savings and, in an immediate and brutal way, suddenly seems to us like a great bargain or accessible deal compared to that absolute, rich, crazy, unattainable disaster at the visual peak of the numbers of the absurd bill of the crazy, millionaire, untouchable offer of the expensive, irrational, exotic, elite options on the shelf in the dusty visual cellar of the fake menu.",
+      "In the cold, biological, social reality of the rich ego, it is for pure, sterile, financial, commercial display by the owner of the brands of exotic social status of the ancient, old castes and the arrogant, cruel chef in the refined establishment, to show proudly, brutally, aggressively to all customers the brutal, immense, world-famous, elite, aristocratic, pure, real, cold, brutal, eccentric, global fame in secret of the owner's rich access to the wine of the emperors hidden in rich, isolated French cellars, inaccessible to all critics on the planet of the rich class of cruel gourmet palate criticism.",
+      "To cover up flaws. This single, legendary, mythical, and exotic wine is a raw, protective, isolated, psychological, mental shield of the establishment in fine magazines and dinners, and in case, and only if, the cold dishes or the pure stocks of the remaining table bottles are sold out in the deep, closed underground warehouse of the old vines, hidden in the barrels of the dark years of old clay, closed off from the hot sunlight of the sad mornings."
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q291",
+    "facto_id": "f291",
+    "pergunta": "What unusual archaic manufacture boosted the humble, pure imperial origins in the console empire of the old, fast, mechanical, remote, artisanal, ancient Japanese manufacturing industries of the giant and the current colossal temple of Nintendo, which would revolutionize with physical digital buttons and televisions the raw mechanical digital raw digital generation of the luminous screen of the modern interactive video game era visual on the chips in the distant, mysterious age of ancestral fables of the ancient, distant, cruel, distant, ancient, mythical, poetic silence of 1889 in the city of the alleys of the distant poetic autumn of the silent temples closed in the ancient, silent, feudal, poetic empire of the woods of Kyoto in Japan, cruel with fine red winds, closed in the distant light of the autumns on the leaf of pure snows in feudal Japan?",
+    "opcoes": [
+      "Wooden and wicker bicycles without wheels designed by hidden mechanics and trolleys to carry Japanese generals and silent messengers on rocky paths of the emperors of the distant darkness in the poetic, shadowy, distant scarlet light on the bridges in the red Asian empire in the remote eras closed in the secret rural mists of white winter",
+      "The exclusive sale in the poetic, ancient, distant, mysterious, silent Asian alleys of the paper workshops in the old street of fine, pure cherry blossom leaves of complex classic European games made of dark lead from the matrices of the mechanical buttons of the exotic, mystical, dark empire in white metal of the classic chess game on European panels in the hands of the warrior elites of the empire of fog in the autumn and of the shadow on the secret bridges in the exotic armies",
+      "A small, simple shop of the humble ancient light of artisanal manufacture on the street of the Asian autumn city in the white poetic temples on the bridge of waters and clean snow where the craftsman and creator glued onto delicate Japanese papers cut with thick, small, coarse rural blades and thick red inks and rustic drawings painted and in the original colors in the dark of the rustic lamps by hand onto fine, hard, rustic cards of hard, rustic paper for the ancient and popular, mystical, colorful Japanese game of the distant, mystical, old, closed, silent, classic fables of playing mystical, popular Hanafuda cards in the ancient market of the street of the Asian snows of the light of the pure leaves."
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q292",
+    "facto_id": "f292",
+    "pergunta": "What was the actual bureaucratic function behind the famous linguistic official aberration with the colossal confusing amalgam of 63 German characters joined without spaces ('Rindfleischetikettierungsüberwachungsaufgabenübertragungsgesetz')?",
+    "opcoes": [
+      "The exact name of the military manual for steam reactors",
+      "It was the law on the delegation of duties for the supervision and quality control of correct labeling of beef and cattle",
+      "A traditional northern poem recited to newlyweds"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q293",
+    "facto_id": "f293",
+    "pergunta": "According to raw mythological origins, how did the feared and enlightened ancient Greek goddess of pure wisdom (Athena) emerge and take material life?",
+    "opcoes": [
+      "After Zeus devoured his pregnant wife in a panic, the goddess emerged and sprouted forth, breaking through the forehead of the great god of lightning, fully grown, crying out to life, completely armored in golden bronze, and ready for the raw combat of pure intelligence",
+      "She was carved by Phoenician slaves from immense blocks of white stone fallen from the sky, blessed by strong blue sparks of light and nocturnal thunder",
+      "She emerged from the deep oceans bleeding foam after the tragic battle against the brutal rock Titans in the black clouds"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q294",
+    "facto_id": "f294",
+    "pergunta": "What did the astute physicist and brilliant academic thinker (Erwin Schrödinger) really want to criticize in his eccentric and iconic 'Cat in the Box Paradox' (where the animal is eternally and paradoxically dead and simultaneously alive while closed and isolated)?",
+    "opcoes": [
+      "How science should use isolated animals in sealed cages without fear of the ethical laws of modern primitive societies in dark and gloomy captivity without air with stones closed in the secret radioactive laboratory of null radioactive radiation to cure phobias in scientists without empathy for the feline of pure theory with gray stones on the null secret wall hidden by dark shadow fear",
+      "It was purely a satire and cruel irony elaborated with macabre refinements in a pure dark joke with the sarcastic intention of proving by ironic analogy the total and absolute ridiculous insane failure that the concepts of absurd quantum mathematics of absurd dimensions revealed if they were ironically and stupidly transposed with the force of tiny absurd atoms to giant animals and common concrete banal absurd common things in the light of the pure biological life of a common cat of mundane logic",
+      "The mystical exotic natural subconscious exotic raw gift in the secret dark obscure subconscious mutant genetics of pure ancestral feline lineages and animals of secret nature for the mystical hidden biological exotic raw intuition and raw biological and raw of their natural raw intelligence in the biological wounds of the old dark iron cells in exotic biological laboratory in heavy dark obscure exotic ancient cages in laboratories with old walls with secret cats"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q295",
+    "facto_id": "f295",
+    "pergunta": "Which of the unusual particularities in the raw human mechanics and spectacular isolated biological genetics, purely morphological, raw, unusual physics, endowed the pool legend (Michael Phelps) in the ferocious Olympic domain in his unbeatable record in the water?",
+    "opcoes": [
+      "A pair of massive, dense hypertrophied lungs disproportionate to the bones, twice the normal standard biological volume of the abdomen and athletic heart of a purely common youth, which silently provided an enormous, heavy, elastic, massive, deep, raw, internal biological diving chamber in the extremities of his muscle biology in his thick stomach",
+      "The brain immune to fainting due to extra flow in a pure mutant capillary in the optical connections in the nerves of the blind vertebrae in the tight space at the top that allowed for a brutal, raw, mechanical, blind breath of pain",
+      "The anomaly known as the 'Ape Index': a rare, exceptional, raw biological wingspan of incredibly long, wide, monstrous arms that measured much more in many long centimeters than his total height and the limit of his own immense, cruel skull height, giant vertical torso, and the heels of the entire legend off the blind level on the wet floor and off the massive floor standing flat on the board of physical standing height measured from his giant brain to the ground at his huge long shod feet"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q296",
+    "facto_id": "f296",
+    "pergunta": "What harmless raw fruit, popular in the global bitter citrus routine, is the treacherous, hidden, fatal toxic secret of the dangerous metabolic time bomb that blinds raw hepatic reactions in the viscera and poses hidden biological danger to those taking common medicines for heart conditions and pills and tablets for common modern ailments affecting chronic sad diseases (dangerous chronic blind chemical fatal cholesterol) in frail elderly people when consuming fresh juices and cruel citrus segments as part of natural breakfast fruit, and during the hidden biological consumption by families in the innocence of luxury morning kitchens and modern shelves full of common diets, dangerous citrus fruits of dietary food, and deadly, blind, dangerous, juicy, cruel citrus segments of dietary meals of popular sour raw morning fruit and juicy, blind, raw citrus fruit in the raw diet on fresh, acidic, dietary tables on popular, fresh, sour, popular citrus mornings?",
+    "opcoes": [
+      "The sweet, fibrous, pasty, biological, massive, pasty, sweet, sweet, tropical, smooth, tropical, sweet banana",
+      "The pineapple, a sweet and acidic fruit with enzymes and seeds in the vivid yellow, thorny, sweet center, in the citrus core and yellow spikes with citrus peaks from the core of the blades and the hard, sweet core of the rough rinds of the sour interior of the hard, acidic rind of the thick scales of the yellow islands of the hard, thorny center of the hard, acidic, thorny peaks of the hard rind and the acid in sweet, tropical, sweet, citrus pineapples",
+      "The juicy, thick, sweet, heavy, bitter Grapefruit (heavy citrus grapefruit) that cruelly inhibits and blocks fiercely, blindly, and with cruel, relentless chemical blocks with invisible, cruel, bitter components, the secret chemistry of cruel metabolic purification, the secret strength of the vital, strong, real, hepatic, purifying, organic, biological enzymes, and blocks the hepatic function and the barriers of enzymes and purification in the liver of the veins, originating which components block the dangerous, raw, hepatic barriers that a catastrophe of dangerous chemistry and cruel poison of poisonous chemicals in us with the accumulation and the liver and fatal, blind, and the raw grapefruit in the liver, blind to strong chemicals, and the liver does not metabolize, originating accumulations of chemicals that block with blocks that block and cause accidental overdoses in dangerous medicines, blocking the filtration in us with grave dangers, blocking with blocks in the blood of chemicals, and originating accidental, massive, lethal [levels] of fatal medication in the organs, originating accidental and accidental doses in the body with medication in us with vital hepatic components of blind overdoses in the blood with chemicals from the medicines in excess in the blood without being diluted in the blood in the organism and in the liver in the body and from the body in patients of medicines that block the enzymes"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q297",
+    "facto_id": "f297",
+    "pergunta": "What is the ingenious optical illusion (and safety) trick used on the minarets surrounding the Taj Mahal?",
+    "opcoes": [
+      "The columns are hollow to allow sound to echo",
+      "The minarets are all tilted slightly outwards so that, in an earthquake, they do not fall onto the central tomb",
+      "They were painted with invisible ink that glows at night"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q298",
+    "facto_id": "f298",
+    "pergunta": "What is the true technological reason for using the color Green (Chroma Key) for special effects in cinema?",
+    "opcoes": [
+      "Green was the cheapest fabric dye in Hollywood",
+      "The color green does not exist naturally in the skin tone of any human ethnicity, making it easier to remove by software",
+      "Green tires the actors' eyes less during filming"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q299",
+    "facto_id": "f299",
+    "pergunta": "Marine biologists have documented hilarious behavior in octopuses when they hunt in groups with fish. What do they do?",
+    "opcoes": [
+      "They use the fish as live bait for sharks",
+      "If they think one of the fish isn't helping, they swim up to it and aggressively punch it out of irritation",
+      "The octopus steals everyone's food and swims away while releasing ink"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q300",
+    "facto_id": "f300",
+    "pergunta": "According to the famous 'Rule of 3' in extreme survival, what is the maximum time the human body can go without drinking water?",
+    "opcoes": [
+      "3 weeks",
+      "3 days",
+      "3 hours"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q301",
+    "facto_id": "f301",
+    "pergunta": "When does muscle hypertrophy actually occur?",
+    "opcoes": [
+      "During the workout at the gym",
+      "During sleep and rest",
+      "Only while eating",
+      "During the warm-up"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q302",
+    "facto_id": "f302",
+    "pergunta": "How long does the increase in protein synthesis last, on average, after training?",
+    "opcoes": [
+      "Exactly 30 minutes",
+      "Less than 1 hour",
+      "More than 24 hours",
+      "Only 10 minutes"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q303",
+    "facto_id": "f303",
+    "pergunta": "What is the 'Progressive Overload' principle?",
+    "opcoes": [
+      "Gradually increasing weight or repetitions",
+      "Always lifting maximum weight",
+      "Running progressively faster",
+      "Decreasing the load every week"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q304",
+    "facto_id": "f304",
+    "pergunta": "Which tissue burns more calories when the body is at rest?",
+    "opcoes": [
+      "Adipose tissue (fat)",
+      "Bone tissue",
+      "Muscle tissue",
+      "Skin"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q305",
+    "facto_id": "f305",
+    "pergunta": "Why is it faster to regain muscle than to gain it for the first time?",
+    "opcoes": [
+      "Due to cellular hydration",
+      "Due to the presence of more myonuclei",
+      "Metabolism accelerates",
+      "Genetics are altered"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q306",
+    "facto_id": "f306",
+    "pergunta": "Which type of muscle fibers has the greatest potential for growth?",
+    "opcoes": [
+      "Red endurance fibers",
+      "White fast-twitch fibers",
+      "Cardiac muscle fibers",
+      "They all grow exactly the same"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q307",
+    "facto_id": "f307",
+    "pergunta": "Which phase of movement causes the most muscle micro-tears?",
+    "opcoes": [
+      "The static phase",
+      "The concentric phase (ascent)",
+      "The eccentric phase (descent)",
+      "Both cause the same amount"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q308",
+    "facto_id": "f308",
+    "pergunta": "Where does creatine primarily retain water?",
+    "opcoes": [
+      "Under the skin (bloating)",
+      "Inside the muscle cell",
+      "In the kidneys and liver",
+      "In the bloodstream"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q309",
+    "facto_id": "f309",
+    "pergunta": "What is the main hormonal advantage of compound exercises?",
+    "opcoes": [
+      "They release more growth hormone",
+      "They lower testosterone levels",
+      "They inhibit adrenaline production",
+      "They eliminate lactic acid"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q310",
+    "facto_id": "f310",
+    "pergunta": "What happens when you train very close to muscle failure?",
+    "opcoes": [
+      "Muscle destruction",
+      "You only gain endurance",
+      "You exert less force in the following session",
+      "You recruit 100% of muscle fibers"
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "q311",
+    "facto_id": "f311",
+    "pergunta": "By what percentage can the Mind-Muscle connection increase muscle fiber activation?",
+    "opcoes": [
+      "It does not change anything",
+      "Up to 5%",
+      "Up to 20%",
+      "About 80%"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q312",
+    "facto_id": "f312",
+    "pergunta": "Which hormone can start destroying muscle tissue during excessively long workouts?",
+    "opcoes": [
+      "Insulin",
+      "Cortisol",
+      "Adrenaline",
+      "Dopamine"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q313",
+    "facto_id": "f313",
+    "pergunta": "Why is it dangerous to increase training loads too quickly?",
+    "opcoes": [
+      "The muscles cannot handle it",
+      "The heart rate increases",
+      "Tendons adapt more slowly",
+      "It causes insomnia"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q314",
+    "facto_id": "f314",
+    "pergunta": "Generally, 8 to 12 repetitions is a number focused on which goal?",
+    "opcoes": [
+      "Pure neurological strength",
+      "Cardiovascular endurance",
+      "Warm-up only",
+      "Muscular hypertrophy"
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "q315",
+    "facto_id": "f315",
+    "pergunta": "A 3% dehydration can affect strength in the gym by up to how much?",
+    "opcoes": [
+      "10%",
+      "It does not affect it",
+      "50%",
+      "It only affects breathing"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q316",
+    "facto_id": "f316",
+    "pergunta": "How much time does the body usually need to rebuild a muscle group?",
+    "opcoes": [
+      "12 hours",
+      "48 to 72 hours",
+      "Only sleep time",
+      "More than a week"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q317",
+    "facto_id": "f317",
+    "pergunta": "What is the best equipment to correct strength imbalances?",
+    "opcoes": [
+      "Straight bar",
+      "Guided machines",
+      "Dumbbells",
+      "Light resistance bands"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q318",
+    "facto_id": "f318",
+    "pergunta": "What does warming up do to your joints?",
+    "opcoes": [
+      "Cools them down",
+      "Increases the temperature of the synovial fluid",
+      "Immobilizes the bones",
+      "Reduces local blood flow"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q319",
+    "facto_id": "f319",
+    "pergunta": "What is the daily protein recommendation per kilogram to gain muscle?",
+    "opcoes": [
+      "Less than 1g",
+      "0.5g",
+      "Between 1.6g to 2.2g",
+      "Exactly 5g"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q320",
+    "facto_id": "f320",
+    "pergunta": "Sleeping less than 6 hours reduces testosterone levels by how much?",
+    "opcoes": [
+      "5%",
+      "Up to 15%",
+      "More than 50%",
+      "Sleep does not affect hormones"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q321",
+    "facto_id": "f321",
+    "pergunta": "What is the absolute biological rule for losing weight?",
+    "opcoes": [
+      "Cut out carbohydrates",
+      "Be in a Caloric Deficit",
+      "Do intermittent fasting",
+      "Do not eat after 6 PM"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q322",
+    "facto_id": "f322",
+    "pergunta": "What burns the most calories daily in your body (after basal metabolism)?",
+    "opcoes": [
+      "One hour of weight training",
+      "Two hours on the treadmill",
+      "NEAT (Non-Exercise Activity Thermogenesis)",
+      "Doing crunches"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q323",
+    "facto_id": "f323",
+    "pergunta": "What can happen if you drink 500ml of water before a meal?",
+    "opcoes": [
+      "Metabolism increases by up to 30% in the following hour",
+      "Increases fat absorption",
+      "The stomach dilates",
+      "Digestion becomes impossible"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q324",
+    "facto_id": "f324",
+    "pergunta": "Which macronutrient has the highest thermic effect of digestion?",
+    "opcoes": [
+      "Fat",
+      "Sugar",
+      "Protein",
+      "Insoluble fiber"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q325",
+    "facto_id": "f325",
+    "pergunta": "How does weight training behave in terms of caloric expenditure compared to cardio?",
+    "opcoes": [
+      "Burns triple during the workout",
+      "Does not burn calories",
+      "Maintains caloric burn in the post-workout period",
+      "Transforms calories into water"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q326",
+    "facto_id": "f326",
+    "pergunta": "How do hormones react when sleeping little?",
+    "opcoes": [
+      "Ghrelin rises (more hunger) and leptin falls",
+      "Satiety increases",
+      "Hormones stabilize completely",
+      "The body produces more testosterone"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q327",
+    "facto_id": "f327",
+    "pergunta": "Why can't you burn fat only on your belly?",
+    "opcoes": [
+      "Because it requires special belts",
+      "Fat loss occurs systemically",
+      "Crunches do not burn energy",
+      "Belly fat is invincible"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q328",
+    "facto_id": "f328",
+    "pergunta": "What does focusing on 'Caloric Density' mean?",
+    "opcoes": [
+      "Eating heavy foods",
+      "Prioritizing foods with high volume and low calories",
+      "Focusing only on liquids",
+      "Measuring blood sugar"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q329",
+    "facto_id": "f329",
+    "pergunta": "The scale went up 1kg from yesterday to today. What is most likely?",
+    "opcoes": [
+      "You gained 1kg of pure fat",
+      "It is just fluid retention or intestinal content",
+      "Your metabolism suddenly stopped",
+      "You gained weight permanently"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q330",
+    "facto_id": "f330",
+    "pergunta": "What is the main function of soluble fibers in weight loss?",
+    "opcoes": [
+      "Cut calories from food",
+      "Slow down digestion and stabilize insulin",
+      "Kill fat cells",
+      "Increase carbohydrates"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q331",
+    "facto_id": "f331",
+    "pergunta": "What is the main psychological disadvantage of zero-calorie sweeteners?",
+    "opcoes": [
+      "They cause immediate weight gain",
+      "They cause the retention of 5 liters of water",
+      "They keep the palate addicted to very sweet flavors",
+      "They reduce the size of the stomach"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q332",
+    "facto_id": "f332",
+    "pergunta": "How does the body react to alcohol during fat burning?",
+    "opcoes": [
+      "Accelerates basal metabolism",
+      "Transforms alcohol into muscle",
+      "Interrupts fat burning to eliminate it",
+      "Improves protein absorption"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q333",
+    "facto_id": "f333",
+    "pergunta": "What causes chronically high cortisol (stress/lack of rest)?",
+    "opcoes": [
+      "Promotes water retention and fat gain",
+      "Makes the body lose weight rapidly",
+      "Increases immunity",
+      "Has no effect at all"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q334",
+    "facto_id": "f334",
+    "pergunta": "Which organ is responsible for the true 'Detox' in your body?",
+    "opcoes": [
+      "The pancreas",
+      "The lungs and skin",
+      "The liver and kidneys",
+      "The stomach"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q335",
+    "facto_id": "f335",
+    "pergunta": "How long does it take for the brain to register that you are full (satiety)?",
+    "opcoes": [
+      "Approximately 20 minutes",
+      "Less than 2 minutes",
+      "The second you start eating",
+      "It takes 1 hour"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q336",
+    "facto_id": "f336",
+    "pergunta": "What is, in reality, the most common cause of so-called 'slow metabolism'?",
+    "opcoes": [
+      "Advanced age",
+      "Genetics",
+      "Lack of daily physical activity (low NEAT)",
+      "Drinking cold water"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q337",
+    "facto_id": "f337",
+    "pergunta": "Why are 'liquid calories' dangerous in a diet?",
+    "opcoes": [
+      "The brain does not register them and they do not generate satiety",
+      "They have triple the weight",
+      "Liquid sugar is impossible to digest",
+      "They evaporate and cause thirst"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q338",
+    "facto_id": "f338",
+    "pergunta": "Why is eating healthy fat in your diet important?",
+    "opcoes": [
+      "To generate acne",
+      "Hormonal regulation and satiety",
+      "To accumulate fat in the legs",
+      "To hydrate the nails only"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q339",
+    "facto_id": "f339",
+    "pergunta": "What happens if you severely overdo a 'Cheat Day'?",
+    "opcoes": [
+      "The body does not absorb those calories",
+      "It accelerates weight loss the next day",
+      "You can cancel out the entire week's caloric deficit",
+      "It creates immediate muscle"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q340",
+    "facto_id": "f340",
+    "pergunta": "Why is fructose from whole pieces of fruit not a weight-gain problem?",
+    "opcoes": [
+      "The body rejects fruit sugar",
+      "The fiber present slows down its absorption",
+      "Fruits are composed of 100% water",
+      "It is digested only in the liver"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q341",
+    "facto_id": "f341",
+    "pergunta": "What is the main difference between motivation and discipline?",
+    "opcoes": [
+      "Discipline is an emotion",
+      "Motivation is a feeling, discipline is a daily system",
+      "Motivation never disappears",
+      "Both are exactly the same thing"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q342",
+    "facto_id": "f342",
+    "pergunta": "According to the 5 Second Rule, what does the brain do if you don't act right away?",
+    "opcoes": [
+      "Encourages you to continue",
+      "Ignores you completely",
+      "Kills the idea to protect you from effort",
+      "Saves the idea for the next day"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q343",
+    "facto_id": "f343",
+    "pergunta": "What are 'Atomic Habits'?",
+    "opcoes": [
+      "Gigantic habits focused on explosive growth",
+      "Tiny goals so easy that consistency is guaranteed",
+      "Actions done only once a month",
+      "Meditating for hours at a time"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q344",
+    "facto_id": "f344",
+    "pergunta": "What do we frequently ignore when we are afraid of failing at trying something new?",
+    "opcoes": [
+      "The risk of investing",
+      "What people will say",
+      "The long-term cost of doing nothing",
+      "Sleep time"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q345",
+    "facto_id": "f345",
+    "pergunta": "What characterizes a 'Growth Mindset' when facing an error?",
+    "opcoes": [
+      "A deep feeling of humiliation",
+      "Immediately looking for someone to blame",
+      "Giving up on the task because it is impossible",
+      "Viewing the error as feedback to adjust the strategy"
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "q346",
+    "facto_id": "f346",
+    "pergunta": "To create or break a habit, which is usually stronger: the environment or willpower?",
+    "opcoes": [
+      "The environment around you has much more impact",
+      "Willpower always wins 100%",
+      "Both have zero influence on the brain",
+      "Habits are purely genetic"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q347",
+    "facto_id": "f347",
+    "pergunta": "Why should you focus on the process instead of the final goal?",
+    "opcoes": [
+      "Because goals are useless",
+      "Focusing on the end causes a lot of anxiety",
+      "The process requires no effort at all",
+      "To forget what you want"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q348",
+    "facto_id": "f348",
+    "pergunta": "The statement 'I am a runner' instead of 'I will try to run' focuses on what?",
+    "opcoes": [
+      "Lying to your own brain",
+      "Changing your core identity instead of just focusing on the action",
+      "Demonstrating arrogance in front of friends",
+      "The equipment you use"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q349",
+    "facto_id": "f349",
+    "pergunta": "What does the Pareto Principle postulate in a productive context?",
+    "opcoes": [
+      "100% of the results come from 100% of the effort",
+      "Only 1% of your actions have an impact",
+      "About 80% of the results derive from 20% of your crucial actions",
+      "Everything is pure luck"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q350",
+    "facto_id": "f350",
+    "pergunta": "What is the danger of 'cheap dopamine' from mobile phone screens?",
+    "opcoes": [
+      "It makes the screen darker",
+      "It makes you gain weight instantly",
+      "It generates rewards without effort, demotivating you from difficult tasks",
+      "It improves concentration on studies"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q351",
+    "facto_id": "f351",
+    "pergunta": "Adding the word 'yet' to a limitation of yours (e.g., I can't do it, yet) triggers what?",
+    "opcoes": [
+      "Opens a psychological door to continuous learning",
+      "Makes you accept defeat permanently",
+      "Slows down the mental process",
+      "Causes delusions of grandeur"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q352",
+    "facto_id": "f352",
+    "pergunta": "Mental visualization works much better when you imagine what?",
+    "opcoes": [
+      "Only what it will be like to win the medal",
+      "Images of your plate of food",
+      "The obstacles that will come and the plan to overcome them",
+      "Visualizing others failing"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q353",
+    "facto_id": "f353",
+    "pergunta": "Who is the only person you should healthily compare yourself to?",
+    "opcoes": [
+      "Your sports idol",
+      "Yourself in your version from yesterday",
+      "Your gym partners",
+      "People on social media"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q354",
+    "facto_id": "f354",
+    "pergunta": "What is the danger highlighted by the 'Never miss twice' rule?",
+    "opcoes": [
+      "Missing twice doubles caloric expenditure",
+      "The second miss marks the beginning of creating a new (and bad) habit",
+      "A second failure destroys muscle cells",
+      "Two failures are impossible"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q355",
+    "facto_id": "f355",
+    "pergunta": "How can we use the Zeigarnik Effect to combat procrastination?",
+    "opcoes": [
+      "By forcing yourself to work for only 2 minutes to create the urgency to finish",
+      "By sleeping before starting the task",
+      "By thinking about something completely different",
+      "By reading a book until the end"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q356",
+    "facto_id": "f356",
+    "pergunta": "What does it mean to plateau in training or weight loss?",
+    "opcoes": [
+      "It is proof that genetics have failed",
+      "It is the biological signal to give up on the diet and training",
+      "It is the moment when the body is sick",
+      "The body has adapted and it is time to change the strategy and the stimulus"
+    ],
+    "resposta_correta": 3
+  },
+  {
+    "id": "q357",
+    "facto_id": "f357",
+    "pergunta": "Why is energy management more important than time management?",
+    "opcoes": [
+      "Because time moves backwards",
+      "Having plenty of time is useless if you are too tired to produce or train well",
+      "Because the clock is an illusion",
+      "For companies to sell caffeine"
+    ],
+    "resposta_correta": 1
+  },
+  {
+    "id": "q358",
+    "facto_id": "f358",
+    "pergunta": "Why have a 'Strong Why' before starting something difficult?",
+    "opcoes": [
+      "Helps write the training plan faster",
+      "Prevents the body from sweating excessively",
+      "Deep motivation makes you endure any technical challenge",
+      "It only serves self-help books"
+    ],
+    "resposta_correta": 2
+  },
+  {
+    "id": "q359",
+    "facto_id": "f359",
+    "pergunta": "At what stage of learning is it most common for people to give up?",
+    "opcoes": [
+      "The 'beginner' stage where it is frustrating but where you grow the most",
+      "Master stage",
+      "The day before the competition",
+      "During the maintenance phase"
+    ],
+    "resposta_correta": 0
+  },
+  {
+    "id": "q360",
+    "facto_id": "f360",
+    "pergunta": "Being overly critical and hard on yourself (lack of self-compassion) usually leads to what?",
+    "opcoes": [
+      "Extreme stress and eventual abandonment of the process",
+      "Achieving results three times faster",
+      "Becoming an Olympic athlete in a month",
+      "A direct increase in the level of discipline and continuous motivation"
+    ],
+    "resposta_correta": 0
+  }
+]

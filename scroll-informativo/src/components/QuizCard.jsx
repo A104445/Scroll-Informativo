@@ -1,18 +1,21 @@
 import { useState } from 'react';
+import { useTranslation } from 'react-i18next';
 
-export default function QuizCard({ perguntaObj, onResponder }) {
+export default function QuizCard({ perguntaObj, onResponder, categoria }) {
   const [respondido, setRespondido] = useState(false);
   const [opcaoEscolhida, setOpcaoEscolhida] = useState(null);
+  const { t } = useTranslation();
+
+  const chaveCategoria = categoria ? 'tema_' + categoria.replace(/\s+/g, '_') : '';
+  const categoriaTraduzida = t(chaveCategoria, categoria);
 
   const lidarComResposta = (index) => {
-    if (respondido) return; // Impede que o utilizador responda duas vezes
-    
+    if (respondido) return; 
     setRespondido(true);
     setOpcaoEscolhida(index);
     
     const acertou = index === perguntaObj.resposta_correta;
     
-    // Avisamos a app se ele acertou ou falhou, após 1 segundo (para ele ver a cor primeiro)
     setTimeout(() => {
       onResponder(acertou);
     }, 1200);
@@ -22,7 +25,7 @@ export default function QuizCard({ perguntaObj, onResponder }) {
     <div className="cartao quiz-card" style={{ backgroundColor: '#1e293b', color: 'white' }}>
       <div className="cartao-header">
         <span className="categoria-tag" style={{ backgroundColor: '#3b82f6', color: 'white' }}>
-          🧠 Desafio de Memória
+            🧠 {t('quiz', 'Quiz')}: {categoriaTraduzida}
         </span>
       </div>
       
@@ -30,7 +33,6 @@ export default function QuizCard({ perguntaObj, onResponder }) {
       
       <div className="opcoes-quiz">
         {perguntaObj.opcoes.map((opcao, index) => {
-          // Lógica para pintar o botão de verde (certo) ou vermelho (errado) após responder
           let classeBotao = 'btn-opcao';
           if (respondido) {
             if (index === perguntaObj.resposta_correta) {
@@ -39,7 +41,6 @@ export default function QuizCard({ perguntaObj, onResponder }) {
               classeBotao += ' errada';
             }
           }
-
           return (
             <button 
               key={index} 
