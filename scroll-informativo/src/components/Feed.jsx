@@ -22,12 +22,10 @@ export default function Feed({ itensMistos, favoritos, alternarFavorito, irParaD
         <div className="mensagem-vazio">
           <h2>{t('nada_aqui', 'Nada por aqui...')}</h2>
           <p>{t('sem_filtros', 'Não há cartões que correspondam aos teus filtros.')}</p>
-          <button className="btn-primario" onClick={irParaDefinicoes}>{t('mudar_temas', 'Mudar Temas')}</button>
         </div>
       </div>
     );
   }
-
   return (
     <main className="feed">
       <Virtuoso

@@ -32,6 +32,27 @@ const resources = {
       "mistura_total": "Total Mix",
       "quiz": "Quiz",
 
+      "nav_feed": "Feed",
+      "nav_favoritos": "Saved",
+      "nav_jardim": "Garden",
+      "nav_loja": "Shop",
+      "nav_conquistas": "Trophies",
+      "nav_definicoes": "Settings",
+      "ajuda_titulo": "What is InfoScroll?",
+      "ajuda_texto": "InfoScroll is your micro-learning ecosystem. Swipe through fascinating facts across dozens of categories, test your memory with quick quizzes, earn XP, and plant/customize your digital garden as you learn every day!",
+      "ajuda_feed_titulo": "Feed of Facts",
+      "ajuda_feed_texto": "Swipe vertically through fascinating facts. Click the heart to save them, read them carefully to earn XP, and look out for interactive quizzes along the way!",
+      "ajuda_favoritos_titulo": "Saved Facts",
+      "ajuda_favoritos_texto": "Here you can find all the facts you marked with a heart while browsing the feed. Perfect for quick reviews!",
+      "ajuda_jardim_titulo": "Your Garden",
+      "ajuda_jardim_texto": "Every category has its own living tree that grows as you gain XP. Click on any tree to inspect it closely, and check your daily/weekly missions below.",
+      "ajuda_loja_titulo": "Tree Shop",
+      "ajuda_loja_texto": "Use the seeds you earned from reading and quizzes to buy unique ecosystem decorations like flowers, birds, and swings for your trees.",
+      "ajuda_conquistas_titulo": "Trophy Gallery",
+      "ajuda_conquistas_texto": "Explore all available achievements and medals. Keep reading, maintaining your streak, and leveling up to unlock them all!",
+      "ajuda_definicoes_titulo": "Settings & Filters",
+      "ajuda_definicoes_texto": "Change your app language, toggle dark/light themes, or filter the feed to show only the specific categories you want to learn about.",
+      
       // --- TEMAS DO FEED ---
       "tema_programacao": "Programming",
       "tema_tecnologia": "Technology",
@@ -265,6 +286,27 @@ const resources = {
       "mistura_total": "Mistura Total",
       "quiz": "Quiz",
 
+      "nav_feed": "Feed",
+      "nav_favoritos": "Guardados",
+      "nav_jardim": "Jardim",
+      "nav_loja": "Loja",
+      "nav_conquistas": "Troféus",
+      "nav_definicoes": "Definições",
+      "ajuda_titulo": "O que é o InfoScroll?",
+      "ajuda_texto": "O InfoScroll é o teu ecossistema de micro-aprendizagem. Explora factos fascinantes de várias categorias, testa a memória com quizzes rápidos, ganha XP e planta/personaliza o teu jardim digital enquanto aprendes todos os dias!",
+      "ajuda_feed_titulo": "Feed de Factos",
+      "ajuda_feed_texto": "Faz swipe na vertical pelos factos fascinantes. Clica no coração para os guardar, lê com atenção para ganhar XP e fica atento aos quizzes interativos pelo caminho!",
+      "ajuda_favoritos_titulo": "Factos Guardados",
+      "ajuda_favoritos_texto": "Aqui encontras todos os factos que marcaste com um coração enquanto exploravas o feed. Perfeito para revisões rápidas!",
+      "ajuda_jardim_titulo": "O Teu Jardim",
+      "ajuda_jardim_texto": "Cada categoria tem a sua própria árvore viva que cresce à medida que ganhas XP. Clica numa árvore para a inspecionar de perto e consulta as missões diárias/semanais em baixo.",
+      "ajuda_loja_titulo": "Loja da Árvore",
+      "ajuda_loja_texto": "Usa as sementes que ganhaste a ler e nos quizzes para comprar decorações únicas para o teu ecossistema, como flores, pássaros e baloiços.",
+      "ajuda_conquistas_titulo": "Galeria de Troféus",
+      "ajuda_conquistas_texto": "Explora todas as conquistas e medalhas disponíveis. Continua a ler, a manter a tua streak e a subir de nível para as desbloquear todas!",
+      "ajuda_definicoes_titulo": "Definições e Filtros",
+      "ajuda_definicoes_texto": "Altera o idioma da aplicação, muda os temas ou filtra o feed para mostrar apenas as categorias específicas sobre as quais queres aprender.",
+
       // --- TEMAS DO FEED ---
       "tema_programacao": "Programação",
       "tema_tecnologia": "Tecnologia",
@@ -477,6 +519,7 @@ i18n
   .init({
     resources,
     fallbackLng: 'en',
+    lng: 'en',
     interpolation: { escapeValue: false }
   });
 

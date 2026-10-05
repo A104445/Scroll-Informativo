@@ -24,7 +24,7 @@ export default function Evolucao({ progresso, nivel, temaMatrix, setTemaMatrix }
   return (
     <div className="definicoes-container" style={{ position: 'relative' }}>
       <div className="cabecalho-evolucao" style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginBottom: '20px' }}>
-        <h2 style={{ fontSize: '24px', margin: 0 }}>{t('teu_jardim', 'O Teu Jardim')}</h2>
+        <h2 style={{ fontSize: '24px', margin: 0 }}>🌲 {t('teu_jardim', 'O Teu Jardim')}</h2>
         <div className="badge-nivel" style={{ background: 'var(--primary)', color: 'white', padding: '6px 12px', borderRadius: '20px', fontWeight: 'bold' }}>
           {t('nivel', 'Nível')} {nivel}
         </div>
@@ -43,7 +43,7 @@ export default function Evolucao({ progresso, nivel, temaMatrix, setTemaMatrix }
         </p>
       </div>
 
-      <h3 style={{ marginBottom: '15px', borderBottom: '2px solid var(--border)', paddingBottom: '10px' }}>🌱 {t('especies', 'Espécies Plantadas')}</h3>
+      <h3 style={{ marginBottom: '15px', borderBottom: '2px solid var(--border)', paddingBottom: '10px' }}>{t('especies', 'Espécies Plantadas')}</h3>
 
       {listaArvores.length === 0 ? (
         <div style={{ textAlign: 'center', padding: '40px 20px', background: 'var(--bg-card)', borderRadius: '16px' }}>

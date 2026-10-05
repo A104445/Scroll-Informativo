@@ -19,7 +19,7 @@ export default function Loja({ progresso, setProgresso }) {
     <div className="definicoes-container">
       <div className="cabecalho-loja" style={{ marginBottom: '24px' }}>
         <h2 style={{ fontSize: '28px', margin: '0 0 8px 0', color: 'var(--text-primary)' }}>
-          🌲 {t('loja_arvore', 'Loja da Árvore')}
+          🛒 {t('loja_arvore', 'Loja da Árvore')}
         </h2>
         <p style={{ color: 'var(--text-secondary)', fontSize: '15px', margin: '0 0 16px 0' }}>
           {t('usa_sementes', 'Usa as tuas sementes para personalizar o teu ecossistema.')}

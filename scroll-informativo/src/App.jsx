@@ -13,6 +13,8 @@ import Settings from './components/Settings';
 import Evolucao from './components/Evolucao';
 import Conquistas from './components/Conquistas';
 import Loja from './components/Loja';
+// import BotaoAjuda from './components/BotaoAjuda';
+import AjudaContextual from './components/AjudaContextual';
 import './App.css';
 
 const baralharArray = (array) => {
@@ -27,7 +29,7 @@ const baralharArray = (array) => {
 // Removemos o "todosOsFactos" daqui de fora para que ele reaja à mudança de idioma
 
 function App() {
-  const { i18n } = useTranslation();
+  const { i18n, t } = useTranslation();
   const [tabAtiva, setTabAtiva] = useState('feed'); 
   const [temaMatrix, setTemaMatrix] = useState(false);
 
@@ -248,6 +250,10 @@ function App() {
 
   return (
     <div className={`app-container ${temaMatrix ? 'tema-matrix' : ''}`}>
+      
+      {/* Botão de ajuda dinâmico consoante a aba */}
+      <AjudaContextual tabAtiva={tabAtiva} />
+      
       {(tabAtiva === 'feed' || tabAtiva === 'favoritos') && (
         <div className="hud-gamificacao">
           <div className="hud-item sementes" style={{borderColor: '#f59e0b', color: '#b45309'}}>🌱 {progresso.sementes || 0}</div>
@@ -256,24 +262,41 @@ function App() {
         </div>
       )}
 
-      <div className="conteudo-principal">
-        {(tabAtiva === 'feed' || tabAtiva === 'favoritos') && (
+<div className="conteudo-principal">
+        {(tabAtiva === 'feed') && (
           <Feed 
-            itensMistos={feedMisto} 
-            favoritos={favoritos} 
-            alternarFavorito={alternarFavorito} 
-            onLerFacto={handleLerFacto} 
-            onResponderQuiz={handleResponderQuiz} 
+            itensMistos={feedMisto}
+            favoritos={favoritos}
+            alternarFavorito={alternarFavorito}
+            onLerFacto={handleLerFacto}
+            onResponderQuiz={handleResponderQuiz}
             indiceGuardado={indiceFeedGuardado}
             setIndiceGuardado={setIndiceFeedGuardado}
           />
         )}
-        
-        {tabAtiva === 'favoritos' && feedMisto.length === 0 && (
-          <div className="mensagem-vazio">
-            <h2>Sem Guardados ❤️</h2>
-            <p>Clica no coração de um facto e ele aparecerá aqui.</p>
-          </div>
+
+        {tabAtiva === 'favoritos' && (
+          feedMisto.length === 0 ? (
+            <div className="mensagem-vazio" style={{ textAlign: 'center', padding: '60px 20px', display: 'flex', flexDirection: 'column', justifyContent: 'center', height: '100%' }}>
+              <span style={{ fontSize: '48px', marginBottom: '16px' }}>❤️</span>
+              <h2 style={{ fontSize: '22px', margin: '0 0 8px 0', color: 'var(--text-primary)' }}>
+                {t('sem_guardados', 'Ainda não tens favoritos')}
+              </h2>
+              <p style={{ fontSize: '15px', color: 'var(--text-secondary)', margin: 0 }}>
+                {t('clica_coracao', 'Tens de adicionar factos aos favoritos no feed para os veres aqui.')}
+              </p>
+            </div>
+          ) : (
+            <Feed 
+              itensMistos={feedMisto}
+              favoritos={favoritos}
+              alternarFavorito={alternarFavorito}
+              onLerFacto={handleLerFacto}
+              onResponderQuiz={handleResponderQuiz}
+              indiceGuardado={indiceFeedGuardado}
+              setIndiceGuardado={setIndiceFeedGuardado}
+            />
+          )
         )}
 
         {tabAtiva === 'conquistas' && <Conquistas progresso={progresso} nivel={nivel} />}
@@ -290,13 +313,35 @@ function App() {
         )}
       </div>
 
+      {/* Botão de ajuda no canto superior */}
+      {/* <BotaoAjuda /> */}
+
+      {/* Barra de Navegação Inferior com Legendas */}
       <nav className="bottom-nav">
-        <button className={`nav-item ${tabAtiva === 'feed' ? 'ativo' : ''}`} onClick={() => setTabAtiva('feed')}><span className="nav-icone">🏠</span></button>
-        <button className={`nav-item ${tabAtiva === 'conquistas' ? 'ativo' : ''}`} onClick={() => setTabAtiva('conquistas')}><span className="nav-icone">🏆</span></button>
-        <button className={`nav-item ${tabAtiva === 'evolucao' ? 'ativo' : ''}`} onClick={() => setTabAtiva('evolucao')}><span className="nav-icone">🌱</span></button>
-        <button className={`nav-item ${tabAtiva === 'loja' ? 'ativo' : ''}`} onClick={() => setTabAtiva('loja')}><span className="nav-icone">🏪</span></button>
-        <button className={`nav-item ${tabAtiva === 'favoritos' ? 'ativo' : ''}`} onClick={() => setTabAtiva('favoritos')}><span className="nav-icone">❤️</span></button>
-        <button className={`nav-item ${tabAtiva === 'categorias' ? 'ativo' : ''}`} onClick={() => setTabAtiva('categorias')}><span className="nav-icone">📔</span></button>
+        <button className={`nav-item ${tabAtiva === 'feed' ? 'ativo' : ''}`} onClick={() => setTabAtiva('feed')}>
+          <span className="nav-icone">📚</span>
+          <span className="nav-texto">{t('nav_feed', 'Feed')}</span>
+        </button>
+        <button className={`nav-item ${tabAtiva === 'conquistas' ? 'ativo' : ''}`} onClick={() => setTabAtiva('conquistas')}>
+          <span className="nav-icone">🏆</span>
+          <span className="nav-texto">{t('nav_conquistas', 'Trophies')}</span>
+        </button>
+        <button className={`nav-item ${tabAtiva === 'evolucao' ? 'ativo' : ''}`} onClick={() => setTabAtiva('evolucao')}>
+          <span className="nav-icone">🌲</span>
+          <span className="nav-texto">{t('nav_jardim', 'Garden')}</span>
+        </button>
+        <button className={`nav-item ${tabAtiva === 'loja' ? 'ativo' : ''}`} onClick={() => setTabAtiva('loja')}>
+          <span className="nav-icone">🛒</span>
+          <span className="nav-texto">{t('nav_loja', 'Shop')}</span>
+        </button>
+        <button className={`nav-item ${tabAtiva === 'favoritos' ? 'ativo' : ''}`} onClick={() => setTabAtiva('favoritos')}>
+          <span className="nav-icone">❤️️</span>
+          <span className="nav-texto">{t('nav_favoritos', 'Saved')}</span>
+        </button>
+        <button className={`nav-item ${tabAtiva === 'categorias' ? 'ativo' : ''}`} onClick={() => setTabAtiva('categorias')}>
+          <span className="nav-icone">⚙️</span>
+          <span className="nav-texto">{t('nav_definicoes', 'Settings')}</span>
+        </button>
       </nav>
     </div>
   );
