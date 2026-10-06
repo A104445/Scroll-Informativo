@@ -15,6 +15,7 @@ import Conquistas from './components/Conquistas';
 import Loja from './components/Loja';
 // import BotaoAjuda from './components/BotaoAjuda';
 import AjudaContextual from './components/AjudaContextual';
+import Onboarding from './components/Onboarding';
 import './App.css';
 
 const baralharArray = (array) => {
@@ -37,14 +38,21 @@ function App() {
   const baseAtual = i18n.language.startsWith('pt') ? factosPT : factosEN;
   const perguntasAtuais = i18n.language.startsWith('pt') ? perguntasPT : perguntasEN;
 
-  const todosOsFactos = useMemo(() => baralharArray(baseAtual), [baseAtual]);
+
+  const [refreshFila, setRefreshFila] = useState(0);
+
+  const atualizarFeed = () => {
+    setRefreshFila(prev => prev + 1);
+    setIndiceFeedGuardado(0);
+  };
+
+  const todosOsFactos = useMemo(() => baralharArray(baseAtual), [baseAtual, refreshFila]);
   const categoriasDisponiveis = useMemo(() => {
     return [...new Set(baseAtual.map(c => c.categoria))].sort();
   }, [baseAtual]);
 
   // ESTADO DE PROGRESSO (O TEU CÓDIGO CONTINUA DAQUI PARA BAIXO)
   const [progresso, setProgresso] = useState(() => {
-  // ...
     const guardado = localStorage.getItem('infoscroll-progresso');
     const defaultProgresso = { 
       xp_total: 0, 
@@ -81,6 +89,12 @@ function App() {
     }
     
     return defaultProgresso;
+  });
+
+
+  // Verifica se é a primeira vez (0 factos lidos)
+  const [mostrarOnboarding, setMostrarOnboarding] = useState(() => {
+    return progresso.lidos.length === 0;
   });
 
   const [categoriasAtivas, setCategoriasAtivas] = useState(() => {
@@ -251,9 +265,47 @@ function App() {
   return (
     <div className={`app-container ${temaMatrix ? 'tema-matrix' : ''}`}>
       
+      {/* Ecrã de Boas-Vindas para Novos Utilizadores */}
+      {mostrarOnboarding && (
+        <Onboarding onComecar={() => setMostrarOnboarding(false)} />
+      )}
+
       {/* Botão de ajuda dinâmico consoante a aba */}
       <AjudaContextual tabAtiva={tabAtiva} />
       
+      {/* NOVO: Botão de Refresh Flutuante no Feed e Favoritos */}
+      {(tabAtiva === 'feed' || tabAtiva === 'favoritos') && (
+        <button 
+          onClick={atualizarFeed}
+          style={{
+            position: 'absolute',
+            top: '60px',
+            left: '16px',
+            width: '36px',
+            height: '36px',
+            borderRadius: '50%',
+            background: 'var(--bg-card)',
+            border: '1px solid var(--border)',
+            color: 'var(--text-secondary)',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            cursor: 'pointer',
+            zIndex: 100,
+            boxShadow: '0 2px 8px rgba(0,0,0,0.1)',
+            transition: 'transform 0.2s'
+          }}
+          onMouseDown={(e) => e.currentTarget.style.transform = 'scale(0.9)'}
+          onMouseUp={(e) => e.currentTarget.style.transform = 'scale(1)'}
+          title="Refresh"
+        >
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+            <polyline points="23 4 23 10 17 10"></polyline>
+            <path d="M20.49 15a9 9 0 1 1-2.12-9.36L23 10"></path>
+          </svg>
+        </button>
+      )}
+
       {(tabAtiva === 'feed' || tabAtiva === 'favoritos') && (
         <div className="hud-gamificacao">
           <div className="hud-item sementes" style={{borderColor: '#f59e0b', color: '#b45309'}}>🌱 {progresso.sementes || 0}</div>
@@ -265,6 +317,7 @@ function App() {
 <div className="conteudo-principal">
         {(tabAtiva === 'feed') && (
           <Feed 
+            key={`feed-${refreshFila}`}
             itensMistos={feedMisto}
             favoritos={favoritos}
             alternarFavorito={alternarFavorito}
@@ -288,6 +341,7 @@ function App() {
             </div>
           ) : (
             <Feed 
+              key={`favoritos-${refreshFila}`}
               itensMistos={feedMisto}
               favoritos={favoritos}
               alternarFavorito={alternarFavorito}
@@ -318,7 +372,16 @@ function App() {
 
       {/* Barra de Navegação Inferior com Legendas */}
       <nav className="bottom-nav">
-        <button className={`nav-item ${tabAtiva === 'feed' ? 'ativo' : ''}`} onClick={() => setTabAtiva('feed')}>
+      <button 
+          className={`nav-item ${tabAtiva === 'feed' ? 'ativo' : ''}`} 
+          onClick={() => {
+            if (tabAtiva === 'feed') {
+              atualizarFeed(); // Atualiza se já lá estiver
+            } else {
+              setTabAtiva('feed'); // Muda de aba se estiver noutra
+            }
+          }}
+        >
           <span className="nav-icone">📚</span>
           <span className="nav-texto">{t('nav_feed', 'Feed')}</span>
         </button>
@@ -334,7 +397,16 @@ function App() {
           <span className="nav-icone">🛒</span>
           <span className="nav-texto">{t('nav_loja', 'Shop')}</span>
         </button>
-        <button className={`nav-item ${tabAtiva === 'favoritos' ? 'ativo' : ''}`} onClick={() => setTabAtiva('favoritos')}>
+        <button 
+          className={`nav-item ${tabAtiva === 'favoritos' ? 'ativo' : ''}`} 
+          onClick={() => {
+            if (tabAtiva === 'favoritos') {
+              atualizarFeed();
+            } else {
+              setTabAtiva('favoritos');
+            }
+          }}
+        >
           <span className="nav-icone">❤️️</span>
           <span className="nav-texto">{t('nav_favoritos', 'Saved')}</span>
         </button>

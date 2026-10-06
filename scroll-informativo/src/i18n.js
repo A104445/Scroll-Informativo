@@ -53,6 +53,10 @@ const resources = {
       "ajuda_definicoes_titulo": "Settings & Filters",
       "ajuda_definicoes_texto": "Change your app language, toggle dark/light themes, or filter the feed to show only the specific categories you want to learn about.",
       
+      "onboarding_titulo": "Welcome to InfoScroll! 🌱",
+      "onboarding_texto": "Swipe vertically to discover fascinating facts. Test your knowledge with quizzes, earn XP, and grow your digital garden!",
+      "onboarding_botao": "Start Exploring",
+
       // --- TEMAS DO FEED ---
       "tema_programacao": "Programming",
       "tema_tecnologia": "Technology",
@@ -306,6 +310,10 @@ const resources = {
       "ajuda_conquistas_texto": "Explora todas as conquistas e medalhas disponíveis. Continua a ler, a manter a tua streak e a subir de nível para as desbloquear todas!",
       "ajuda_definicoes_titulo": "Definições e Filtros",
       "ajuda_definicoes_texto": "Altera o idioma da aplicação, muda os temas ou filtra o feed para mostrar apenas as categorias específicas sobre as quais queres aprender.",
+
+      "onboarding_titulo": "Bem-vindo ao InfoScroll! 🌱",
+      "onboarding_texto": "Faz swipe na vertical para descobrir factos fascinantes. Testa o teu conhecimento com quizzes, ganha XP e cultiva o teu jardim digital!",
+      "onboarding_botao": "Começar a Explorar",
 
       // --- TEMAS DO FEED ---
       "tema_programacao": "Programação",
