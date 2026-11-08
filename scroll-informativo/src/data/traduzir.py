@@ -4,7 +4,7 @@ import os
 import google.generativeai as genai
 
 # 1. Coloca aqui a tua chave do Google AI Studio
-genai.configure(api_key="AQ.Ab8RN6Imd6NxIt358LMrEWIKwh7KQL-pfGMnFS4mtElWfGln2g")
+genai.configure(api_key="")
 
 # 2. Força a resposta a ser rigorosamente um JSON estruturado
 model = genai.GenerativeModel('gemini-3.1-flash-lite', generation_config={"response_mime_type": "application/json"})
